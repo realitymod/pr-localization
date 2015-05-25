@@ -1,1 +1,1 @@
-*.utxt text diff=astextplain eol=crlf
+*.utxt text diff=astextplain eol=lf
