@@ -8,7 +8,7 @@ HUD_HELP_VEHICLE_CONTROLS_exitVehicle                      Press the '§C1001#
 HUD_HELP_PLAYER_CONTROLS_parachute                         Hit the '§C1001#GIMenuSelect9#§C1001' Key to use the §C1001Parachute§C1001
 HUD_HELP_COMMANDER_commanderApply                          You have Applied to be Commander. You will be receive a response shortly.
 HUD_HELP_SQUAD_squadCreated                                You have created a squad 
-HUD_HELP_SQUAD_squadJoined                                 You have joined a squad 
+HUD_HELP_SQUAD_squadJoined                                 You have joined a squad  
 HUD_HELP_MENU_CONTROLS_callMedicWhenManDown                Call a §C1001Medic§C1001 by pressing the §C1001Left Mouse Button§C1001. Open the §C1001Spawn Screen§C1001 by pressing the §C1001Right Mouse Button§C1001.
 HUD_HELP_MENU_CONTROLS_COMMOROSE_slcommoRoseAvailable      Send §C1001Orders§C1001 to your Squad by holding down the '§C1001#GITacticalComm#§C1001' Key, selecting with the §C1001Mouse§C1001 and clicking the §C1001Left Mouse Button§C1001
 HUD_HELP_MENU_COMMOROSE_slCommoRoseFirstUse                Move, Defend or Attack Orders are placed where your Crosshair is pointing.
