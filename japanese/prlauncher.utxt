@@ -2,115 +2,116 @@
 LAUNCHER_TITLES_LAUNCHER                              Project Reality: BF2 Launcher
 LAUNCHER_TITLES_INITIALSETUP                          Project Reality: BF2 Initial Setup
 LAUNCHER_TITLES_SELECTPROFILE                         プロフィール選択
-LAUNCHER_TITLES_MANAGEPROFILES                        Manage Profiles
-LAUNCHER_TITLES_LAUNCHING                             Launching Project Reality: BF2
-LAUNCHER_TITLES_CLEANING                              Closing Project Reality: BF2
-LAUNCHER_TITLES_UPDATEDOWNLOAD                        Downloading Updates
+LAUNCHER_TITLES_MANAGEPROFILES                        プロフィール管理
+LAUNCHER_TITLES_LAUNCHING                             Project Reality: BF2の起動中
+LAUNCHER_TITLES_CLEANING                              Project Reality: BF2を閉じます
+LAUNCHER_TITLES_UPDATEDOWNLOAD                        更新内容のダウンロード中
 LAUNCHER_TITLES_CREATEPROFILE                         Create Project Reality: BF2 Profile
-LAUNCHER_TITLES_TERMS                                 Accept Terms
-LAUNCHER_TITLES_CREATEACCOUNT                         Create Account
-LAUNCHER_TITLES_RETRIEVEACCOUNT                       Retrieve Account
-LAUNCHER_TITLES_IMPORTBF2PROFILE                      Import Battlefield 2 Profile
+LAUNCHER_TITLES_TERMS                                 開始日
+LAUNCHER_TITLES_CREATEACCOUNT                         アカウントの作成
+LAUNCHER_TITLES_RETRIEVEACCOUNT                       アカウントの検索
+LAUNCHER_TITLES_IMPORTBF2PROFILE                      BATTLEFIELD2のプロフィールをインポート
 LAUNCHER_TITLES_PROFILECOMPLETE                       Project Reality: BF2 Profile Complete
-LAUNCHER_TITLES_OPTIONS                               Project Reality: BF2 Options
-LAUNCHER_TITLES_SUPPORT                               Project Reality: BF2 Support
-LAUNCHER_TITLES_CHANGECDKEY                           Change CD Key
-UPDATER_TITLES_UPDATER                                Project Reality: BF2 Updater
+LAUNCHER_TITLES_OPTIONS                               Project Reality: BF2 設定
+LAUNCHER_TITLES_SUPPORT                               Project Reality: BF2 サポート
+LAUNCHER_TITLES_CHANGECDKEY                           シリアルキーの変更
+UPDATER_TITLES_UPDATER                                Project Reality: BF2 アップデーター
 UPDATER_TITLES_ACCEPTLICENSE                          Accept License
-LAUNCHER_MAIN_BUTTON_PLAY                             PLAY
-LAUNCHER_MAIN_BUTTON_GUIDE                            MANUAL
-LAUNCHER_MAIN_BUTTON_OPTIONS                          OPTIONS
-LAUNCHER_MAIN_BUTTON_SUPPORT                          SUPPORT
-LAUNCHER_MAIN_BUTTON_CREDITS                          CREDITS
-LAUNCHER_MAIN_BUTTON_DONATE                           DONATE
-LAUNCHER_MAIN_BUTTON_EXIT                             EXIT
-LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_LAUNCHNORMAL        Launch
+LAUNCHER_MAIN_BUTTON_PLAY                             プレイ
+LAUNCHER_MAIN_BUTTON_GUIDE                            説明書(PDF)
+LAUNCHER_MAIN_BUTTON_OPTIONS                          設定
+LAUNCHER_MAIN_BUTTON_SUPPORT                          サポート
+LAUNCHER_MAIN_BUTTON_CREDITS                          クレジット
+LAUNCHER_MAIN_BUTTON_DONATE                           寄付
+LAUNCHER_MAIN_BUTTON_EXIT                             終了
+LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_LAUNCHNORMAL        起動
 LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_LAUNCHDEBUGGER      Launch Debugger
 LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_LAUNCHNOMUMBLE      Launch Without PR Mumble
-LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_CHECKUPDATES        Check for Updates
-LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_SELECTPROFILE       Select Profile
-LAUNCHER_MAIN_NEWS_LOADING                            Loading news...
-LAUNCHER_MAIN_NEWS_ERROR                              Error loading news...
-LAUNCHER_MAIN_SOCIAL_FACEBOOK                         Find us on Facebook
-LAUNCHER_MAIN_SOCIAL_TWITTER                          Follow us on Twitter
-LAUNCHER_MAIN_SOCIAL_YOUTUBE                          Subscribe to us on Youtube
-LAUNCHER_MAIN_SOCIAL_IRC                              Chat with us on IRC
-LAUNCHER_MAIN_SOCIAL_FORUMS                           Visit the official forums
-LAUNCHER_MAIN_CREDITS_BACK                            BACK
+LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_CHECKUPDATES        アップデートチェック
+LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_SELECTPROFILE       プロフィール選択
+LAUNCHER_MAIN_NEWS_LOADING                            最新ニュースのロード中
+LAUNCHER_MAIN_NEWS_ERROR                              エラーニュースのロード中
+LAUNCHER_MAIN_SOCIAL_FACEBOOK                         Facebook いいね！
+LAUNCHER_MAIN_SOCIAL_TWITTER                          @realitymodをフォロー
+LAUNCHER_MAIN_SOCIAL_YOUTUBE                          Youtubeチャンネル
+LAUNCHER_MAIN_SOCIAL_IRC                              IRCでチャットを行う
+LAUNCHER_MAIN_SOCIAL_FORUMS                           公式フォーラムへ接続
+LAUNCHER_MAIN_CREDITS_BACK                            戻る
 LAUNCHER_MESSAGEBOX_OK                                OK
-LAUNCHER_MESSAGEBOX_CANCEL                            Cancel
-LAUNCHER_MESSAGEBOX_YES                               Yes
-LAUNCHER_MESSAGEBOX_NO                                No
-LAUNCHER_MESSAGEBOX_SKIP                              Skip
-LAUNCHER_MESSAGEBOX_UPDATE                            Update
-LAUNCHER_PROXY_AUTHENTICATION_TITLE                   Proxy Authentication
-LAUNCHER_PROXY_AUTHENTICATION_DESC                    Proxy Authentication Required. Please enter your username and password below.
-LAUNCHER_PROXY_AUTHENTICATION_USERNAME                Username
-LAUNCHER_PROXY_AUTHENTICATION_PASSWORD                Password
-LAUNCHER_PROFILE_PROFILETYPE_ONLINE                   Online
-LAUNCHER_PROFILE_PROFILETYPE_OFFLINE                  Offline
+LAUNCHER_MESSAGEBOX_CANCEL                            キャンセル
+LAUNCHER_MESSAGEBOX_YES                               はい
+LAUNCHER_MESSAGEBOX_NO                                いいえ
+LAUNCHER_MESSAGEBOX_SKIP                              スキップ
+LAUNCHER_MESSAGEBOX_UPDATE                            アップデート
+LAUNCHER_PROXY_AUTHENTICATION_TITLE                   プロキシの認証が必要です
+LAUNCHER_PROXY_AUTHENTICATION_DESC                    プロキシの認証が必要です。ユーザ名とパスワードを下に入力してください
+LAUNCHER_PROXY_AUTHENTICATION_USERNAME                ユーザ名
+LAUNCHER_PROXY_AUTHENTICATION_PASSWORD                パスワード
+LAUNCHER_PROFILE_PROFILETYPE_ONLINE                   オンライ
+LAUNCHER_PROFILE_PROFILETYPE_OFFLINE                  オフライン
 LAUNCHER_PROFILE_LAUNCHTYPE_NORMAL                    PR:BF2
-LAUNCHER_PROFILE_LAUNCHTYPE_DEBUGGER                  Debug
-LAUNCHER_INITIALSETUP_CONFIRMEXIT                     Are you sure you want to cancel the initial setup wizard?
-LAUNCHER_INITIALSETUP_CONFIRMEXIT_HEADER              Confirm exit
-LAUNCHER_INITIALSETUP_NEWPROFILE_DESC1                Please select one of the following options to create a new Project Reality: BF2 profile.
-LAUNCHER_INITIALSETUP_NEWPROFILE_DESC2                Note: GameSpy is used to handle Project Reality: BF2 profiles. If you already have a GameSpy account, you can retrieve that account for use in your profile.
-LAUNCHER_INITIALSETUP_NEWPROFILE_CREATE               Create New Account
-LAUNCHER_INITIALSETUP_NEWPROFILE_RETRIEVE             Retrieve Existing Account
-LAUNCHER_INITIALSETUP_NEWPROFILE_IMPORT               Import Existing Battlefield 2 Profile
-LAUNCHER_INITIALSETUP_NEWPROFILE_GAMESPYTM            GameSpy and the "Powered by GameSpy" design are trademarks of GameSpy Industries, Inc.  All rights reserved.
-LAUNCHER_INITIALSETUP_TERMS_TERMS1                    By clicking "Accept", you will register with GameSpy and you are sending account data directly to GameSpy. You agree that the use of your account data is subject to the IGN Entertainment, Inc. Privacy Policy and the IGN Entertainment, Inc. User Agreement. You also acknowledge that IGN will share your information with EA so that EA may operate the service you have elected to receive. Gameplay is also subject to the EA Terms of Service.
-LAUNCHER_INITIALSETUP_TERMS_TERMS2                    If you do not agree to these terms, press "Decline".
-LAUNCHER_INITIALSETUP_TERMS_TERMS3                    Note: Offline accounts are not registered with GameSpy and are not subject to these terms and conditions.
-LAUNCHER_INITIALSETUP_TERMS_EATERMS                   EA Terms of Service
-LAUNCHER_INITIALSETUP_TERMS_IGNPRIVACY                IGN Privacy Policy
-LAUNCHER_INITIALSETUP_TERMS_IGNAGREEMENT              IGN User Agreement
-LAUNCHER_INITIALSETUP_TERMS_ACCEPT                    Accept
-LAUNCHER_INITIALSETUP_TERMS_DECLINE                   Decline
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_DESC              Please select the type of account you wish to create, fill out the required details, and press "Create" to continue. Press "Back" to return to the previous page.
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_ONLINETAB         Online Account
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_OFFLINETAB        Offline Account
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEONLINE        Account Name (In-game Name)
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEOFFLINE       In-game Name
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_EMAIL             Email Address
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_PASSWORD          Password
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_CONFIRMPASS       Confirm Password
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_REMEMBERPASS      Remember Password
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_CREATE            Create
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_BACK              Back
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_DESC            Please select the method you by which you wish to retrieve your existing profile, fill out the required details, and press "Retrieve" to continue. Press "Back" to return to the previous page.
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAILTAB        Retrieve Via Email
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAMETAB     Retrieve Via Username
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAIL           Email Address
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAME        Account Name (In-game Name)
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_PASSWORD        Password
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_SELECTPROFILE   Please select the profile you wish to retrieve, and press "Retrieve" again to confirm profile retrieval.
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_RETRIEVE        Retrieve
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_BACK            Back
-LAUNCHER_INITIALSETUP_IMPORTBF2_DESC                  Please select your existing Battlefield 2 profile to import and press "Import", or press "Back" to return to the previous page.
-LAUNCHER_INITIALSETUP_IMPORTBF2_DESCNOPR              No existing Project Reality: BF2 profiles have been found. Please select your existing Battlefield 2 profile to import and press "Import", or press "Back" to create or retrieve an account.
-LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILETYPE           Profile Type
-LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILENAME           Profile Name
-LAUNCHER_INITIALSETUP_IMPORTBF2_IMPORT                Import
-LAUNCHER_INITIALSETUP_IMPORTBF2_BACK                  Back
-LAUNCHER_INITIALSETUP_FINISHED_DESCSINGLE             Your Project Reality: BF2 profile has been successfully created. You are now ready to play! Before you do however, please take some time to read the following short message from the Project Reality Team, then press "Finish" to continue.
-LAUNCHER_INITIALSETUP_FINISHED_DESCMULTI              Your Project Reality: BF2 profiles have been successfully created. You are now ready to play! Before you do however, please take some time to read the following short message from the Project Reality Team, then press "Finish" to continue.
-LAUNCHER_INITIALSETUP_FINISHED_HEADER1                Having technical issues?
-LAUNCHER_INITIALSETUP_FINISHED_TEXT1                  If you have any issues with being able to play, such as game crashes, possible bugs, or some other technical issue, please check out the "Support" section in the Project Reality: BF2 Launcher.
-LAUNCHER_INITIALSETUP_FINISHED_HEADER2                Have gameplay questions?
+LAUNCHER_PROFILE_LAUNCHTYPE_DEBUGGER                  デバッグ
+LAUNCHER_INITIALSETUP_CONFIRMEXIT                     セットアップウィザードを中止しますか？
+LAUNCHER_INITIALSETUP_CONFIRMEXIT_HEADER              確認完了
+LAUNCHER_INITIALSETUP_NEWPROFILE_DESC1                新たにProject Realityを開始するには次よりプロフィールを選択してください: BF2プロフィール
+LAUNCHER_INITIALSETUP_NEWPROFILE_DESC2                注: GameSpyはProject Reality: BF2をプレイするのために使用されます。すでにGameSpyアカウントがあればプロフィールを検索することができます
+LAUNCHER_INITIALSETUP_NEWPROFILE_CREATE               新しいプロフィールの作成
+LAUNCHER_INITIALSETUP_NEWPROFILE_RETRIEVE             既存のGameSpyアカウントを検索します
+LAUNCHER_INITIALSETUP_NEWPROFILE_IMPORT               BATTLEFIELD 2プロフィールのインポート
+LAUNCHER_INITIALSETUP_NEWPROFILE_GAMESPYTM            GameSpyはGameSpy Industries, Inc.の商標登録です
+LAUNCHER_INITIALSETUP_TERMS_TERMS1                    [了承]をクリックすることでGamespyへ登録します。また、その際にアカウントデータの使用法、個人情報保護方針、ユーザー協定はIGN Entertainment, Inc. に従うことに合意します。さらにEAとIGN間の情報共有に合意し、ゲームプレイはEA利
+用規約に従います
+LAUNCHER_INITIALSETUP_TERMS_TERMS2                    これらの条件に同意しない場合は[拒否]を押してください
+LAUNCHER_INITIALSETUP_TERMS_TERMS3                    注:オフライン・アカウントはGameSpyで登録されず、これらの条件に従いません
+LAUNCHER_INITIALSETUP_TERMS_EATERMS                   EA利用規約
+LAUNCHER_INITIALSETUP_TERMS_IGNPRIVACY                IGN個人情報保護方針
+LAUNCHER_INITIALSETUP_TERMS_IGNAGREEMENT              IGNユーザー協定
+LAUNCHER_INITIALSETUP_TERMS_ACCEPT                    了承
+LAUNCHER_INITIALSETUP_TERMS_DECLINE                   拒否
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_DESC              あなたが作成したいアカウントのタイプを選択して、必要な詳細入力し、[作成]を押してください。前の画面に戻るには[戻る]を押してください
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_ONLINETAB         オンラインアカウント
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_OFFLINETAB        オフラインアカウント
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEONLINE        アカウント名 (オンライン用)
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEOFFLINE       アカウント名 (オフライン用)
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_EMAIL             Eメール
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_PASSWORD          パスワード
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_CONFIRMPASS       パスワードの確認
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_REMEMBERPASS      パスワードを記憶
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_CREATE            作成
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_BACK              戻る
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_DESC            検索方法を選択し、必要な詳細を入力後[検索]を押してください。既存のプロフィールを検索します。前の画面に戻るには[戻る]を押してください
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAILTAB        Eメール検索
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAMETAB     ユーザ名検索
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAIL           Eメール
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAME        アカウント名 (ゲーム名)
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_PASSWORD        パスワード
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_SELECTPROFILE   検索したいプロフィールを選択して、プロフィールを確認するために再び[検索]を押してください
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_RETRIEVE        検索
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_BACK            戻る
+LAUNCHER_INITIALSETUP_IMPORTBF2_DESC                  あなたの既存のBATTLEFIELD2プロフィールをインポートするために[取込]を押してください、中断するのには[戻る]を押して前の画面へ戻ってください
+LAUNCHER_INITIALSETUP_IMPORTBF2_DESCNOPR              既存のProjectRealityアカウントはありません。BF2プロフィールは見つかりました。[取込]を押してインポートを行うか、あるいはアカウントを作成するか検索するために[戻る]を押して既存のBATTLEFIELD2プロフィールを選択してください
+LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILETYPE           プロフィールタイプ
+LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILENAME           プロフィール名
+LAUNCHER_INITIALSETUP_IMPORTBF2_IMPORT                取込
+LAUNCHER_INITIALSETUP_IMPORTBF2_BACK                  戻る
+LAUNCHER_INITIALSETUP_FINISHED_DESCSINGLE             ProjectReality用のBF2プロフィールは作成されました。これでゲームの開始をする事が可能になりました。しかし、ゲームを行う前にProjectRealityチームからのメッセージを一度読んでください。その後[終了]を押してください
+LAUNCHER_INITIALSETUP_FINISHED_DESCMULTI              ProjectReality用のBF2プロフィールは作成されました。これでゲームの開始をする事が可能になりました。しかし、ゲームを行う前にProjectRealityチームからのメッセージを一度読んでください。その後[終了]を押してください
+LAUNCHER_INITIALSETUP_FINISHED_HEADER1                技術的な問題がありますか?
+LAUNCHER_INITIALSETUP_FINISHED_TEXT1                  ゲームクラッシュ、バグ、あるいは他のある技術的な問題でゲームプレイ不可能な問題がある場合は、PR Launcherの[サポート]からチェックしてください
+LAUNCHER_INITIALSETUP_FINISHED_HEADER2                ゲームプレイに問題がありますか?
 LAUNCHER_INITIALSETUP_FINISHED_TEXT2                  If you're not quite sure what to do when you first start playing, if you're wondering what the shovel does, or if you have any other gameplay related questions, you should take a look at the Project Reality: BF2 Manual, which can also be found on the launcher.
 LAUNCHER_INITIALSETUP_FINISHED_HEADER3                Any other questions?
 LAUNCHER_INITIALSETUP_FINISHED_TEXT3                  If you didn't find the answer you were looking for, or you just want to share your thoughts on the game, please don't hesitate to contact us through our social media pages or via our forums. The links to these pages can be found at the top left of the launcher.
 LAUNCHER_INITIALSETUP_FINISHED_TEXT4                  Thanks for playing, and we hope you enjoy the game!
 LAUNCHER_INITIALSETUP_FINISHED_TEXT5                  - The Project Reality Team
-LAUNCHER_INITIALSETUP_FINISHED_FINISH                 Finish
-LAUNCHER_SELECTPROFILE_DESC                           Please select the profile you want to use, confirm any passwords and options, then press "Login" to launch Project Reality: BF2.
-LAUNCHER_SELECTPROFILE_PASSWORD                       Password
-LAUNCHER_SELECTPROFILE_PREFIX                         Profile Name Prefix
-LAUNCHER_SELECTPROFILE_REMEMBERPASSWORD               Remember password for the selected profile
-LAUNCHER_SELECTPROFILE_ALWAYSUSEPROFILE               Always use selected profile
-LAUNCHER_SELECTPROFILE_MANAGE                         Manage Profiles
-LAUNCHER_SELECTPROFILE_LOGIN                          Login
+LAUNCHER_INITIALSETUP_FINISHED_FINISH                 完了
+LAUNCHER_SELECTPROFILE_DESC                           使用するプロフィールを選択してください。パスワードと設定を確認してログインボタンを押せばProject Realityが起動します。
+LAUNCHER_SELECTPROFILE_PASSWORD                       パスワード
+LAUNCHER_SELECTPROFILE_PREFIX                         敬称・ネームタグ
+LAUNCHER_SELECTPROFILE_REMEMBERPASSWORD               パスワードを記憶
+LAUNCHER_SELECTPROFILE_ALWAYSUSEPROFILE               常にこのプロフィールを選択する
+LAUNCHER_SELECTPROFILE_MANAGE                         プロフィールの管理
+LAUNCHER_SELECTPROFILE_LOGIN                          ログイン
 LAUNCHER_MANAGEPROFILES_DESC                          To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile".
 LAUNCHER_MANAGEPROFILES_DESCDEBUG                     To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile". Use "Convert Profile" to convert between a Normal and a Debug profile. When converting a profile, the controls will be reset to default. Only Debug profiles can be used with the Project Reality: BF2 Debugger.
 LAUNCHER_MANAGEPROFILES_CONFIRMDELETE                 Are you sure you want to delete this profile? All settings will be lost!
@@ -118,15 +119,15 @@ LAUNCHER_MANAGEPROFILES_CONFIRMDELETEHEADER           Confirm Delete
 LAUNCHER_MANAGEPROFILES_CREATE                        Create Profile
 LAUNCHER_MANAGEPROFILES_DELETE                        Delete Profile
 LAUNCHER_MANAGEPROFILES_CONVERT                       Convert Profile
-LAUNCHER_MANAGEPROFILES_DONE                          Done
-LAUNCHER_LAUNCH_CANCEL                                Cancel
-LAUNCHER_LAUNCH_CANCELLING                            Cancelling...
-LAUNCHER_LAUNCH_LOGIN                                 Connecting to profile...
-LAUNCHER_LAUNCH_UPDATING                              Checking for updates...
-LAUNCHER_LAUNCH_VERIFYFILES                           Verifying client files...
-LAUNCHER_LAUNCH_LAUNCHING                             Launching game...
-LAUNCHER_LAUNCH_CLEANING                              PR:BF2 has closed, cleaning up resources...
-LAUNCHER_LAUNCH_ERROR                                 Launch Error
+LAUNCHER_MANAGEPROFILES_DONE                          決定
+LAUNCHER_LAUNCH_CANCEL                                キャンセル
+LAUNCHER_LAUNCH_CANCELLING                            キャンセル中
+LAUNCHER_LAUNCH_LOGIN                                 アカウントに接続中
+LAUNCHER_LAUNCH_UPDATING                              アップデートを確認中
+LAUNCHER_LAUNCH_VERIFYFILES                           クライアントファイルの確認中
+LAUNCHER_LAUNCH_LAUNCHING                             ゲーム起動中
+LAUNCHER_LAUNCH_CLEANING                              PR:BF2のリソースをクリーンアップ中
+LAUNCHER_LAUNCH_ERROR                                 起動エラー
 LAUNCHER_LAUNCH_WARNING                               Launch Warning
 LAUNCHER_LAUNCH_VERIFICATIONERROR                     File Verification Error
 LAUNCHER_LAUNCH_VERIFICATIONSKIPCONFIRM               If you choose to skip file verification you will not be able to play on public servers. Do you want to skip file verification?
@@ -135,184 +136,186 @@ LAUNCHER_LAUNCH_UPDATEAVAILABLEHEADER                 Update Available
 LAUNCHER_LAUNCH_UPDATEAVAILABLE                       A new update is available to download, do you wish to install this update now?
 
 Note: If you choose to skip the update, you will not be able to play on public servers.
-LAUNCHER_LAUNCH_LATESTVERSIONHEADER                   Running Latest Version
-LAUNCHER_LAUNCH_LATESTVERSION                         You are currently running the latest version of Project Reality: BF2
-LAUNCHER_UPDATEDOWNLOAD_ERROR                         Download Error
-LAUNCHER_UPDATEDOWNLOAD_NAME                          Name:
-LAUNCHER_UPDATEDOWNLOAD_CHANGELOG                     Changelog
-LAUNCHER_UPDATEDOWNLOAD_TIMEREMAINING                 Time remaining:
-LAUNCHER_UPDATEDOWNLOAD_DOWNLOADED                    Downloaded:
-LAUNCHER_UPDATEDOWNLOAD_UPDATESREMAINING              Updates remaining:
-LAUNCHER_UPDATEDOWNLOAD_CONTENTHOSTING                Content hosting provided by:
-LAUNCHER_UPDATEDOWNLOAD_PROGRESSCOMPLETE              {0}% Complete
+LAUNCHER_LAUNCH_LATESTVERSIONHEADER                   更新はありません
+LAUNCHER_LAUNCH_LATESTVERSION                         最新のProject Reality: BF2がインストールされています
+LAUNCHER_UPDATEDOWNLOAD_ERROR                         ダウンロードエラー
+LAUNCHER_UPDATEDOWNLOAD_NAME                          名前:
+LAUNCHER_UPDATEDOWNLOAD_CHANGELOG                     更新内容
+LAUNCHER_UPDATEDOWNLOAD_TIMEREMAINING                 残り時間:
+LAUNCHER_UPDATEDOWNLOAD_DOWNLOADED                    ダウンロード:
+LAUNCHER_UPDATEDOWNLOAD_UPDATESREMAINING              アップデート:
+LAUNCHER_UPDATEDOWNLOAD_CONTENTHOSTING                適用中:
+LAUNCHER_UPDATEDOWNLOAD_PROGRESSCOMPLETE              {0}% 完了
 LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCEL                 Are you sure you want to cancel? Any unfinished downloads will be lost.
-LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCELHEADER           Confirm Cancellation
+LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCELHEADER           確認
 LAUNCHER_UPDATEDOWNLOAD_STATUS_GETINFO                Getting update information...
 LAUNCHER_UPDATEDOWNLOAD_STATUS_CONNECTING             Connecting to server...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_DOWNLOADING            Downloading...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_CANCELLING             Cancelling...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSING                Pausing...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSED                 Download paused
+LAUNCHER_UPDATEDOWNLOAD_STATUS_DOWNLOADING            ダウンロード中
+LAUNCHER_UPDATEDOWNLOAD_STATUS_CANCELLING             キャンセルを行います
+LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSING                一時停止を行います
+LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSED                 ダウンロード一時停止
 LAUNCHER_UPDATEDOWNLOAD_STATUS_VALIDATING             Validating file...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_COMPLETE               Complete
-LAUNCHER_UPDATEDOWNLOAD_TIME_ABOUT                    About
+LAUNCHER_UPDATEDOWNLOAD_STATUS_COMPLETE               完了
+LAUNCHER_UPDATEDOWNLOAD_TIME_ABOUT                    約
 LAUNCHER_UPDATEDOWNLOAD_TIME_CALCULATING              Calculating...
 LAUNCHER_UPDATEDOWNLOAD_TIME_CANNOTCALCULATE          N/A
 LAUNCHER_UPDATEDOWNLOAD_TIME_IMMINENT                 A few seconds...
-LAUNCHER_UPDATEDOWNLOAD_TIME_SECONDS                  seconds
-LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTE                   minute
-LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTES                  minutes
-LAUNCHER_UPDATEDOWNLOAD_TIME_HOUR                     hour
-LAUNCHER_UPDATEDOWNLOAD_TIME_HOURS                    hours
-LAUNCHER_UPDATEDOWNLOAD_TIME_DAY                      day
-LAUNCHER_UPDATEDOWNLOAD_TIME_DAYS                     days
+LAUNCHER_UPDATEDOWNLOAD_TIME_SECONDS                  秒
+LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTE                   分
+LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTES                  分
+LAUNCHER_UPDATEDOWNLOAD_TIME_HOUR                     時間
+LAUNCHER_UPDATEDOWNLOAD_TIME_HOURS                    時間
+LAUNCHER_UPDATEDOWNLOAD_TIME_DAY                      日
+LAUNCHER_UPDATEDOWNLOAD_TIME_DAYS                     日
 LAUNCHER_UPDATEDOWNLOAD_TIME_MORE                     More than
-LAUNCHER_UPDATESUCCESS                                Successfully updated to v{0}
-LAUNCHER_UPDATESUCCESS_CHANGELOG                      View the changelog
-LAUNCHER_UPDATESUCCESS_HEADER                         Update Success
-LAUNCHER_OPTIONS_APPLY                                Apply
-LAUNCHER_OPTIONS_CLOSE                                Close
-LAUNCHER_OPTIONS_RESETPROFILES                        Reset All Profiles
+LAUNCHER_UPDATESUCCESS                                v{0}へのアップデート完了
+LAUNCHER_UPDATESUCCESS_CHANGELOG                      変更内容の確認
+LAUNCHER_UPDATESUCCESS_HEADER                         アップデート成功
+LAUNCHER_OPTIONS_APPLY                                適用
+LAUNCHER_OPTIONS_CLOSE                                閉じる
+LAUNCHER_OPTIONS_RESETPROFILES                        初期化
 LAUNCHER_OPTIONS_RESETPROFILES_CONFIRM                Are you sure you want to reset all profiles back to their default settings?
 LAUNCHER_OPTIONS_RESETPROFILES_CONFIRMHEADER          Confirm Reset
-LAUNCHER_OPTIONS_SELECTEDPROFILE                      Selected Profile:
-LAUNCHER_OPTIONS_BASICSETTINGS                        Basic Settings
-LAUNCHER_OPTIONS_ADVANCEDSETTINGS                     Advanced Settings
-LAUNCHER_OPTIONS_BROWSE                               Browse
-LAUNCHER_OPTIONS_BROWSETITLE                          Browse Directory
-LAUNCHER_OPTIONS_SETTINGSSAVED                        Settings Saved
-LAUNCHER_OPTIONS_TAB_VIDEO                            Video
-LAUNCHER_OPTIONS_TAB_GRAPHICS                         Graphics
-LAUNCHER_OPTIONS_TAB_AUDIO                            Audio
-LAUNCHER_OPTIONS_TAB_GLOBAL                           Global
+LAUNCHER_OPTIONS_SELECTEDPROFILE                      プロフィール選択:
+LAUNCHER_OPTIONS_BASICSETTINGS                        初期設定
+LAUNCHER_OPTIONS_ADVANCEDSETTINGS                     高度な設定
+LAUNCHER_OPTIONS_BROWSE                               参照
+LAUNCHER_OPTIONS_BROWSETITLE                          フォルダ参照
+LAUNCHER_OPTIONS_SETTINGSSAVED                        設定の保存
+LAUNCHER_OPTIONS_TAB_VIDEO                            画面
+LAUNCHER_OPTIONS_TAB_GRAPHICS                         グラフィック
+LAUNCHER_OPTIONS_TAB_AUDIO                            オーディオ
+LAUNCHER_OPTIONS_TAB_GLOBAL                           グローバル
 LAUNCHER_OPTIONS_TAB_PRMUMBLE                         PR Mumble
 LAUNCHER_OPTIONS_PROMPT_SAVESETTINGS                  Do you want to save the changed settings before you continue?
-LAUNCHER_OPTIONS_PROMPT_SAVESETTINGSHEADER            Save Settings
-LAUNCHER_OPTIONS_VIDEO_RESOLUTION                     Display Mode
-LAUNCHER_OPTIONS_VIDEO_GRAPHICSSCHEME                 Graphics Quality
-LAUNCHER_OPTIONS_VIDEO_MULTISAMPLING                  Anti-Aliasing
-LAUNCHER_OPTIONS_VIDEO_FULLSCREEN                     Fullscreen
-LAUNCHER_OPTIONS_VIDEO_VSYNC                          VSync
-LAUNCHER_OPTIONS_VIDEO_CUSTOMRES                      Custom Resolution:
-LAUNCHER_OPTIONS_VIDEO_CUSTOMRESHORIZONTAL            Horizontal
-LAUNCHER_OPTIONS_VIDEO_CUSTOMRESVERTICAL              Vertical
-LAUNCHER_OPTIONS_VIDEO_CUSTOMPOS                      Custom Position:
-LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSHORIZONTAL            Horizontal
-LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSVERTICAL              Vertical
-LAUNCHER_OPTIONS_VIDEO_VIEWDISTANCE                   View Distance Scale
-LAUNCHER_OPTIONS_GRAPHICS_TERRAIN                     Terrain Quality
-LAUNCHER_OPTIONS_GRAPHICS_EFFECTS                     Effects Quality
-LAUNCHER_OPTIONS_GRAPHICS_GEOMETRY                    Geometry Quality
-LAUNCHER_OPTIONS_GRAPHICS_TEXTURE                     Texture Quality
-LAUNCHER_OPTIONS_GRAPHICS_LIGHTING                    Lighting Quality
-LAUNCHER_OPTIONS_GRAPHICS_DYNAMICSHADOWS              Dynamic Shadows
-LAUNCHER_OPTIONS_GRAPHICS_DYNAMICLIGHT                Dynamic Light
-LAUNCHER_OPTIONS_GRAPHICS_TEXTUREFILTERING            Texture Filtering
-LAUNCHER_OPTIONS_AUDIO_PROVIDER                       Provider
-LAUNCHER_OPTIONS_AUDIO_QUALITY                        Quality
-LAUNCHER_OPTIONS_AUDIO_EAXENABLED                     EAX
-LAUNCHER_OPTIONS_AUDIO_TRANSMITBEEP                   Squad Radio Transmit Audio Cue
-LAUNCHER_OPTIONS_AUDIO_RECEIVEBEEP                    Squad Radio Receive Audio Cue
-LAUNCHER_OPTIONS_AUDIO_OFFICERTRANSMITBEEP            Officer Radio Transmit Audio Cue
-LAUNCHER_OPTIONS_AUDIO_OFFICERRECEIVEBEEP             Officer Radio Receive Audio Cue
-LAUNCHER_OPTIONS_AUDIO_BEEPVOLUME                     Audio Cue Volume
-LAUNCHER_OPTIONS_GLOBAL_LANGUAGE                      Language
-LAUNCHER_OPTIONS_GLOBAL_VIEWINTROMOVIES               View Intro Movies
-LAUNCHER_OPTIONS_GLOBAL_ENABLERCONCOMMANDS            Enable Local RCON Commands
-LAUNCHER_OPTIONS_GLOBAL_CLEARSERVERSLAUNCH            Clear Server Favorites/History on Launch
-LAUNCHER_OPTIONS_GLOBAL_UPDATEDOWNLOADDIRECTORY       Update Download Location
-LAUNCHER_OPTIONS_GLOBAL_UPDATELOGDIRECTORY            Update Log Location
-LAUNCHER_OPTIONS_GLOBAL_UPDATEKEEPFILES               Keep Update Files
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHHEADER                Launch Project Reality Mumble
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHDESC                  To configure advanced options, please launch PR Mumble and configure the settings via "Configure -> Settings". After configuration, please close PR Mumble to continue. Shortcuts can be configured below without needing to launch PR Mumble.
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCH                      Launch
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSEHEADER           Close PR Mumble
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSE                 Please close Project Reality Mumble before continuing.
-LAUNCHER_OPTIONS_PRMUMBLE_KEYBINDS                    Shortcuts
-LAUNCHER_OPTIONS_PRMUMBLE_LOCAL                       Local Speech
-LAUNCHER_OPTIONS_PRMUMBLE_LOCAL_ALT                   Local Speech Alt
-LAUNCHER_OPTIONS_PRMUMBLE_SQUAD                       Squad Radio
-LAUNCHER_OPTIONS_PRMUMBLE_SQUAD_ALT                   Squad Radio Alt
-LAUNCHER_OPTIONS_PRMUMBLE_SLALL                       All Squad Leaders
-LAUNCHER_OPTIONS_PRMUMBLE_COMMANDER                   Commander
-LAUNCHER_OPTIONS_PRMUMBLE_SL1                         Squad Leader 1
-LAUNCHER_OPTIONS_PRMUMBLE_SL2                         Squad Leader 2
-LAUNCHER_OPTIONS_PRMUMBLE_SL3                         Squad Leader 3
-LAUNCHER_OPTIONS_PRMUMBLE_SL4                         Squad Leader 4
-LAUNCHER_OPTIONS_PRMUMBLE_SL5                         Squad Leader 5
-LAUNCHER_OPTIONS_PRMUMBLE_SL6                         Squad Leader 6
-LAUNCHER_OPTIONS_PRMUMBLE_SL7                         Squad Leader 7
-LAUNCHER_OPTIONS_PRMUMBLE_SL8                         Squad Leader 8
-LAUNCHER_OPTIONS_PRMUMBLE_SL9                         Squad Leader 9
-LAUNCHER_OPTIONS_PRMUMBLE_MUTE                        Mute Microphone
-LAUNCHER_OPTIONS_PRMUMBLE_DEAFEN                      Mute Speakers
-LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEUP                    Volume Up (10%)
-LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEDOWN                  Volume Down (10%)
-LAUNCHER_OPTIONS_PRMUMBLE_SETBUTTONS                  Press Shortcut(s)
-LAUNCHER_SUPPORT_SUPPORTFORUM                         Support Forum
-LAUNCHER_SUPPORT_CLIPBOARD                            Saved To Clipboard
-LAUNCHER_SUPPORT_COPYTOCLIPBOARD                      Copy To Clipboard
-LAUNCHER_SUPPORT_CLOSE                                Close
-LAUNCHER_SUPPORT_TAB_SUPPORTINFO                      Support Info
-LAUNCHER_SUPPORT_TAB_KEYS                             Keys
-LAUNCHER_SUPPORT_TAB_UTILITIES                        Utilities
-LAUNCHER_SUPPORT_KEYS_CDKEY                           CD Key
-LAUNCHER_SUPPORT_KEYS_CDKEYCHANGE                     Change Key
+LAUNCHER_OPTIONS_PROMPT_SAVESETTINGSHEADER            設定の保存
+LAUNCHER_OPTIONS_VIDEO_RESOLUTION                     ディスプレイモード
+LAUNCHER_OPTIONS_VIDEO_GRAPHICSSCHEME                 グラフィックの設定
+LAUNCHER_OPTIONS_VIDEO_MULTISAMPLING                  アンチエイリアス処理
+LAUNCHER_OPTIONS_VIDEO_FULLSCREEN                     フルスクリーン
+LAUNCHER_OPTIONS_VIDEO_VSYNC                          垂直同期
+LAUNCHER_OPTIONS_VIDEO_CUSTOMRES                      解像度:
+LAUNCHER_OPTIONS_VIDEO_CUSTOMRESHORIZONTAL            横
+LAUNCHER_OPTIONS_VIDEO_CUSTOMRESVERTICAL              縦
+LAUNCHER_OPTIONS_VIDEO_CUSTOMPOS                      画面位置:
+LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSHORIZONTAL            横
+LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSVERTICAL              縦
+LAUNCHER_OPTIONS_VIDEO_VIEWDISTANCE                   視界範囲
+LAUNCHER_OPTIONS_GRAPHICS_TERRAIN                     地形設定
+LAUNCHER_OPTIONS_GRAPHICS_EFFECTS                     エフェクト設定
+LAUNCHER_OPTIONS_GRAPHICS_GEOMETRY                    ジオメトリ設定
+LAUNCHER_OPTIONS_GRAPHICS_TEXTURE                     テクスチャ設定
+LAUNCHER_OPTIONS_GRAPHICS_LIGHTING                    ライティング設定
+LAUNCHER_OPTIONS_GRAPHICS_DYNAMICSHADOWS              ダイナミックシャドウ
+LAUNCHER_OPTIONS_GRAPHICS_DYNAMICLIGHT                ダイナミックライト
+LAUNCHER_OPTIONS_GRAPHICS_TEXTUREFILTERING            フィルタリング
+LAUNCHER_OPTIONS_AUDIO_PROVIDER                       オーディオレンダー
+LAUNCHER_OPTIONS_AUDIO_QUALITY                        サウンドクオリティ
+LAUNCHER_OPTIONS_AUDIO_EAXENABLED                     EAX有効
+LAUNCHER_OPTIONS_AUDIO_TRANSMITBEEP                   分隊内通話の送信合図
+LAUNCHER_OPTIONS_AUDIO_RECEIVEBEEP                    分隊内通話の受信合図
+LAUNCHER_OPTIONS_AUDIO_OFFICERTRANSMITBEEP            分隊間通話の送信合図
+LAUNCHER_OPTIONS_AUDIO_OFFICERRECEIVEBEEP             分隊間通話の受信合図
+LAUNCHER_OPTIONS_AUDIO_BEEPVOLUME                     送受信合図の音量
+LAUNCHER_OPTIONS_GLOBAL_LANGUAGE                      言語
+LAUNCHER_OPTIONS_GLOBAL_VIEWINTROMOVIES               オープニングの再生
+LAUNCHER_OPTIONS_GLOBAL_ENABLERCONCOMMANDS            ローカルでRCONのコマンドを使用
+LAUNCHER_OPTIONS_GLOBAL_CLEARSERVERSLAUNCH            お気に入りサーバーリストの削除
+LAUNCHER_OPTIONS_GLOBAL_UPDATEDOWNLOADDIRECTORY       アップデートのダウンロード先
+LAUNCHER_OPTIONS_GLOBAL_UPDATELOGDIRECTORY            アップデートログのダウンロード先
+LAUNCHER_OPTIONS_GLOBAL_UPDATEKEEPFILES               アップデートファイルを保持する
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHHEADER                Project Reality Mumbleの起動
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHDESC                  高度な設定を行うには右側の起動ボタンを押して設定を行ってください。設定後Project Reality Mumbleを終了してください。下部でも簡易設定が行えます。
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCH                      起動
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSEHEADER           PR Mumbleを閉じる
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSE                 継続するにはPR Mumbleを閉じてください
+LAUNCHER_OPTIONS_PRMUMBLE_KEYBINDS                    ショートカット
+LAUNCHER_OPTIONS_PRMUMBLE_LOCAL                       ローカル通話
+LAUNCHER_OPTIONS_PRMUMBLE_LOCAL_ALT                   ローカル通話 2
+LAUNCHER_OPTIONS_PRMUMBLE_SQUAD                       分隊内通話
+LAUNCHER_OPTIONS_PRMUMBLE_SQUAD_ALT                   分隊内通話 2
+LAUNCHER_OPTIONS_PRMUMBLE_SLALL                       分隊長間
+LAUNCHER_OPTIONS_PRMUMBLE_COMMANDER                   司令官
+LAUNCHER_OPTIONS_PRMUMBLE_SL1                         分隊 1
+LAUNCHER_OPTIONS_PRMUMBLE_SL2                         分隊 2
+LAUNCHER_OPTIONS_PRMUMBLE_SL3                         分隊 3
+LAUNCHER_OPTIONS_PRMUMBLE_SL4                         分隊 4
+LAUNCHER_OPTIONS_PRMUMBLE_SL5                         分隊 5
+LAUNCHER_OPTIONS_PRMUMBLE_SL6                         分隊 6
+LAUNCHER_OPTIONS_PRMUMBLE_SL7                         分隊 7
+LAUNCHER_OPTIONS_PRMUMBLE_SL8                         分隊 8
+LAUNCHER_OPTIONS_PRMUMBLE_SL9                         分隊 9
+LAUNCHER_OPTIONS_PRMUMBLE_MUTE                        マイクミュート
+LAUNCHER_OPTIONS_PRMUMBLE_DEAFEN                      スピーカーミュート
+LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEUP                    ボリュームアップ (10%)
+LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEDOWN                  ボリュームダウン (10%)
+LAUNCHER_OPTIONS_PRMUMBLE_SETBUTTONS                  ショートカットキー
+LAUNCHER_SUPPORT_SUPPORTFORUM                         公式サポート
+LAUNCHER_SUPPORT_CLIPBOARD                            クリップボードの保存
+LAUNCHER_SUPPORT_COPYTOCLIPBOARD                      クリップボードへコピー
+LAUNCHER_SUPPORT_CLOSE                                閉じる
+LAUNCHER_SUPPORT_TAB_SUPPORTINFO                      サポート情報
+LAUNCHER_SUPPORT_TAB_KEYS                             キー
+LAUNCHER_SUPPORT_TAB_UTILITIES                        ユーティリティ
+LAUNCHER_SUPPORT_KEYS_CDKEY                           シリアルキー
+LAUNCHER_SUPPORT_KEYS_CDKEYCHANGE                     シリアルの変更
 LAUNCHER_SUPPORT_KEYS_CDKEYVALID                      CD Key Valid
 LAUNCHER_SUPPORT_KEYS_CDKEYVALIDERROR                 Error validating CD Key...
-LAUNCHER_SUPPORT_KEYS_CDKEYHASH                       CD Key Hash
-LAUNCHER_SUPPORT_KEYS_PBGUID                          PB Guid
-LAUNCHER_SUPPORT_UTILITIES_PERFORMTASK                Perform Task
-LAUNCHER_SUPPORT_UTILITIES_CLEARSHADERSHEADER         Clear Shader Cache
-LAUNCHER_SUPPORT_UTILITIES_CLEARSHADERSDESC           The shader cache contains compiled shaders optimized for your graphics card and settings. Clearing the cache is recommended whenever you change your graphics card, drivers, or ingame graphics quality settings, or if you are experiencing graphics issues ingame.
-LAUNCHER_SUPPORT_UTILITIES_CLEARFAVORITESHEADER       Clear Server Favorites
-LAUNCHER_SUPPORT_UTILITIES_CLEARFAVORITESDESC         While ingame, you can choose to add servers to your favorites list. However, the favorites list will not update as servers change settings or go offline. When you launch the game, favorite servers are queried, which can heavily increase launch time. Clear the server favorites list if launching the game takes a long time.
-LAUNCHER_SUPPORT_UTILITIES_CLEARHISTORYHEADER         Clear Server History
-LAUNCHER_SUPPORT_UTILITIES_CLEARHISTORYDESC           When you join a server, the game stores a history of any joined server. Like server favorites, having lots of servers can heavily increase the time it takes to launch the game. Clearing the server history list will help to improve game launch time.
-LAUNCHER_SUPPORT_UTILITIES_CLEARLOGOCACHEHEADER       Clear Server Logo Cache
-LAUNCHER_SUPPORT_UTILITIES_CLEARLOGOCACHEDESC         Each server has their own logo image representing their server. This image is stored on your computer to save re-downloading the image. Clearing the logo cache forces images to be re-downloaded.
-LAUNCHER_SUPPORT_UTILITIES_UPDATEPBHEADER             Update Punkbuster
-LAUNCHER_SUPPORT_UTILITIES_UPDATEPBDESC               Punkbuster handles anti-cheat in Battlefield 2. Keeping your Punkbuster installation up to date can help to resolve issues when joining Punkbuster enabled servers.
-LAUNCHER_SUPPORT_UTILITIES_ERRORHEADER                Error
-LAUNCHER_SUPPORT_UTILITIES_ERROR                      Error performing task.
-LAUNCHER_SUPPORT_UTILITIES_SUCCESSHEADER              Success
-LAUNCHER_SUPPORT_UTILITIES_SUCCESS                    Task performed successfully.
-LAUNCHER_CHANGECDKEY_DESC                             Please enter your CD Key (dashes will be automatically inserted)
+LAUNCHER_SUPPORT_KEYS_CDKEYHASH                       CDキー:ハッシュ
+LAUNCHER_SUPPORT_KEYS_PBGUID                          PBガイド
+LAUNCHER_SUPPORT_UTILITIES_PERFORMTASK                実行
+LAUNCHER_SUPPORT_UTILITIES_CLEARSHADERSHEADER         シェーダーのキャッシュを削除
+LAUNCHER_SUPPORT_UTILITIES_CLEARSHADERSDESC           使用しているグラフィックボードの描写情報を保持しています。グラフィックボードの交換、ドライバの更新、またゲームのビデオ設定の更新の際にはこれを削除することを推奨します。また、ゲームでオブジェクト類が黒くなる現象、分隊長が
+マップ上で表示されない場合にも削除してください
+LAUNCHER_SUPPORT_UTILITIES_CLEARFAVORITESHEADER       お気に入りサーバーの削除
+LAUNCHER_SUPPORT_UTILITIES_CLEARFAVORITESDESC         お気に入りに登録するとリストからサーバーへアクセスできます。しかし、サーバー側の設定変更があった場合やオフラインでのゲームはお気に入りリストが最新に更新されません。お気に入りリストの増加はゲームへのアクセス速度を遅くしま
+す。ゲーム開始まで時間が長くなったと感じた際にはこのリストを削除してください
+LAUNCHER_SUPPORT_UTILITIES_CLEARHISTORYHEADER         サーバー情報のキャッシュを削除
+LAUNCHER_SUPPORT_UTILITIES_CLEARHISTORYDESC           サーバーへ参加する際、自動的にサーバーの情報を保持します。上記のお気に入りサーバーのように多くのサーバーの情報を保持しているとアクセス速度が遅くなります。これを削除することでゲームへの参加時間を改善します
+LAUNCHER_SUPPORT_UTILITIES_CLEARLOGOCACHEHEADER       サーバーロゴのキャッシュを削除
+LAUNCHER_SUPPORT_UTILITIES_CLEARLOGOCACHEDESC         サーバーはそれぞれ、そのサーバーのロゴ画像・イメージ画像を持っています。このキャッシュはその画像を再ダウンロードする手間を省くための保持です。これを削除することで最新のサーバーロゴを再ダウンロードします
+LAUNCHER_SUPPORT_UTILITIES_UPDATEPBHEADER             Punkbusterのアップデート
+LAUNCHER_SUPPORT_UTILITIES_UPDATEPBDESC               PunkbusterはBATTLEFIELD 2での不正ツール使用などを防ぎます。これを最新に更新しておかなければPunkbuster対応のサーバーに参加することはできません。また最新に更新することでサーバーへ参加する問題の解決になるかもしれません
+LAUNCHER_SUPPORT_UTILITIES_ERRORHEADER                エラー
+LAUNCHER_SUPPORT_UTILITIES_ERROR                      実行エラー
+LAUNCHER_SUPPORT_UTILITIES_SUCCESSHEADER              成功
+LAUNCHER_SUPPORT_UTILITIES_SUCCESS                    処理は正常に行われました
+LAUNCHER_CHANGECDKEY_DESC                             シリアルキーを入力してください
 LAUNCHER_CHANGECDKEY_NONE_DESC                        No CD Key was found.
 Please enter your CD Key (dashes will be automatically inserted)
 You can not change your CD Key once entered, please ensure it is unique and does not contain errors.
-LAUNCHER_CHANGECDKEY_CHANGING                         Changing CD Key, please wait...
+LAUNCHER_CHANGECDKEY_CHANGING                         シリアルキーを変更中。しばらくお待ちください
 LAUNCHER_CHANGECDKEY_OK                               OK
-LAUNCHER_SETTINGS_YES                                 Yes
-LAUNCHER_SETTINGS_NO                                  No
-LAUNCHER_SETTINGS_LOW                                 Low
-LAUNCHER_SETTINGS_MEDIUM                              Medium
-LAUNCHER_SETTINGS_HIGH                                High
-LAUNCHER_SETTINGS_ULTRAHIGH                           Ultra High
-LAUNCHER_SETTINGS_OFF                                 Off
-LAUNCHER_SETTINGS_CUSTOM                              Custom
+LAUNCHER_SETTINGS_YES                                 はい
+LAUNCHER_SETTINGS_NO                                  いいえ
+LAUNCHER_SETTINGS_LOW                                 低
+LAUNCHER_SETTINGS_MEDIUM                              中
+LAUNCHER_SETTINGS_HIGH                                高
+LAUNCHER_SETTINGS_ULTRAHIGH                           最高
+LAUNCHER_SETTINGS_OFF                                 オフ
+LAUNCHER_SETTINGS_CUSTOM                              カスタム
 LAUNCHER_SETTINGS_MULTISAMPLING                       {0}x
 LAUNCHER_SETTINGS_SOFTWARE                            Software
 LAUNCHER_SETTINGS_HARDWARE                            Hardware
 LAUNCHER_SETTINGS_CREATIVE                            Creative X-Fi
 LAUNCHER_CREDITS_TITLE_CONTINUED                      (CONTINUED)
-LAUNCHER_CREDITS_TITLE_PROJECTMANAGER                 PROJECT MANAGER
-LAUNCHER_CREDITS_TITLE_TEAMLEAD                       TEAM LEAD
-LAUNCHER_CREDITS_TITLE_LEADMAPPER                     LEAD MAPPER
-LAUNCHER_CREDITS_TITLE_LEADPROGRAMMER                 LEAD PROGRAMMER
-LAUNCHER_CREDITS_TITLE_QALEAD                         QUALITY ASSURANCE LEAD
-LAUNCHER_CREDITS_TITLE_COMMFACTIONLEAD                COMMUNITY FACTION LEAD
-LAUNCHER_CREDITS_TITLE_PROGRAMMINGTEAM                PROGRAMMING TEAM
-LAUNCHER_CREDITS_TITLE_MAPPINGTEAM                    MAPPING TEAM
-LAUNCHER_CREDITS_TITLE_ARTTEAM_2D                     ART TEAM (2D)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_3D                     ART TEAM (3D)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_ANIMATION              ART TEAM (ANIMATION)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_VISUALEFFECTS          ART TEAM (VISUAL EFFECTS)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_CINEMATIC              ART TEAM (CINEMATIC)
-LAUNCHER_CREDITS_TITLE_SOUNDTEAM_EFFECTS              SOUND TEAM (EFFECTS)
-LAUNCHER_CREDITS_TITLE_SOUNDTEAM_MUSIC                SOUND TEAM (MUSIC)
+LAUNCHER_CREDITS_TITLE_PROJECTMANAGER                 企画・総製作監督
+LAUNCHER_CREDITS_TITLE_TEAMLEAD                       製作責任者
+LAUNCHER_CREDITS_TITLE_LEADMAPPER                     マップ製作責任者
+LAUNCHER_CREDITS_TITLE_LEADPROGRAMMER                 プログラム責任者
+LAUNCHER_CREDITS_TITLE_QALEAD                         品質管理責任者
+LAUNCHER_CREDITS_TITLE_COMMFACTIONLEAD                公式広報責任者
+LAUNCHER_CREDITS_TITLE_PROGRAMMINGTEAM                プログラム担当
+xLAUNCHER_CREDITS_TITLE_MAPPINGTEAM                    マップ製作
+LAUNCHER_CREDITS_TITLE_ARTTEAM_2D                     美術 (2D)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_3D                     美術 (3D)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_ANIMATION              美術 (ANIMATION)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_VISUALEFFECTS          美術 (VISUAL EFFECTS)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_CINEMATIC              美術 (CINEMATIC)
+LAUNCHER_CREDITS_TITLE_SOUNDTEAM_EFFECTS              音響担当
+LAUNCHER_CREDITS_TITLE_SOUNDTEAM_MUSIC                音楽
 LAUNCHER_CREDITS_TITLE_AITEAM                         AI TEAM
-LAUNCHER_CREDITS_TITLE_MILITARYADVISORTEAM            MILITARY ADVISORS
+LAUNCHER_CREDITS_TITLE_MILITARYADVISORTEAM            軍事アドバイザー
 LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_MAPPING          ADDITIONAL CONTRIBUTIONS (MAPPING)
 LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_PROGRAMMING      ADDITIONAL CONTRIBUTIONS (PROGRAMMING)
 LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_ART              ADDITIONAL CONTRIBUTIONS (ART)
@@ -328,7 +331,7 @@ LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_MODERATIONLEAD     SUPPORT TEAM (MODERATION
 LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_MODERATION         SUPPORT TEAM (MODERATION)
 LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_TECHNICAL          SUPPORT TEAM (TECHNICAL)
 LAUNCHER_CREDITS_TITLE_RETIREDDEVELOPERS              RETIRED DEVELOPERS
-LAUNCHER_CREDITS_TITLE_SPECIALTHANKS                  SPECIAL THANKS
+LAUNCHER_CREDITS_TITLE_SPECIALTHANKS                  企画協力
 LAUNCHER_CREDITS_INTRO                                Project Reality: BF2
 A Modification for Battlefield 2
 LAUNCHER_CREDITS_ERROR                                Error loading credits...
@@ -338,17 +341,17 @@ For creating Battlefield 2
 LAUNCHER_CREDITS_COMMUNITYTHANKS                      Thanks to all of the community
 for their patience, feedback and support!
 LAUNCHER_GENERAL_ARGUMENTS_HEADER                     Arguments Help
-UPDATER_MAIN_PROGRESSCOMPLETE                         {0}% Complete
-UPDATER_MAIN_FILENAME                                 Name:
-UPDATER_MAIN_FILEPROGRESS                             Progress:
-UPDATER_MAIN_CONFIRMCANCEL                            Are you sure you want to cancel the update process?
-UPDATER_MAIN_CONFIRMCANCELHEADER                      Confirm Cancellation
-UPDATER_MAIN_STATUS_GETINFO                           Getting update information...
-UPDATER_MAIN_STATUS_APPLYING                          Updating to v{0}...
-UPDATER_MAIN_STATUS_CANCELLING                        Cancelling...
+UPDATER_MAIN_PROGRESSCOMPLETE                         {0}% 進行中
+UPDATER_MAIN_FILENAME                                 ファイル名:
+UPDATER_MAIN_FILEPROGRESS                             完了:
+UPDATER_MAIN_CONFIRMCANCEL                            アップデートを中止してよろしいですか?
+UPDATER_MAIN_CONFIRMCANCELHEADER                      確認
+UPDATER_MAIN_STATUS_GETINFO                           アップデート概要の取得中
+UPDATER_MAIN_STATUS_APPLYING                          v{0}にアップデート中
+UPDATER_MAIN_STATUS_CANCELLING                        キャンセルを行います
 UPDATER_MAIN_STATUS_EXTRATASKS                        Running Extra Tasks...
 UPDATER_MAIN_STATUS_VERIFYING                         Verifying files...
-UPDATER_MAIN_STATUS_COMPLETE                          Complete
+UPDATER_MAIN_STATUS_COMPLETE                          完了
 UPDATER_LICENSE_CONFIRMDECLINE                        Are you sure you want to decline the license agreement? The update process will be cancelled.
 UPDATER_LICENSE_CONFIRMDECLINEHEADER                  Confirm Decline
 UPDATER_LICENSE_ACCEPT                                Accept
