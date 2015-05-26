@@ -1,216 +1,216 @@
 ARMY_CH                                                    中国人民解放軍
-ARMY_pla                                                   People's Liberation Army
-ARMY_mec                                                   Middle Eastern Coalition
-ARMY_usmc                                                  United States Marine Corps
-ARMY_US                                                    United States Marine Corps
-EOR_bestussquad                                            BEST USMC SQUAD
-EOR_bestchinesesquad                                       BEST CHINESE SQUAD
-EOR_bestmecsquad                                           BEST MEC SQUAD
-HUD_TEAMNAME_us                                            USMC
-HUD_TEAMNAME_mec                                           MEC
+ARMY_pla                                                   中国人民解放軍
+ARMY_mec                                                   中東連合軍
+ARMY_usmc                                                  アメリカ海兵隊
+ARMY_US                                                    アメリカ海兵隊
+EOR_bestussquad                                            アメリカ海兵隊: 最優秀分隊
+EOR_bestchinesesquad                                       中国人民解放軍: 最優秀分隊
+EOR_bestmecsquad                                           中東連合軍: 最優秀分隊
+HUD_TEAMNAME_us                                            アメリカ海兵隊
+HUD_TEAMNAME_mec                                           中東連合軍
 HUD_TEXT_MENU_SPAWN_ARMY_USMC                              USMC
 HUD_TEXT_MENU_SPAWN_ARMY_MEC                               MEC
 HUD_TEXT_MENU_SPAWN_ARMY_CHINA                             CHINA
-ACCOUNT_offline                                            Offline
-ACCOUNT_online                                             Online
+ACCOUNT_offline                                            オフライン
+ACCOUNT_online                                             オンライン
 AUDIOSETTINGS_creative                                     Creative X-Fi
-AUDIOSETTINGS_Custom                                       Custom
+AUDIOSETTINGS_Custom                                       カスタム
 AUDIOSETTINGS_hardware                                     Hardware
-AUDIOSETTINGS_High                                         High
-AUDIOSETTINGS_Low                                          Low
-AUDIOSETTINGS_Medium                                       Medium
+AUDIOSETTINGS_High                                         高
+AUDIOSETTINGS_Low                                          低
+AUDIOSETTINGS_Medium                                       中
 AUDIOSETTINGS_software                                     Software
-AUDIOSETTINGS_UltraHigh                                    Ultra High
+AUDIOSETTINGS_UltraHigh                                    最高
 BUTTON_abort                                               ABORT
 BUTTON_activate                                            ACTIVATE
-BUTTON_addmap                                              ADD MAP >
-BUTTON_addtofavorites                                      ADD TO FAVORITES
+BUTTON_addmap                                              マップ追加 >
+BUTTON_addtofavorites                                      お気に入り追加
 BUTTON_apply                                               APPLY
 BUTTON_back                                                BACK
 BUTTON_cancel                                              CANCEL
-BUTTON_chooselater                                         CHOOSE LATER
-BUTTON_chooseprofile                                       SELECT ACCOUNT
+BUTTON_chooselater                                         後で選択
+BUTTON_chooseprofile                                       プロフィール選択
 BUTTON_close                                               CLOSE
-BUTTON_connect                                             CONNECT
-BUTTON_continue                                            CONTINUE
-BUTTON_delete                                              DELETE
-BUTTON_deleteprofile                                       DELETE ACCOUNT
-BUTTON_disconnect                                          DISCONNECT
-BUTTON_download                                            DOWNLOAD
-BUTTON_gofirst                                             FIRST
+BUTTON_connect                                             接続
+BUTTON_continue                                            続ける
+BUTTON_delete                                              削除
+BUTTON_deleteprofile                                       プロフィール削除
+BUTTON_disconnect                                          接続解除
+BUTTON_download                                            ダウンロード
+BUTTON_gofirst                                             先頭へ
 BUTTON_gotohomepage                                        GO TO WEBSITE
 BUTTON_gotowebsite                                         GO TO WEBSITE
-BUTTON_joinserver                                          JOIN SERVER
-BUTTON_jumptoplayer                                        JUMP TO PLAYER
-BUTTON_lookupprofile                                       JUMP TO POSITION
-BUTTON_movedown                                            MOVE DOWN
-BUTTON_moveup                                              MOVE UP
-BUTTON_next                                                NEXT
-BUTTON_no                                                  NO
-BUTTON_ok                                                  OK
-BUTTON_online                                              PLAY MULTIPLAYER
+BUTTON_joinserver                                          サーバーに参加
+BUTTON_jumptoplayer                                        自分の順位へ移動
+BUTTON_lookupprofile                                       ポジションへジャンプ
+BUTTON_movedown                                            下へ移動
+BUTTON_moveup                                              下へ移動
+BUTTON_next                                                次へ
+BUTTON_no                                                  いいえ
+BUTTON_ok                                                  決定
+BUTTON_online                                              マルチプレイヤー
 BUTTON_open                                                OPEN
-BUTTON_playdemo                                            PLAY FILE
-BUTTON_previous                                            PREVIOUS
-BUTTON_ready                                               JOIN GAME
-BUTTON_refresh                                             REFRESH
+BUTTON_playdemo                                            ファイルを再生
+BUTTON_previous                                            前へ
+BUTTON_ready                                               ゲームに参加
+BUTTON_refresh                                             更新
 BUTTON_removefavorite                                      REMOVE
-BUTTON_removemap                                           <  REMOVE MAP
-BUTTON_resettodefault                                      RESET TO DEFAULT
-BUTTON_singleplayer                                        PLAY SINGLEPLAYER
-BUTTON_startmictest                                        START MIC TEST
-BUTTON_startserver                                         START SERVER
-BUTTON_startsingleplayer                                   START SINGLEPLAYER
-BUTTON_stopmictest                                         STOP MIC TEST
-BUTTON_unlock                                              SELECT UNLOCK
-BUTTON_yes                                                 YES
-COMMSL_SQUAD_joinedsquadeight                              Squad Eight
-COMMSL_SQUAD_joinedsquadfive                               Squad Five
-COMMSL_SQUAD_joinedsquadfour                               Squad Four
-COMMSL_SQUAD_joinedsquadnine                               Squad Nine
-COMMSL_SQUAD_joinedsquadone                                Squad One
-COMMSL_SQUAD_joinedsquadseven                              Squad Seven
-COMMSL_SQUAD_joinedsquadsix                                Squad Six
-COMMSL_SQUAD_joinedsquadten                                Squad Ten
-COMMSL_SQUAD_joinedsquadthree                              Squad Three
-COMMSL_SQUAD_joinedsquadtwo                                Squad Two
-COMMUNITY_1                                                BATTLERECORDER
-COMMUNITY_1_abortdownload                                  ABORT DOWNLOAD
-COMMUNITY_1_abortdownloadinformation                       Are you sure you want to abort the download?
-COMMUNITY_1_battlerecorderbookmarks                        BattleRecorder Bookmarks
-COMMUNITY_1_battlerecorderlibrary                          BATTLERECORDER LIBRARY
-COMMUNITY_1_confirmdelete                                  Do you want to delete this BattleRecorder file?
-COMMUNITY_1_date                                           DATE
-COMMUNITY_1_downloadcomplete                               DOWNLOAD COMPLETE
-COMMUNITY_1_downloadfailed                                 DOWNLOAD FAILED
-COMMUNITY_1_downloadfailed_info                            The download did not complete.  Please try again.
-COMMUNITY_1_downloadinprogress                             DOWNLOAD IN PROGRESS
-COMMUNITY_1_file                                           FILE
-COMMUNITY_1_information                                    Click on the bookmarks listed below to download and view BattleRecorder files.
-COMMUNITY_1_instructions                                   INSTRUCTIONS
-COMMUNITY_1_libraryinformation                             Add to your library by downloading bookmarked BattleRecorder files.
-COMMUNITY_1_nobookmarks                                    You have no BattleRecorder bookmarks.
-CONFIRM_deletelocalprofile                                 DELETE ACCOUNT
-CONFIRM_deletelocalprofile_info                            Deleting your account will remove all information from this local machine. Access the ACCOUNT MANAGEMENT screen to retrieve your deleted account information. Do you want to proceed?
-CONFIRM_disconnect                                         DISCONNECT
-CONFIRM_disconnect_info                                    You need to disconnect to do this action.
-CONFIRM_disconnecting                                      DISCONNECTING
-CONFIRM_forgotpassword                                     FORGOT PASSWORD
-CONFIRM_forgotpassword_info                                This will close Battlefield 2 and open the Gamespy Account website.  You can retrieve your password here.  The password will be sent to the email address entered at account creation.
-CONFIRM_notonline                                          NOT ONLINE
-CONFIRM_notonline_info                                     You need to be online to access this page.  Do you wish to use an online account?
-CONFIRM_passwordneeded                                     PASSWORD NEEDED
-CONFIRM_passwordneeded_info                                You need to enter the correct password to play on this server.
-CONFIRM_passwordneeded_password                            PASSWORD
-CONFIRM_quit                                               QUIT
-CONFIRM_quit_donotaskagain                                 DO NOT ASK AGAIN
-CONFIRM_quit_info                                          Are you sure you want to quit?
-CONFIRM_rentserver                                         RENT SERVER
-CONFIRM_rentserver_info                                    To rent a Battlefield 2 server, click YES  This will close Battlefield 2 and open the server rental website.
-CONNECT_connecttoip                                        CONNECT TO IP
-CONNECT_ipaddress                                          IP ADDRESS
-CONNECT_password                                           PASSWORD
-CONNECT_port                                               PORT
-CONTROLLER_IDFGameController_IDAxis_0                      Joy Axis 0
-CONTROLLER_IDFGameController_IDAxis_10                     Joy Axis 10
-CONTROLLER_IDFGameController_IDAxis_11                     Joy Axis 11
-CONTROLLER_IDFGameController_IDAxis_12                     Joy Axis 12
-CONTROLLER_IDFGameController_IDAxis_13                     Joy Axis 13
-CONTROLLER_IDFGameController_IDAxis_14                     Joy Axis 14
-CONTROLLER_IDFGameController_IDAxis_1                      Joy Axis 1
-CONTROLLER_IDFGameController_IDAxis_2                      Joy Axis 2
-CONTROLLER_IDFGameController_IDAxis_3                      Joy Axis 3
-CONTROLLER_IDFGameController_IDAxis_4                      Joy Axis 4
-CONTROLLER_IDFGameController_IDAxis_5                      Joy Axis 5
-CONTROLLER_IDFGameController_IDAxis_6                      Joy Axis 6
-CONTROLLER_IDFGameController_IDAxis_7                      Joy Axis 7
-CONTROLLER_IDFGameController_IDAxis_8                      Joy Axis 8
-CONTROLLER_IDFGameController_IDAxis_9                      Joy Axis 9
-CONTROLLER_IDFGameController_IDAxis_None                   Joy Axis None
-CONTROLLER_IDFGameController_IDButton_0                    Joy Button 0
-CONTROLLER_IDFGameController_IDButton_10                   Joy Button 10
-CONTROLLER_IDFGameController_IDButton_11                   Joy Button 11
-CONTROLLER_IDFGameController_IDButton_12                   Joy Button 12
-CONTROLLER_IDFGameController_IDButton_13                   Joy Button 13
-CONTROLLER_IDFGameController_IDButton_14                   Joy Button 14
-CONTROLLER_IDFGameController_IDButton_15                   Joy Button 15
-CONTROLLER_IDFGameController_IDButton_16                   Joy Button 16
-CONTROLLER_IDFGameController_IDButton_17                   Joy Button 17
-CONTROLLER_IDFGameController_IDButton_18                   Joy Button 18
-CONTROLLER_IDFGameController_IDButton_19                   Joy Button 19
-CONTROLLER_IDFGameController_IDButton_1                    Joy Button 1
-CONTROLLER_IDFGameController_IDButton_20                   Joy Button 20
-CONTROLLER_IDFGameController_IDButton_21                   Joy Button 21
-CONTROLLER_IDFGameController_IDButton_22                   Joy Button 22
-CONTROLLER_IDFGameController_IDButton_23                   Joy Button 23
-CONTROLLER_IDFGameController_IDButton_24                   Joy Button 24
-CONTROLLER_IDFGameController_IDButton_25                   Joy Button 25
-CONTROLLER_IDFGameController_IDButton_26                   Joy Button 26
-CONTROLLER_IDFGameController_IDButton_27                   Joy Button 27
-CONTROLLER_IDFGameController_IDButton_28                   Joy Button 28
-CONTROLLER_IDFGameController_IDButton_29                   Joy Button 29
-CONTROLLER_IDFGameController_IDButton_2                    Joy Button 2
-CONTROLLER_IDFGameController_IDButton_30                   Joy Button 30
-CONTROLLER_IDFGameController_IDButton_31                   Joy Button 31
-CONTROLLER_IDFGameController_IDButton_3                    Joy Button 3
-CONTROLLER_IDFGameController_IDButton_4                    Joy Button 4
-CONTROLLER_IDFGameController_IDButton_5                    Joy Button 5
-CONTROLLER_IDFGameController_IDButton_6                    Joy Button 6
-CONTROLLER_IDFGameController_IDButton_7                    Joy Button 7
-CONTROLLER_IDFGameController_IDButton_8                    Joy Button 8
-CONTROLLER_IDFGameController_IDButton_9                    Joy Button 9
-CONTROLLER_IDFGameController_IDButton_None                 Joy Button None
-CONTROLLER_IDFMouse_IDAxis_0                               Mouse Axis 0
-CONTROLLER_IDFMouse_IDAxis_1                               Mouse Axis 1
-CONTROLLER_IDFMouse_IDAxis_10                              Mouse Axis 10
-CONTROLLER_IDFMouse_IDAxis_11                              Mouse Axis 11
-CONTROLLER_IDFMouse_IDAxis_12                              Mouse Axis 12
-CONTROLLER_IDFMouse_IDAxis_13                              Mouse Axis 13
-CONTROLLER_IDFMouse_IDAxis_14                              Mouse Axis 14
-CONTROLLER_IDFMouse_IDAxis_2                               Mouse Axis 2
-CONTROLLER_IDFMouse_IDAxis_3                               Mouse Axis 3
-CONTROLLER_IDFMouse_IDAxis_4                               Mouse Axis 4
-CONTROLLER_IDFMouse_IDAxis_5                               Mouse Axis 5
-CONTROLLER_IDFMouse_IDAxis_6                               Mouse Axis 6
-CONTROLLER_IDFMouse_IDAxis_7                               Mouse Axis 7
-CONTROLLER_IDFMouse_IDAxis_8                               Mouse Axis 8
-CONTROLLER_IDFMouse_IDAxis_9                               Mouse Axis 9
-CONTROLLER_IDFMouse_IDAxis_None                            Mouse Axis None
-CONTROLLER_IDFMouse_IDButton_0                             Mouse Button 0
-CONTROLLER_IDFMouse_IDButton_10                            Mouse Button 10
-CONTROLLER_IDFMouse_IDButton_11                            Mouse Button 11
-CONTROLLER_IDFMouse_IDButton_12                            Mouse Button 12
-CONTROLLER_IDFMouse_IDButton_13                            Mouse Button 13
-CONTROLLER_IDFMouse_IDButton_14                            Mouse Button 14
-CONTROLLER_IDFMouse_IDButton_15                            Mouse Button 15
-CONTROLLER_IDFMouse_IDButton_16                            Mouse Button 16
-CONTROLLER_IDFMouse_IDButton_17                            Mouse Button 17
-CONTROLLER_IDFMouse_IDButton_18                            Mouse Button 18
-CONTROLLER_IDFMouse_IDButton_19                            Mouse Button 19
-CONTROLLER_IDFMouse_IDButton_1                             Mouse Button 1
-CONTROLLER_IDFMouse_IDButton_20                            Mouse Button 20
-CONTROLLER_IDFMouse_IDButton_21                            Mouse Button 21
-CONTROLLER_IDFMouse_IDButton_22                            Mouse Button 22
-CONTROLLER_IDFMouse_IDButton_23                            Mouse Button 23
-CONTROLLER_IDFMouse_IDButton_24                            Mouse Button 24
-CONTROLLER_IDFMouse_IDButton_25                            Mouse Button 25
-CONTROLLER_IDFMouse_IDButton_26                            Mouse Button 26
-CONTROLLER_IDFMouse_IDButton_27                            Mouse Button 27
-CONTROLLER_IDFMouse_IDButton_28                            Mouse Button 28
-CONTROLLER_IDFMouse_IDButton_29                            Mouse Button 29
-CONTROLLER_IDFMouse_IDButton_2                             Mouse Button 2
-CONTROLLER_IDFMouse_IDButton_30                            Mouse Button 30
-CONTROLLER_IDFMouse_IDButton_31                            Mouse Button 31
-CONTROLLER_IDFMouse_IDButton_3                             Mouse Button 3
-CONTROLLER_IDFMouse_IDButton_4                             Mouse Button 4
-CONTROLLER_IDFMouse_IDButton_5                             Mouse Button 5
-CONTROLLER_IDFMouse_IDButton_6                             Mouse Button 6
-CONTROLLER_IDFMouse_IDButton_7                             Mouse Button 7
-CONTROLLER_IDFMouse_IDButton_8                             Mouse Button 8
-CONTROLLER_IDFMouse_IDButton_9                             Mouse Button 9
-CONTROLLER_IDFMouse_IDButton_None                          Mouse Button None
-CONTROLLER_IDJoystickAxis                                  Joy axis
-CONTROLLER_IDJoystickThrottle                              Joy throttle
+BUTTON_removemap                                           <  マップ解除
+BUTTON_resettodefault                                      初期設定へ戻す
+BUTTON_singleplayer                                        シングルプレイヤー
+BUTTON_startmictest                                        マイクテスト開始
+BUTTON_startserver                                         サーバー開始
+BUTTON_startsingleplayer                                   シングルプレイヤー開始
+BUTTON_stopmictest                                         マイクテスト中止
+BUTTON_unlock                                              アンロック
+BUTTON_yes                                                 はい
+COMMSL_SQUAD_joinedsquadeight                              分隊8
+COMMSL_SQUAD_joinedsquadfive                               分隊5
+COMMSL_SQUAD_joinedsquadfour                               分隊4
+COMMSL_SQUAD_joinedsquadnine                               分隊9
+COMMSL_SQUAD_joinedsquadone                                分隊1
+COMMSL_SQUAD_joinedsquadseven                              分隊7
+COMMSL_SQUAD_joinedsquadsix                                分隊6
+COMMSL_SQUAD_joinedsquadten                                分隊10
+COMMSL_SQUAD_joinedsquadthree                              分隊3
+COMMSL_SQUAD_joinedsquadtwo                                分隊2
+COMMUNITY_1                                                バトルレコーダー
+COMMUNITY_1_abortdownload                                  ダウンロード中止
+COMMUNITY_1_abortdownloadinformation                       ダウンロードを中止しますか?
+COMMUNITY_1_battlerecorderbookmarks                        ブックマーク
+COMMUNITY_1_battlerecorderlibrary                          ライブラリ
+COMMUNITY_1_confirmdelete                                  バトルレコーダーのファイルを削除しますか?
+COMMUNITY_1_date                                           日付
+COMMUNITY_1_downloadcomplete                               ダウンロード完了
+COMMUNITY_1_downloadfailed                                 ダウンロード失敗
+COMMUNITY_1_downloadfailed_info                            ダウンロードできませんでした もう一度やり直してください
+COMMUNITY_1_downloadinprogress                             ダウンロード中
+COMMUNITY_1_file                                           ファイル
+COMMUNITY_1_information                                    ブックマークを選択してバトルレコーダーファイルをダウンロードして閲覧
+COMMUNITY_1_instructions                                   説明
+COMMUNITY_1_libraryinformation                             ブックマークしたバトルレコーダーファイルをダウンロードしてライブラリに追加します
+COMMUNITY_1_nobookmarks                                    バトルレコーダーのブックマークはありません
+CONFIRM_deletelocalprofile                                 プロフィール削除
+CONFIRM_deletelocalprofile_info                            プロフィールを削除するとローカルに保存されている情報がすべて消去されます 再度同じプロフィールを使用する場合には"プロフィール編集"で検索してください 続けますか?
+CONFIRM_disconnect                                         接続解除
+CONFIRM_disconnect_info                                    このアクションを完了するためには接続を解除する必要があります
+CONFIRM_disconnecting                                      接続を解除しています
+CONFIRM_forgotpassword                                     パスワード問い合せ
+CONFIRM_forgotpassword_info                                Gamespyサービスは終了しました
+CONFIRM_notonline                                          オフライン
+CONFIRM_notonline_info                                     このページにアクセスするためにはオンラインにする必要があります オンラインアカウントを使用しますか?
+CONFIRM_passwordneeded                                     パスワード
+CONFIRM_passwordneeded_info                                このサーバーでプレイするための正しいパスワードを入力してください
+CONFIRM_passwordneeded_password                            パスワード
+CONFIRM_quit                                               終了メニュー
+CONFIRM_quit_donotaskagain                                 次回確認しない
+CONFIRM_quit_info                                          終了しますか?
+CONFIRM_rentserver                                         レンタルサーバー
+CONFIRM_rentserver_info                                    "はい"をクリックすると、レンタルサーバーを使用するために専用ウェブサイトへ移動します
+CONNECT_connecttoip                                        IPへ接続
+CONNECT_ipaddress                                          IPアドレス
+CONNECT_password                                           パスワード
+CONNECT_port                                               ポート
+CONTROLLER_IDFGameController_IDAxis_0                      Joy 軸 0
+CONTROLLER_IDFGameController_IDAxis_10                     Joy 軸 10
+CONTROLLER_IDFGameController_IDAxis_11                     Joy 軸 11
+CONTROLLER_IDFGameController_IDAxis_12                     Joy 軸 12
+CONTROLLER_IDFGameController_IDAxis_13                     Joy 軸 13
+CONTROLLER_IDFGameController_IDAxis_14                     Joy 軸 14
+CONTROLLER_IDFGameController_IDAxis_1                      Joy 軸 1
+CONTROLLER_IDFGameController_IDAxis_2                      Joy 軸 2
+CONTROLLER_IDFGameController_IDAxis_3                      Joy 軸 3
+CONTROLLER_IDFGameController_IDAxis_4                      Joy 軸 4
+CONTROLLER_IDFGameController_IDAxis_5                      Joy 軸 5
+CONTROLLER_IDFGameController_IDAxis_6                      Joy 軸 6
+CONTROLLER_IDFGameController_IDAxis_7                      Joy 軸 7
+CONTROLLER_IDFGameController_IDAxis_8                      Joy 軸 8
+CONTROLLER_IDFGameController_IDAxis_9                      Joy 軸 9
+CONTROLLER_IDFGameController_IDAxis_None                   Joy 軸 なし
+CONTROLLER_IDFGameController_IDButton_0                    Joy ボタン 0
+CONTROLLER_IDFGameController_IDButton_10                   Joy ボタン 10
+CONTROLLER_IDFGameController_IDButton_11                   Joy ボタン 11
+CONTROLLER_IDFGameController_IDButton_12                   Joy ボタン 12
+CONTROLLER_IDFGameController_IDButton_13                   Joy ボタン 13
+CONTROLLER_IDFGameController_IDButton_14                   Joy ボタン 14
+CONTROLLER_IDFGameController_IDButton_15                   Joy ボタン 15
+CONTROLLER_IDFGameController_IDButton_16                   Joy ボタン 16
+CONTROLLER_IDFGameController_IDButton_17                   Joy ボタン 17
+CONTROLLER_IDFGameController_IDButton_18                   Joy ボタン 18
+CONTROLLER_IDFGameController_IDButton_19                   Joy ボタン 19
+CONTROLLER_IDFGameController_IDButton_1                    Joy ボタン 1
+CONTROLLER_IDFGameController_IDButton_20                   Joy ボタン 20
+CONTROLLER_IDFGameController_IDButton_21                   Joy ボタン 21
+CONTROLLER_IDFGameController_IDButton_22                   Joy ボタン 22
+CONTROLLER_IDFGameController_IDButton_23                   Joy ボタン 23
+CONTROLLER_IDFGameController_IDButton_24                   Joy ボタン 24
+CONTROLLER_IDFGameController_IDButton_25                   Joy ボタン 25
+CONTROLLER_IDFGameController_IDButton_26                   Joy ボタン 26
+CONTROLLER_IDFGameController_IDButton_27                   Joy ボタン 27
+CONTROLLER_IDFGameController_IDButton_28                   Joy ボタン 28
+CONTROLLER_IDFGameController_IDButton_29                   Joy ボタン 29
+CONTROLLER_IDFGameController_IDButton_2                    Joy ボタン 2
+CONTROLLER_IDFGameController_IDButton_30                   Joy ボタン 30
+CONTROLLER_IDFGameController_IDButton_31                   Joy ボタン 31
+CONTROLLER_IDFGameController_IDButton_3                    Joy ボタン 3
+CONTROLLER_IDFGameController_IDButton_4                    Joy ボタン 4
+CONTROLLER_IDFGameController_IDButton_5                    Joy ボタン 5
+CONTROLLER_IDFGameController_IDButton_6                    Joy ボタン 6
+CONTROLLER_IDFGameController_IDButton_7                    Joy ボタン 7
+CONTROLLER_IDFGameController_IDButton_8                    Joy ボタン 8
+CONTROLLER_IDFGameController_IDButton_9                    Joy ボタン 9
+CONTROLLER_IDFGameController_IDButton_None                 Joy ボタン なし
+CONTROLLER_IDFMouse_IDAxis_0                               マウス軸 0
+CONTROLLER_IDFMouse_IDAxis_1                               マウス軸 1
+CONTROLLER_IDFMouse_IDAxis_10                              マウス軸 10
+CONTROLLER_IDFMouse_IDAxis_11                              マウス軸 11
+CONTROLLER_IDFMouse_IDAxis_12                              マウス軸 12
+CONTROLLER_IDFMouse_IDAxis_13                              マウス軸 13
+CONTROLLER_IDFMouse_IDAxis_14                              マウス軸 14
+CONTROLLER_IDFMouse_IDAxis_2                               マウス軸 2
+CONTROLLER_IDFMouse_IDAxis_3                               マウス軸 3
+CONTROLLER_IDFMouse_IDAxis_4                               マウス軸 4
+CONTROLLER_IDFMouse_IDAxis_5                               マウス軸 5
+CONTROLLER_IDFMouse_IDAxis_6                               マウス軸 6
+CONTROLLER_IDFMouse_IDAxis_7                               マウス軸 7
+CONTROLLER_IDFMouse_IDAxis_8                               マウス軸 8
+CONTROLLER_IDFMouse_IDAxis_9                               マウス軸 9
+CONTROLLER_IDFMouse_IDAxis_None                            マウス軸 なし
+CONTROLLER_IDFMouse_IDButton_0                             マウスボタン 0
+CONTROLLER_IDFMouse_IDButton_10                            マウスボタン 10
+CONTROLLER_IDFMouse_IDButton_11                            マウスボタン 11
+CONTROLLER_IDFMouse_IDButton_12                            マウスボタン 12
+CONTROLLER_IDFMouse_IDButton_13                            マウスボタン 13
+CONTROLLER_IDFMouse_IDButton_14                            マウスボタン 14
+CONTROLLER_IDFMouse_IDButton_15                            マウスボタン 15
+CONTROLLER_IDFMouse_IDButton_16                            マウスボタン 16
+CONTROLLER_IDFMouse_IDButton_17                            マウスボタン 17
+CONTROLLER_IDFMouse_IDButton_18                            マウスボタン 18
+CONTROLLER_IDFMouse_IDButton_19                            マウスボタン 19
+CONTROLLER_IDFMouse_IDButton_1                             マウスボタン 1
+CONTROLLER_IDFMouse_IDButton_20                            マウスボタン 20
+CONTROLLER_IDFMouse_IDButton_21                            マウスボタン 21
+CONTROLLER_IDFMouse_IDButton_22                            マウスボタン 22
+CONTROLLER_IDFMouse_IDButton_23                            マウスボタン 23
+CONTROLLER_IDFMouse_IDButton_24                            マウスボタン 24
+CONTROLLER_IDFMouse_IDButton_25                            マウスボタン 25
+CONTROLLER_IDFMouse_IDButton_26                            マウスボタン 26
+CONTROLLER_IDFMouse_IDButton_27                            マウスボタン 27
+CONTROLLER_IDFMouse_IDButton_28                            マウスボタン 28
+CONTROLLER_IDFMouse_IDButton_29                            マウスボタン 29
+CONTROLLER_IDFMouse_IDButton_2                             マウスボタン 2
+CONTROLLER_IDFMouse_IDButton_30                            マウスボタン 30
+CONTROLLER_IDFMouse_IDButton_31                            マウスボタン 31
+CONTROLLER_IDFMouse_IDButton_3                             マウスボタン 3
+CONTROLLER_IDFMouse_IDButton_4                             マウスボタン 4
+CONTROLLER_IDFMouse_IDButton_5                             マウスボタン 5
+CONTROLLER_IDFMouse_IDButton_6                             マウスボタン 6
+CONTROLLER_IDFMouse_IDButton_7                             マウスボタン 7
+CONTROLLER_IDFMouse_IDButton_8                             マウスボタン 8
+CONTROLLER_IDFMouse_IDButton_9                             マウスボタン 9
+CONTROLLER_IDFMouse_IDButton_None                          マウスボタン なし
+CONTROLLER_IDJoystickAxis                                  Joy 軸
+CONTROLLER_IDJoystickThrottle                              Joy スロットル
 CONTROLLER_IDKey_0                                         0
 CONTROLLER_IDKey_1                                         1
 CONTROLLER_IDKey_2                                         2
@@ -222,28 +222,28 @@ CONTROLLER_IDKey_7                                         7
 CONTROLLER_IDKey_8                                         8
 CONTROLLER_IDKey_9                                         9
 CONTROLLER_IDKey_A                                         A
-CONTROLLER_IDKey_Add                                       Numeric +
-CONTROLLER_IDKey_Apostrophe                                Apostrophe
-CONTROLLER_IDKey_AppMenu                                   Application Menu
-CONTROLLER_IDKey_ArrowDown                                 Arrow Down
-CONTROLLER_IDKey_ArrowLeft                                 Arrow Left
-CONTROLLER_IDKey_ArrowRight                                Arrow Right
-CONTROLLER_IDKey_ArrowUp                                   Arrow Up
+CONTROLLER_IDKey_Add                                       テンキー +
+CONTROLLER_IDKey_Apostrophe                                ’
+CONTROLLER_IDKey_AppMenu                                   ｱﾌﾟﾘｹｰｼｮﾝ
+CONTROLLER_IDKey_ArrowDown                                 ↓
+CONTROLLER_IDKey_ArrowLeft                                 ←
+CONTROLLER_IDKey_ArrowRight                                →
+CONTROLLER_IDKey_ArrowUp                                   ↑
 CONTROLLER_IDKey_At                                        @
 CONTROLLER_IDKey_Ax                                        Ax
 CONTROLLER_IDKey_B                                         B
-CONTROLLER_IDKey_Backslash                                 Backslash
+CONTROLLER_IDKey_Backslash                                 ＼
 CONTROLLER_IDKey_Backspace                                 Backspace
 CONTROLLER_IDKey_C                                         C
 CONTROLLER_IDKey_Calculator                                Calculator
 CONTROLLER_IDKey_Capital                                   Caps Lock
-CONTROLLER_IDKey_Colon                                     Colon
+CONTROLLER_IDKey_Colon                                     ：
 CONTROLLER_IDKey_Comma                                     ,
-CONTROLLER_IDKey_Convert                                   Convert
+CONTROLLER_IDKey_Convert                                   変換
 CONTROLLER_IDKey_D                                         D
-CONTROLLER_IDKey_Decimal                                   Numeric ,
+CONTROLLER_IDKey_Decimal                                   テンキー ,
 CONTROLLER_IDKey_Delete                                    Delete
-CONTROLLER_IDKey_Divide                                    Numpad Divide
+CONTROLLER_IDKey_Divide                                    テンキー /
 CONTROLLER_IDKey_E                                         E
 CONTROLLER_IDKey_End                                       End
 CONTROLLER_IDKey_Enter                                     Enter
@@ -266,7 +266,7 @@ CONTROLLER_IDKey_F7                                        F7
 CONTROLLER_IDKey_F8                                        F8
 CONTROLLER_IDKey_F9                                        F9
 CONTROLLER_IDKey_G                                         G
-CONTROLLER_IDKey_Grave                                     Grave
+CONTROLLER_IDKey_Grave                                     バッククオート
 CONTROLLER_IDKey_H                                         H
 CONTROLLER_IDKey_Home                                      Home
 CONTROLLER_IDKey_I                                         I
@@ -276,11 +276,11 @@ CONTROLLER_IDKey_K                                         K
 CONTROLLER_IDKey_Kana                                      Kana
 CONTROLLER_IDKey_Kanji                                     Kanji
 CONTROLLER_IDKey_L                                         L
-CONTROLLER_IDKey_LeftAlt                                   Left Alt
-CONTROLLER_IDKey_LeftBracket                               Left bracket
-CONTROLLER_IDKey_LeftCtrl                                  Left Control
-CONTROLLER_IDKey_LeftShift                                 Left Shift
-CONTROLLER_IDKey_LeftWin                                   Left Win
+CONTROLLER_IDKey_LeftAlt                                   左 Alt
+CONTROLLER_IDKey_LeftBracket                               （
+CONTROLLER_IDKey_LeftCtrl                                  左 Control
+CONTROLLER_IDKey_LeftShift                                 左 Shift
+CONTROLLER_IDKey_LeftWin                                   左 Win
 CONTROLLER_IDKey_M                                         M
 CONTROLLER_IDKey_Mail                                      Mail
 CONTROLLER_IDKey_MediaSelect                               Media Select
@@ -294,19 +294,19 @@ CONTROLLER_IDKey_NextTrack                                 Next Track
 CONTROLLER_IDKey_NoConvert                                 No Convert
 CONTROLLER_IDKey_None                                      No key
 CONTROLLER_IDKey_Numlock                                   Num Lock
-CONTROLLER_IDKey_Numpad0                                   Numeric 0
-CONTROLLER_IDKey_Numpad1                                   Numeric 1
-CONTROLLER_IDKey_Numpad2                                   Numeric 2
-CONTROLLER_IDKey_Numpad3                                   Numeric 3
-CONTROLLER_IDKey_Numpad4                                   Numeric 4
-CONTROLLER_IDKey_Numpad5                                   Numeric 5
-CONTROLLER_IDKey_Numpad6                                   Numeric 6
-CONTROLLER_IDKey_Numpad7                                   Numeric 7
-CONTROLLER_IDKey_Numpad8                                   Numeric 8
-CONTROLLER_IDKey_Numpad9                                   Numeric 9
-CONTROLLER_IDKey_NumpadComma                               Numpad Comma
-CONTROLLER_IDKey_NumpadEnter                               Numeric Enter
-CONTROLLER_IDKey_NumpadEquals                              Numeric Equals
+CONTROLLER_IDKey_Numpad0                                   テンキー 0
+CONTROLLER_IDKey_Numpad1                                   テンキー 1
+CONTROLLER_IDKey_Numpad2                                   テンキー 2
+CONTROLLER_IDKey_Numpad3                                   テンキー 3
+CONTROLLER_IDKey_Numpad4                                   テンキー 4
+CONTROLLER_IDKey_Numpad5                                   テンキー 5
+CONTROLLER_IDKey_Numpad6                                   テンキー 6
+CONTROLLER_IDKey_Numpad7                                   テンキー 7
+CONTROLLER_IDKey_Numpad8                                   テンキー 8
+CONTROLLER_IDKey_Numpad9                                   テンキー 9
+CONTROLLER_IDKey_NumpadComma                               テンキー ．
+CONTROLLER_IDKey_NumpadEnter                               テンキー Enter
+CONTROLLER_IDKey_NumpadEquals                              テンキー Equals
 CONTROLLER_IDKey_O                                         O
 CONTROLLER_IDKey_OEM_102                                   <
 CONTROLLER_IDKey_P                                         P
@@ -320,23 +320,23 @@ CONTROLLER_IDKey_PrevTrack                                 Previous Track
 CONTROLLER_IDKey_PrintScreen                               Printscreen
 CONTROLLER_IDKey_Q                                         Q
 CONTROLLER_IDKey_R                                         R
-CONTROLLER_IDKey_RightAlt                                  Right Alt
-CONTROLLER_IDKey_RightBracket                              Right bracket
-CONTROLLER_IDKey_RightCtrl                                 Right Control
-CONTROLLER_IDKey_RightShift                                Right Shift
-CONTROLLER_IDKey_RightWin                                  Right Win
+CONTROLLER_IDKey_RightAlt                                  右 Alt
+CONTROLLER_IDKey_RightBracket                              ）
+CONTROLLER_IDKey_RightCtrl                                 右 Control
+CONTROLLER_IDKey_RightShift                                右 Shift
+CONTROLLER_IDKey_RightWin                                  右 Win
 CONTROLLER_IDKey_S                                         S
 CONTROLLER_IDKey_ScrollLock                                Scroll Lock
-CONTROLLER_IDKey_Semicolon                                 Semi colon
-CONTROLLER_IDKey_Slash                                     /
+CONTROLLER_IDKey_Semicolon                                 ；
+CONTROLLER_IDKey_Slash                                     ／
 CONTROLLER_IDKey_Sleep                                     Sleep
 CONTROLLER_IDKey_Space                                     Space
 CONTROLLER_IDKey_Stop                                      Stop
-CONTROLLER_IDKey_Subtract                                  Numeric -
+CONTROLLER_IDKey_Subtract                                  テンキー -
 CONTROLLER_IDKey_T                                         T
 CONTROLLER_IDKey_Tab                                       Tab
 CONTROLLER_IDKey_U                                         U
-CONTROLLER_IDKey_Underline                                 Underline
+CONTROLLER_IDKey_Underline                                 ＿
 CONTROLLER_IDKey_Unknown                                   Unknown key
 CONTROLLER_IDKey_Unlabeled                                 Unlabeled Key
 CONTROLLER_IDKey_V                                         V
@@ -459,7 +459,7 @@ COUNTRY_IS                                                 Iceland
 COUNTRY_IT                                                 Italy
 COUNTRY_JM                                                 Jamaica
 COUNTRY_JO                                                 Jordan
-COUNTRY_JP                                                 Japan
+COUNTRY_JP                                                 日本
 COUNTRY_KE                                                 Kenya
 COUNTRY_KG                                                 Kyrgyzstan
 COUNTRY_KH                                                 Cambodia
@@ -587,340 +587,341 @@ COUNTRY_YU                                                 Yugoslavia
 COUNTRY_ZA                                                 South Africa
 COUNTRY_ZM                                                 Zambia
 COUNTRY_ZW                                                 Zimbabwe
-CREATE_cancel                                              CANCEL
-CREATE_country                                             COUNTRY
-CREATE_createprofile                                       CREATE ACCOUNT
-CREATE_ea                                                  EA Terms of Service
-CREATE_email                                               EMAIL ADDRESS
-CREATE_internet                                            MULTIPLAYER
-CREATE_internetinfo                                        Create an account which can be used to play on the internet.
-CREATE_network                                             SINGLEPLAYER
-CREATE_networkinfo                                         Create an account which can be used to play singleplayer or on a local area network.  NOTE: You must have a multiplayer account to play on the internet.
-CREATE_password                                            PASSWORD
+CREATE_cancel                                              キャンセル
+CREATE_country                                             国名
+CREATE_createprofile                                       プロフィール作成
+CREATE_ea                                                  EA オンラインサービス規約
+CREATE_email                                               Eメールアドレス
+CREATE_internet                                            マルチプレイヤー
+CREATE_internetinfo                                        インターネットを通してプレイする時に使用します
+CREATE_network                                             シングルプレイヤー
+CREATE_networkinfo                                         シングルプレイヤーやローカルサーバーでプレイする時に使用します
+CREATE_password                                            パスワード
 CREATE_privacy                                             IGN Privacy Policy
-CREATE_profilename                                         ACCOUNT NAME
-CREATE_rememberpassword                                    REMEMBER PASSWORD
-CREATE_repeatpassword                                      REPEAT PASSWORD
-CREATE_terms                                               By clicking ACCEPT TERMS, you will register with GameSpy and you are sending account data directly to GameSpy. You agree that the use of your account data is subject to the IGN Entertainment, Inc. Privacy Policy and the IGN Entertainment, Inc. User Agreement. You also acknowledge that IGN will share your information with EA so that EA may operate the service you have elected to receive. Game play is also subject to the EA Terms of Service.
-CREATE_termstitle                                          IGN PRIVACY POLICY, USER AGREEMENT & EA TERMS OF SERVICE
+CREATE_profilename                                         ユーザー名
+CREATE_rememberpassword                                    パスワードを記憶
+CREATE_repeatpassword                                      パスワード再確認
+CREATE_terms                                               "この条件に同意"をクリックすることによって、GameSpyにお客様の登録データが直接送信されGameSpyに登録することになります。 お客様は登録データの使用について"IGN Entertainment, Inc. Privacy Policy"と"IGN Entertainment, In
+c. User Agreement"に従うことを 同意するものとします。 また、お客様は、EAが、お客さまが受け取りたいサービスを提供するため IGNとEAがお客様の登録データを共有することにも同意するものとします。なお、ゲームプレイについては"EA オンラインサービス規約"に従うもの とします。
+CREATE_termstitle                                          IGN PRIVACY POLICY・USER AGREEMENT・EAオンラインサービス規約
 CREATE_user                                                IGN User Agreement
-EOR_1                                                      SCORE LIST
-EOR_1_commander                                            COMMANDER
-EOR_1_playername                                           PLAYER NAME
-EOR_1_team1                                                TEAM 1
-EOR_1_team2                                                TEAM 2
-EOR_1_top20                                                TOP 20 PLAYERS
-EOR_2_squadleader                                          SQUAD LEADER
-EOR_2_squadmembers                                         SQUAD MEMBERS
-EOR_4_gamemode                                             GAME MODE
-EOR_4_serverinfo                                           SERVER INFO
-EOR_finishedloading                                        Loading complete.  Verifying client data.
-EOR_onescape                                               UNLOADING RESOURCES
-EOR_shadersinprogress                                      Optimizing shaders for the best performance on your system. This may take a few minutes. NOTE: This optimization will occur each time video settings are changed.
-FAVORITE_ipadress                                          IPADRESS
-FAVORITE_port                                              PORT
-FAVORITE_title                                             ADD FAVORITE SERVER IP
-GAME_MESSAGE_CONNECTION_PROBLEM                            There is a problem with your connection
-GAME_MESSAGE_DISCONNECTED                                  You have been disconnected from server
-GAME_MESSAGE_GAME_PAUSED                                   PAUSED
-HEADER_3dmap                                               3D MAP
-HEADER_accelerate                                          ACCELERATE
-HEADER_accuracy                                            ACCURACY
-HEADER_afterburner                                         AFTERBURNER
-HEADER_altfire                                             ALT-FIRE
-HEADER_autoready                                           AUTO READY ON
-HEADER_backwark                                            BACKWARD
-HEADER_behind                                              CHASE FRONT
-HEADER_boost                                               BOOST
-HEADER_closeoff                                            CLOSE/OFF
-HEADER_comchannel                                          COM. CHANNEL
-HEADER_commander                                           COMMANDER
-HEADER_console                                             CONSOLE
-HEADER_countermeasures                                     COUNTERMEASURES
-HEADER_createsquad                                         CREATE SQUAD
-HEADER_crouch                                              CROUCH
-HEADER_cyclecameras                                        CYCLE CAMERA
-HEADER_cycleweapons                                        CYCLE WEAPONS
-HEADER_date                                                DATE
-HEADER_deaths                                              DEATHS
-HEADER_decelerate                                          DECELERATE
-HEADER_enterexit                                           ENTER/EXIT
-HEADER_filename                                            FILE NAME
-HEADER_fire                                                FIRE
-HEADER_firstperson                                         COCKPIT
-HEADER_flare                                               FLARES
-HEADER_forward                                             FORWARD
-HEADER_gamemode                                            GAME MODE
+EOR_1                                                      スコアリスト
+EOR_1_commander                                            司令官
+EOR_1_playername                                           ユーザー名
+EOR_1_team1                                                ﾁｰﾑ 1
+EOR_1_team2                                                ﾁｰﾑ 2
+EOR_1_top20                                                上位 20 プレイヤー
+EOR_2_squadleader                                          隊長
+EOR_2_squadmembers                                         隊員
+EOR_4_gamemode                                             ゲームモード
+EOR_4_serverinfo                                           情報
+EOR_finishedloading                                        ロードが完了しました クライアントデータを確認しています
+EOR_onescape                                               ロードを中止しています
+EOR_shadersinprogress                                      安定したパフォーマンスを得るため最適化しています。この作業には数分かかります。 注意:ビデオ設定を変更するたびにこの作業は行われます。
+FAVORITE_ipadress                                          IPアドレス
+FAVORITE_port                                              ポート
+FAVORITE_title                                             お気に入りに追加
+GAME_MESSAGE_CONNECTION_PROBLEM                            接続に問題があります
+GAME_MESSAGE_DISCONNECTED                                  サーバーから切断されました
+GAME_MESSAGE_GAME_PAUSED                                   一時停止
+HEADER_3dmap                                               3Dマップ
+HEADER_accelerate                                          加速
+HEADER_accuracy                                            命中率
+HEADER_afterburner                                         アフタ-バ-ナ-
+HEADER_altfire                                             サブ攻撃
+HEADER_autoready                                           オートスタート
+HEADER_backwark                                            後退
+HEADER_behind                                              外部（前方）
+HEADER_boost                                               ブースト
+HEADER_closeoff                                            閉じる/オフ
+HEADER_comchannel                                          話す(司令官)
+HEADER_commander                                           司令官
+HEADER_console                                             コンソール
+HEADER_countermeasures                                     防衛手段
+HEADER_createsquad                                         分隊編成
+HEADER_crouch                                              かがむ
+HEADER_cyclecameras                                        カメラ切替え
+HEADER_cycleweapons                                        武器切替え
+HEADER_date                                                日付
+HEADER_deaths                                              死亡
+HEADER_decelerate                                          減速
+HEADER_enterexit                                           乗り降り
+HEADER_filename                                            ファイル名
+HEADER_fire                                                攻撃
+HEADER_firstperson                                         コックピット
+HEADER_flare                                               フレア
+HEADER_forward                                             全身
+HEADER_gamemode                                            ゲームモード
 HEADER_id                                                  ID
-HEADER_infront                                             CHASE REAR
-HEADER_invertmouse                                         INVERT MOUSE
-HEADER_jump                                                JUMP
-HEADER_kdratio                                             K/D RATIO
-HEADER_kills                                               KILLS
-HEADER_kitsplayed                                          KITS PLAYED
-HEADER_losses                                              LOSSES
-HEADER_mainradio                                           MAIN RADIO
-HEADER_map                                                 MAP
-HEADER_mapname                                             MAP NAME
-HEADER_maporder                                            MAP ORDER
-HEADER_mapsize                                             MAP SIZE
-HEADER_mapsizes                                            MAP SIZES:
-HEADER_mouselook                                           MOUSE LOOK
-HEADER_name                                                NAME
-HEADER_name2                                               NAME
-HEADER_numplayedtimes                                      PLAYED
-HEADER_openon                                              OPEN/ON
-HEADER_parachute                                           PARACHUTE
-HEADER_pause                                               PAUSE
-HEADER_pickupkit                                           PICKUP KIT
+HEADER_infront                                             外部（後方）
+HEADER_invertmouse                                         マウス反転
+HEADER_jump                                                ジャンプ
+HEADER_kdratio                                             殺傷/死亡
+HEADER_kills                                               殺傷
+HEADER_kitsplayed                                          兵科
+HEADER_losses                                              敗北
+HEADER_mainradio                                           主通信
+HEADER_map                                                 マップ
+HEADER_mapname                                             マップ名
+HEADER_maporder                                            順番
+HEADER_mapsize                                             マップサイズ
+HEADER_mapsizes                                            マップサイズ:
+HEADER_mouselook                                           マウスルック
+HEADER_name                                                名前
+HEADER_name2                                               ユーザ名
+HEADER_numplayedtimes                                      プレイ頻度
+HEADER_openon                                              開く/オン
+HEADER_parachute                                           落下傘
+HEADER_pause                                               ポーズ
+HEADER_pickupkit                                           装備を拾う
 HEADER_ping                                                PING
-HEADER_pitch                                               PITCH FACTOR
-HEADER_pitchbackward                                       PITCH BACK
-HEADER_pitchforward                                        PITCH FWD
-HEADER_playername                                          PLAYER NAME
-HEADER_players                                             PLAYERS
-HEADER_position1                                           POSITION 1
-HEADER_position2                                           POSITION 2
-HEADER_position3                                           POSITION 3
-HEADER_position4                                           POSITION 4
-HEADER_position5                                           POSITION 5
-HEADER_position6                                           POSITION 6
-HEADER_position7                                           POSITION 7
-HEADER_position8                                           POSITION 8
-HEADER_PRIMARY                                             PRIMARY
-HEADER_prone                                               PRONE
-HEADER_pushtotalk                                          PUSH TO TALK
-HEADER_rank                                                RANK
-HEADER_reload                                              RELOAD
-HEADER_roadkills                                           ROAD KILLS
-HEADER_rollleft                                            ROLL LEFT
-HEADER_rollright                                           ROLL RIGHT
-HEADER_rudderleft                                          RUDDER LEFT
-HEADER_rudderright                                         RUDDER RIGHT
-HEADER_sayall                                              SAY ALL
-HEADER_saysquad                                            SAY SQUAD
-HEADER_sayteam                                             SAY TEAM
-HEADER_score                                               SCORE
-HEADER_scoreboard                                          SCOREBOARD
-HEADER_screenshot                                          SCREEN SHOT
-HEADER_SECONDARY                                           SECONDARY
-HEADER_secradio                                            SEC. RADIO
-HEADER_sensitivity                                         SENSITIVITY
-HEADER_servername                                          SERVER NAME
-HEADER_smoke                                               POP SMOKE
-HEADER_spawnscreen                                         SPAWN SCREEN
-HEADER_sprint                                              SPRINT
-HEADER_squadscreen                                         SQUAD SCREEN
-HEADER_static                                              FLY BY
-HEADER_steerleft                                           STEER LEFT
-HEADER_steerright                                          STEER RIGHT
-HEADER_strafeleft                                          STRAFE LEFT
-HEADER_straferight                                         STRAFE RIGHT
-HEADER_time                                                TIME
-HEADER_timeonmap                                           TIME ON MAP
-HEADER_timeused                                            TIME USED
-HEADER_version                                             VERSION
-HEADER_voteno                                              VOTE NO
-HEADER_voteyes                                             VOTE YES
-HEADER_weapon1                                             WEAPON 1
-HEADER_weapon2                                             WEAPON 2
-HEADER_weapon3                                             WEAPON 3
-HEADER_weapon4                                             WEAPON 4
-HEADER_weapon5                                             WEAPON 5
-HEADER_weapon6                                             WEAPON 6
-HEADER_weapon7                                             WEAPON 7
-HEADER_weapon8                                             WEAPON 8
-HEADER_weapon9                                             WEAPON 9
-HEADER_wins                                                WINS
-HEADER_yaw                                                 YAW FACTOR
-HEADER_zoommap                                             ZOOM MAP
-HUD_CENTERINFOBOX_instantspawn                             INSTANT SPAWN
-HUD_CENTERINFOBOX_invalidspawnpoint                        INVALID SPAWNPOINT
-HUD_CENTERINFOBOX_presstospawn                             PRESS "DONE" TO SPAWN
-HUD_CENTERINFOBOX_selectspawnpoint                         SELECT SPAWNPOINT
-HUD_CENTERINFOBOX_timeuntildamage                          TIME UNTIL PUNISH: #TIME#
-HUD_COMMANDERAPPLY_POSFILLED                               A player with a higher rank than you has filled the Commander position
-HUD_COMRADIO_BUTTON_artilleryavailable                     Artillery Available
-HUD_COMRADIO_BUTTON_commendsquad                           Commend Squad
-HUD_COMRADIO_BUTTON_dividesquad                            Divide squad
-HUD_COMRADIO_BUTTON_followorders                           Follow Orders!
-HUD_COMRADIO_BUTTON_rebukesquad                            Rebuke Squad
-HUD_COMRADIO_BUTTON_sorry                                  Sorry
-HUD_COMRADIO_BUTTON_suppliesavailable                      Supplies Available
-HUD_COMRADIO_BUTTON_uavavailable                           UAV Available
-HUD_COMROSE_GRUNT_followme                                 FOLLOW
-HUD_HUD_COMMANDER_ACCEPTED                                 You have been accepted as Commander of the #TEAMNAME#
-HUD_HUD_COMMANDER_CANNOT_APPLY_FOR_MINUTES                 You cannot apply to be Commander for another §0#MINUTES#§1 minutes
-HUD_HUD_COMMANDER_CANNOT_APPLY_FOR_MINUTE                  You cannot apply to be Commander for another §0#MINUTE#§1 minute
-HUD_HUD_COMMANDER_NO_LONGER                                You are no longer commander of the #TEAMNAME#
-HUD_HUD_CP_CHANGED_TEAM                                    #TEAMNAME# team captured a control point
-HUD_HUD_DECLINED_COMMANDER                                 You declined to take Commander position
-HUD_HUD_DEMO_FAST_1                                        FAST 150% *
-HUD_HUD_DEMO_FAST_2                                        FAST 300% *
-HUD_HUD_DEMO_FAST_3                                        FAST 1000% *
-HUD_HUD_DEMO_FREE_CAM                                      FREE CAM 
-HUD_HUD_DEMO_NEXT_PLAYER                                   NEXT PLAYER 
-HUD_HUD_DEMO_NORMAL                                        NORMAL 100%
+HEADER_pitch                                               ピッチ調整
+HEADER_pitchbackward                                       ピッチ後退
+HEADER_pitchforward                                        ピッチ前進
+HEADER_playername                                          プレイヤー名
+HEADER_players                                             人数
+HEADER_position1                                           座席 1
+HEADER_position2                                           座席 2
+HEADER_position3                                           座席 3
+HEADER_position4                                           座席 4
+HEADER_position5                                           座席 5
+HEADER_position6                                           座席 6
+HEADER_position7                                           座席 7
+HEADER_position8                                           座席 8
+HEADER_PRIMARY                                             プライマリ
+HEADER_prone                                               伏せる
+HEADER_pushtotalk                                          話す
+HEADER_rank                                                ランク
+HEADER_reload                                              再装填
+HEADER_roadkills                                           路上殺傷
+HEADER_rollleft                                            左ロール
+HEADER_rollright                                           右ロール
+HEADER_rudderleft                                          左ラダー
+HEADER_rudderright                                         右ラダー
+HEADER_sayall                                              通信(全員)
+HEADER_saysquad                                            通信(分隊)
+HEADER_sayteam                                             通信(チーム)
+HEADER_score                                               スコア
+HEADER_scoreboard                                          スコアボード
+HEADER_screenshot                                          画面キャプチャ
+HEADER_SECONDARY                                           セカンダリ
+HEADER_secradio                                            副通信
+HEADER_sensitivity                                         感度
+HEADER_servername                                          サーバー名
+HEADER_smoke                                               発煙
+HEADER_spawnscreen                                         出撃画面
+HEADER_sprint                                              ダッシュ
+HEADER_squadscreen                                         分隊画面
+HEADER_static                                              フライバイ
+HEADER_steerleft                                           左に切る
+HEADER_steerright                                          右に切る
+HEADER_strafeleft                                          左に移動
+HEADER_straferight                                         右に移動
+HEADER_time                                                時間
+HEADER_timeonmap                                           時間
+HEADER_timeused                                            プレイ時間
+HEADER_version                                             バージョン
+HEADER_voteno                                              反対投票
+HEADER_voteyes                                             賛成投票
+HEADER_weapon1                                             武器 1
+HEADER_weapon2                                             武器 2
+HEADER_weapon3                                             武器 3
+HEADER_weapon4                                             武器 4
+HEADER_weapon5                                             武器 5
+HEADER_weapon6                                             武器 6
+HEADER_weapon7                                             武器 7
+HEADER_weapon8                                             武器 8
+HEADER_weapon9                                             武器 9
+HEADER_wins                                                勝利
+HEADER_yaw                                                 左右感度
+HEADER_zoommap                                             マップズーム
+HUD_CENTERINFOBOX_instantspawn                             すぐに出撃
+HUD_CENTERINFOBOX_invalidspawnpoint                        出撃地点が無効
+HUD_CENTERINFOBOX_presstospawn                             再出撃場所選択後"兵科承認"をクリック
+HUD_CENTERINFOBOX_selectspawnpoint                         兵科、再出撃場所選択
+HUD_CENTERINFOBOX_timeuntildamage                          処罰まで: #TIME#
+HUD_COMMANDERAPPLY_POSFILLED                               あなたよりランク上位のプレイヤーが司令官になりました
+HUD_COMRADIO_BUTTON_artilleryavailable                     砲撃準備完了
+HUD_COMRADIO_BUTTON_commendsquad                           称賛
+HUD_COMRADIO_BUTTON_dividesquad                            分離命令
+HUD_COMRADIO_BUTTON_followorders                           注意
+HUD_COMRADIO_BUTTON_rebukesquad                            叱責
+HUD_COMRADIO_BUTTON_sorry                                  謝罪
+HUD_COMRADIO_BUTTON_suppliesavailable                      物資準備完了
+HUD_COMRADIO_BUTTON_uavavailable                           UAV準備完了
+HUD_COMROSE_GRUNT_followme                                 随伴要請
+HUD_HUD_COMMANDER_ACCEPTED                                 #TEAMNAME#の司令官として承認されました
+HUD_HUD_COMMANDER_CANNOT_APPLY_FOR_MINUTES                 §0#MINUTES#§1分間は司令官に志願できません
+HUD_HUD_COMMANDER_CANNOT_APPLY_FOR_MINUTE                  §0#MINUTE#§1分間は司令官に志願できません
+HUD_HUD_COMMANDER_NO_LONGER                                #TEAMNAME#の司令官を辞任しました
+HUD_HUD_CP_CHANGED_TEAM                                    #TEAMNAME#が陣地を占領した
+HUD_HUD_DECLINED_COMMANDER                                 司令官への就任を取り下げました
+HUD_HUD_DEMO_FAST_1                                        速 150% *
+HUD_HUD_DEMO_FAST_2                                        速 300% *
+HUD_HUD_DEMO_FAST_3                                        速 1000% *
+HUD_HUD_DEMO_FREE_CAM                                      フリーカメラ 
+HUD_HUD_DEMO_NEXT_PLAYER                                   次のプレイヤー 
+HUD_HUD_DEMO_NORMAL                                        ノーマル 100%
 HUD_HUD_DEMO_NORMALSPEED                                   1
-HUD_HUD_DEMO_PAUSE                                         PAUSE 
-HUD_HUD_DEMO_PLAY                                          PLAY
-HUD_HUD_DEMO_PLAYER_CAM                                    PLAYER CAM
-HUD_HUD_DEMO_PREV_PLAYER                                   PREV PLAYER 
-HUD_HUD_DEMO_QUIT                                          QUIT
-HUD_HUD_DEMO_RESTART                                       RESTART
-HUD_HUD_DEMO_SLOW_1                                        SLOW 50%
-HUD_HUD_DEMO_SLOW_2                                        SLOW 25%
-HUD_HUD_DEMO_SLOW_3                                        SLOW 10%
-HUD_HUD_GAMESTART_moreplayersneeded                        Players needed until round starts
-HUD_HUD_KICKVOTE_CANNOT_KICK_HOST                          You cannot kick the host
-HUD_HUD_KICKVOTE_CANNOT_KICK_SELF                          You cannot vote against yourself
-HUD_HUD_KICKVOTE_COMMANDER_NOT_IN_GAME                     Vote successful by default. Player #PLAYERNAME# has resigned as commander mid-vote.
-HUD_HUD_KICKVOTE_IN_PROGRESS                               Another vote is currently in progress
-HUD_HUD_KICKVOTE_PLAYER_NOT_IN_GAME                        Vote successful by default. Player #PLAYERNAME# has left the game.
-HUD_HUD_KICKVOTE_PLAYER_NOT_IN                             You cannot kick a player that is not yet in the game
-HUD_HUD_KICKVOTE_UNABLE_TO_ISSUE                           Unable to issue another vote for another §0#MINUTES#§1 minute(s)
-HUD_HUD_KICKVOTE_UNABLE_TO_START_VOTE                      There are not enough players in the game to start a vote
-HUD_HUD_KICKVOTE_VOTE_NO                                   Voted No
-HUD_HUD_KICKVOTE_VOTE_YES                                  Voted Yes
-HUD_HUD_MENU_CHAT_SPAM_MESSAGE                             Blocked for §0#SEC#§1 second(s).
-HUD_HUD_MENU_COMMANDER_HEADING                             COMMANDER
-HUD_HUD_MENU_COMMANDER_RESIGN                              You have resigned as commander
-HUD_HUD_MENU_TEAMS_EQUALIZE                                You were moved to the other team by the server
-HUD_HUD_RANGE_TO_TARGET_TEXT                               Range: #RANGE#
-HUD_HUD_SCOREBOARD_HELP_ACTIVATE_MOUSE                     Right click to activate mouse
-HUD_HUD_SQUAD_ALIVE_TO_ORDER                               Need to be alive to issue order!
-HUD_HUD_SQUAD_ALIVE_TO_REQUEST                             Need to be alive to issue request!
-HUD_HUD_SQUAD_COMMANDER_MUST_RESIGN                        Must resign as commander before creating or joining a squad!
-HUD_HUD_SQUAD_DENIED_TO_ACCESS_SQUAD                       §0#PLAYERNAME#§1 has been denied access to your squad
-HUD_HUD_SQUAD_EXISTS                                       §0#SQUADNAME#§1 squad already exists
-HUD_HUD_SQUAD_FULL                                         #TEAMNAME# §0#SQUADNAME#§1 squad is full
-HUD_HUD_SQUAD_GRANTED_TO_ACCESS_SQUAD                      §0#PLAYERNAME#§1 has been granted access to your squad
-HUD_HUD_SQUAD_HAS_ASKED_TO_JOIN                            §0#PLAYERNAME#§1 has asked to join your squad
-HUD_HUD_SQUAD_HAS_JOINED                                   §0#PLAYERNAME#§1 has joined your squad
-HUD_HUD_SQUAD_HAS_LEFT                                     §0#PLAYERNAME#§1 has left your squad
-HUD_HUD_SQUAD_INVITED_TO                                   You have been invited to §0#SQUADNAME#§1 squad
-HUD_HUD_SQUAD_IS_KICKED                                    You have been kicked from your squad
-HUD_HUD_SQUAD_JOIN_ACCEPTED                                Your request to join §0#SQUADNAME#§1 squad has been accepted
-HUD_HUD_SQUAD_JOIN_DENIED                                  Your request to join §0#SQUADNAME#§1 squad has been denied
-HUD_HUD_SQUAD_MAX_REACHED                                  Maximum number of squads reached
-HUD_HUD_SQUAD_MUST_LEAVE_TO_CREATE                         You must leave §0#SQUADNAME#§1 before you can create a new squad
-HUD_HUD_SQUAD_MUST_LEAVE_TO_JOIN                           Must leave §0#SQUADNAME1#§1 squad to join §0#SQUADNAME2#§1 squad!
-HUD_HUD_SQUAD_NO_SQUAD_SELECTED                            Need to select squad to issue order!
-HUD_HUD_SQUAD_ORDER_SENT_SQUAD                             Order sent to §0#SQUADNAME#§1 squad
-HUD_HUD_SQUAD_PRIVATE_REQUEST_JOIN                         §0#SQUADNAME#§1 squad is private, a request to join has been sent to the squadleader
-HUD_HUD_SQUAD_RECIEVED_ACCEPT_REJECT_AUTO                  Del/End/PgDwn to accept/reject/auto
-HUD_HUD_SQUAD_RECIEVED_ACCEPT_REJECT                       Press '§C1001#GIYes#§C1001' to §C1001Accept§C1001 or '§C1001#GINo#§C1001' to §C1001Reject§C1001
-HUD_HUD_SQUAD_RECIEVED_AUTOACCEPT                          PgDwn - to disable autoaccept
-HUD_HUD_SQUAD_RECIEVED_DISABLE                             The order was auto-accepted, press PageDown to disable autoaccept
-HUD_HUD_SQUAD_REQUEST_TO_COMMANDER                         Request sent to commander
-HUD_HUD_SQUAD_SQUADLEADER                                  You are the squadleader of your squad
-HUD_HUD_SQUADINFO_COMMANDER                                COMMANDER
-HUD_HUD_SQUADINFO_SQUADLEADER                              SQUAD LEADER
-HUD_HUD_SQUADINFO_SQUADMEMBER                              SQUAD MEMBER
-HUD_HUD_SQUADLEADER_ACCEPTED                               Do you want to become Squad Leader for this Squad?
-HUD_HUD_TEAM_DAMAGE_PLAYER                                 Team damage! Don't hurt your teammates!
-HUD_HUD_TEAM_DAMAGE_VEHICLE                                Team vehicle damage!
-HUD_HUD_TEXT_EMPTY_SQUAD                                   §0EMPTY SQUAD
-HUD_HUD_YESNO                                              Press '§C1001#GIYes#§C1001' for §C1001Yes§C1001 or '§C1001#GINo#§C1001' for §C1001No§C1001
-HUD_INGAME_QUIT                                            Quit
-HUD_MENU_HELP_MENU_IS_LOADING                              Menu loading
-HUD_MODIFIEDCONTENTNOTALLOWED                              You are not allowed to play with modified content on this server
-HUD_NEWMAPLOADING                                          Loading
-HUD_SINGLEPLAYER_STARTGAME                                 Start game
-HUD_SQUAD_formsquads                                       Form squads, please!
-HUD_SQUAD_invitationtojoin                                 Join our squad?
-HUD_SQUAD_ordersheader                                     Squad Order
-HUD_SQUAD_requesttojoin                                    May I join your squad?
-HUD_SQUAD_squadsneeded                                     Squads needed!
-HUD_SQUADTAB_CREATE                                        CREATE
-HUD_SQUADTAB_INVITE                                        INVITE
-HUD_SQUADTAB_KICK                                          KICK
-HUD_SQUADTAB_SQUAD                                         SQUAD
-HUD_SQUADTAB_SQUADFULL                                     SQUAD FULL
-HUD_SQUADTAB_TEAM                                          TEAM
-HUD_STARTOFROUND_NRPLAYERSNEEDED                           The game will start when #NROFPLAYERS# more player(s) join
-HUD_TEXT_CHAT_COMMANDER                                    <§1COMMANDER§0>
-HUD_TEXT_CHAT_SAY_ALL                                      Say All: 
-HUD_TEXT_CHAT_SAY_SQUAD                                    Say Squad: 
-HUD_TEXT_CHAT_SAY_TEAM                                     Say Team: 
-HUD_TEXT_CHAT_SQUAD                                        <§1SQUAD§0>
-HUD_TEXT_CHAT_TEAM                                         <§1TEAM§0>
-HUD_TEXT_COMMANDER_ACCEPT                                  ACCEPT
-HUD_TEXT_COMMANDER_ATTACK                                  ATTACK
-HUD_TEXT_COMMANDER_CANCEL                                  CANCEL
-HUD_TEXT_COMMANDER_COMMUNICATION_ALL                       ALL
-HUD_TEXT_COMMANDER_COMMUNICATION_SELECTED                  Selected
-HUD_TEXT_COMMANDER_COMMUNICATION_SQUAD                     SQUAD
-HUD_TEXT_COMMANDER_COMMUNICATION_TEAM                      TEAM
-HUD_TEXT_COMMANDER_DENY                                    DENY
-HUD_TEXT_COMMANDER_FILTERS_FILTERS                         Filters
-HUD_TEXT_COMMANDER_FILTERS_KITS                            KITS
-HUD_TEXT_COMMANDER_FILTERS_VEHCILES                        VEHICLES
-HUD_TEXT_COMMANDER_HELP                                    Help
-HUD_TEXT_COMMANDER_LOCATION                                LOCATION:
-HUD_TEXT_COMMANDER_MINE                                    MINE
-HUD_TEXT_COMMANDER_PLAYERS                                 PLAYERS
-HUD_TEXT_COMMANDER_REGROUP                                 Regroup
-HUD_TEXT_COMMANDER_REPAIR                                  REPAIR
-HUD_TEXT_COMMANDER_RESIGN                                  RESIGN
-HUD_TEXT_COMMANDER_SCORE                                   SCORE
-HUD_TEXT_COMMANDER_TIMELEFT                                Time Left
-HUD_TEXT_LASERTARGET_TARGET_AQUIRED                        TARGET AQUIRED
-HUD_TEXT_MENU_ADD_FAVOURITE                                ADD FAVORITE
-HUD_TEXT_MENU_REMOVE_FAVOURITE                             REMOVE FAVORITE
-HUD_TEXT_MENU_CHANGED_TEAM                                 You have changed team
-HUD_TEXT_MENU_COMMANDER_APPLICATION_TIMED_OUT              Commander application timed out
-HUD_TEXT_MENU_COMMANDER_ORDER_TIMED_OUT                    Commander order timed out
-HUD_TEXT_MENU_END_OF_ROUND                                 END OF ROUND
-HUD_TEXT_MENU_INVITE_PROPOSAL_TIMED_OUT                    Invitation to squad timed out
-HUD_TEXT_MENU_INVITE_REQUEST_ACCEPTED_TIMED_OUT            Squad Leader has not responded
-HUD_TEXT_MENU_MAP_QUICKMENU_ARTILLERY                      ARTILLERY
-HUD_TEXT_MENU_MAP_QUICKMENU_ATTACK                         ATTACK
-HUD_TEXT_MENU_MAP_QUICKMENU_DEFEND                         DEFEND
-HUD_TEXT_MENU_MAP_QUICKMENU_MOVE                           MOVE
-HUD_TEXT_MENU_MAP_QUICKMENU_SPOTTED                        SPOTTED
-HUD_TEXT_MENU_MAP_QUICKMENU_SUPPLIES                       SUPPLIES
-HUD_TEXT_MENU_MAP_QUICKMENU_UAV                            UAV
-HUD_TEXT_MENU_MAP_QUICKMENU_ZOOMIN                         ZOOM
-HUD_TEXT_MENU_MAP_QUICKMENU_ZOOMOUT                        Zoom Out
-HUD_TEXT_MENU_SCORE_MANAGE                                 MANAGE
-HUD_TEXT_MENU_SCORE_PLAYERNAME                             PLAYER NAME
-HUD_TEXT_MENU_SCORE_PLAYERS                                PLAYERS
-HUD_TEXT_MENU_SCORE_ROUNDSWON                              ROUNDS WON
-HUD_TEXT_MENU_SCORE_SQUADS                                 SQUADS
-HUD_TEXT_MENU_SCORE_TOTALPLAYERS                           TOTAL PLAYERS
-HUD_TEXT_MENU_SCOREBOARD_NUMBER_OF_PLAYERS                 TOTAL PLAYERS: #PLAYERS#
-HUD_TEXT_MENU_SPAWN_INITIATE_MAP_VOTE                      INITIATE MAP VOTE
-HUD_TEXT_MENU_SPAWN_KIT_KIT                                KIT
-HUD_TEXT_MENU_SPAWN_MAP_VOTE_NOOFPLAYERS                   NUMBER OF PLAYERS:
-HUD_TEXT_MENU_SPAWN_MAP_VOTE_NOVOTES                       NO VOTES: 
-HUD_TEXT_MENU_SPAWN_MAP_VOTE_YESVOTES                      YES VOTES: 
-HUD_TEXT_MENU_SPAWN_PROMPT_PRESSDONETOSPAWN                PRESS 'DONE' TO SPAWN
-HUD_TEXT_MENU_SPAWN_SQUAD_APPLY                            APPLY
-HUD_TEXT_MENU_SPAWN_SQUAD_CANCEL                           CANCEL
-HUD_TEXT_MENU_SPAWN_SQUAD_COMMANDER                        COMMANDER
-HUD_TEXT_MENU_SPAWN_SQUAD_CREATESQUAD                      CUSTOM SQUAD
-HUD_TEXT_MENU_SPAWN_SQUAD_JOIN                             JOIN
-HUD_TEXT_MENU_SPAWN_SQUAD_LEAVE                            LEAVE
-HUD_TEXT_MENU_SPAWN_SQUAD_MANAGESQUAD                      MANAGE SQUAD
-HUD_TEXT_MENU_SPAWN_SQUAD_MUTINITY                         MUTINY
-HUD_TEXT_MENU_SPAWN_SQUAD_NUMBER_OF_SQUADS                 SQUADS #ACTIVE#/#TOTAL#
-HUD_TEXT_MENU_SPAWN_SQUAD_NUMBER_OF_UNASSIGNED             UNASSIGNED #UNASSIGNED#/#TOTAL#
-HUD_TEXT_MENU_SPAWN_SQUAD_PASSWORD                         Password
-HUD_TEXT_MENU_SPAWN_SQUAD_SOLDIER                          SOLDIER
-HUD_TEXT_MENU_SPAWN_SQUAD_SQUADLEADER                      SQUADLEADER
-HUD_TEXT_MENU_SPAWN_SQUAD_SQUADNAME                        SQUAD NAME
-HUD_TEXT_MENU_SPAWN_SQUAD_SQUAD                            SQUAD
-HUD_TEXT_MENU_SPAWN_SQUAD_SQUADS                           SQUADS
-HUD_TEXT_MENU_SPAWN_SQUAD_UNASSIGNED                       UNASSIGNED
-HUD_TEXT_MENU_SPAWN_SUICIDE                                SUICIDE
-HUD_TEXT_MENU_SQUAD_MANAGE_BUDDY                           Buddy
-HUD_TEXT_MENU_SQUAD_MANAGE_KICKVOTE                        KICK VOTE
-HUD_TEXT_MENU_SQUAD_MANAGE_MAPVOTE                         MAP VOTE
+HUD_HUD_DEMO_PAUSE                                         一時停止 
+HUD_HUD_DEMO_PLAY                                          プレイ
+HUD_HUD_DEMO_PLAYER_CAM                                    プレイヤーカメラ
+HUD_HUD_DEMO_PREV_PLAYER                                   前のプレイヤー 
+HUD_HUD_DEMO_QUIT                                          終了
+HUD_HUD_DEMO_RESTART                                       リスタート
+HUD_HUD_DEMO_SLOW_1                                        遅 50%
+HUD_HUD_DEMO_SLOW_2                                        遅 25%
+HUD_HUD_DEMO_SLOW_3                                        遅 10%
+HUD_HUD_GAMESTART_moreplayersneeded                        ラウンド開始までに必要なプレイヤー
+HUD_HUD_KICKVOTE_CANNOT_KICK_HOST                          ホストをキックすることはできません
+HUD_HUD_KICKVOTE_CANNOT_KICK_SELF                          自分に対して投票することはできません
+HUD_HUD_KICKVOTE_COMMANDER_NOT_IN_GAME                     投票は終了しました §c1001#PLAYERNAME#§c1001は司令官を解任されました
+HUD_HUD_KICKVOTE_IN_PROGRESS                               すでに他の投票が行われています
+HUD_HUD_KICKVOTE_PLAYER_NOT_IN_GAME                        投票が終了しました §c1001#PLAYERNAME#§c1001はキックされました
+HUD_HUD_KICKVOTE_PLAYER_NOT_IN                             まだプレイヤーをキックすることはきません
+HUD_HUD_KICKVOTE_UNABLE_TO_ISSUE                           §0#MINUTES#§1分間は新たに投票を行えません
+HUD_HUD_KICKVOTE_UNABLE_TO_START_VOTE                      投票を開始するためのプレイヤー数が足りません
+HUD_HUD_KICKVOTE_VOTE_NO                                   反対に投票
+HUD_HUD_KICKVOTE_VOTE_YES                                  賛成に投票
+HUD_HUD_MENU_CHAT_SPAM_MESSAGE                             発言が§0#SEC#§1秒間ブロックされます
+HUD_HUD_MENU_COMMANDER_HEADING                             司令官
+HUD_HUD_MENU_COMMANDER_RESIGN                              司令官を辞任しました
+HUD_HUD_MENU_TEAMS_EQUALIZE                                <オートバランス>
+HUD_HUD_RANGE_TO_TARGET_TEXT                               範囲: #RANGE#
+HUD_HUD_SCOREBOARD_HELP_ACTIVATE_MOUSE                     右クリックでマウスがアクティブ
+HUD_HUD_SQUAD_ALIVE_TO_ORDER                               死亡した状態では命令を出すことができません
+HUD_HUD_SQUAD_ALIVE_TO_REQUEST                             死亡した状態では要請を出すことができません
+HUD_HUD_SQUAD_COMMANDER_MUST_RESIGN                        新規に分隊を編成したり既存の分隊に参加する場合は司令官を辞任しなければならない
+HUD_HUD_SQUAD_DENIED_TO_ACCESS_SQUAD                       §0#PLAYERNAME#§1は分隊への接近を拒否されました
+HUD_HUD_SQUAD_EXISTS                                       §0#SQUADNAME#§1はすでに存在しています
+HUD_HUD_SQUAD_FULL                                         #TEAMNAME#の§0#SQUADNAME#§1分隊は満員です
+HUD_HUD_SQUAD_GRANTED_TO_ACCESS_SQUAD                      §0#PLAYERNAME#§1は分隊への参加を認められました
+HUD_HUD_SQUAD_HAS_ASKED_TO_JOIN                            §0#PLAYERNAME#§1が分隊への参加を希望しています
+HUD_HUD_SQUAD_HAS_JOINED                                   0§c1001#PLAYERNAME#§c1001§1が分隊に参加しました
+HUD_HUD_SQUAD_HAS_LEFT                                     §c1001#PLAYERNAME#§c1001§1が分隊を離脱しました
+HUD_HUD_SQUAD_INVITED_TO                                   §0#SQUADNAME#§1分隊に招待されました
+HUD_HUD_SQUAD_IS_KICKED                                    分隊からキックされました
+HUD_HUD_SQUAD_JOIN_ACCEPTED                                §0#SQUADNAME#§1分隊への参加を認められました
+HUD_HUD_SQUAD_JOIN_DENIED                                  §0#SQUADNAME#§1分隊への参加を拒否されました
+HUD_HUD_SQUAD_MAX_REACHED                                  分隊数が上限に達しした
+HUD_HUD_SQUAD_MUST_LEAVE_TO_CREATE                         新たに分隊を編成するには§0#SQUADNAME#§1分隊から離脱してください
+HUD_HUD_SQUAD_MUST_LEAVE_TO_JOIN                           0#SQUADNAME2#§1に参加するには §0#SQUADNAME1#§1を離脱してください
+HUD_HUD_SQUAD_NO_SQUAD_SELECTED                            分隊を選択して指令を出してください
+HUD_HUD_SQUAD_ORDER_SENT_SQUAD                             §0#SQUADNAME#§1分隊に指令が発令されました
+HUD_HUD_SQUAD_PRIVATE_REQUEST_JOIN                         §0#SQUADNAME#§1分隊に参加するために隊長に参加要請が送られました
+HUD_HUD_SQUAD_RECIEVED_ACCEPT_REJECT_AUTO                  Delキーで受諾 / Endキーで拒否 / PageDownキーで自動
+HUD_HUD_SQUAD_RECIEVED_ACCEPT_REJECT                       §C1001受諾§C1001なら'§C1001#GIYes#§C1001'　§C1001拒否§C1001なら'§C1001#GINo#§C1001'
+HUD_HUD_SQUAD_RECIEVED_AUTOACCEPT                          PageDownキーで自動受諾を無効
+HUD_HUD_SQUAD_RECIEVED_DISABLE                             指令を自動承諾した PageDownキーで自動受諾を無効
+HUD_HUD_SQUAD_REQUEST_TO_COMMANDER                         司令官に要請が送られました
+HUD_HUD_SQUAD_SQUADLEADER                                  分隊長として承認されました
+HUD_HUD_SQUADINFO_COMMANDER                                司令官
+HUD_HUD_SQUADINFO_SQUADLEADER                              隊長
+HUD_HUD_SQUADINFO_SQUADMEMBER                              隊員
+HUD_HUD_SQUADLEADER_ACCEPTED                               この分隊の隊長に志願しますか?
+HUD_HUD_TEAM_DAMAGE_PLAYER                                 友軍にダメージ！！
+HUD_HUD_TEAM_DAMAGE_VEHICLE                                友軍の車輌にダメージ！！
+HUD_HUD_TEXT_EMPTY_SQUAD                                   §0空き
+HUD_HUD_YESNO                                              §C1001はい§C1001なら'§C1001#GIYes#§C1001'　§C1001いいえ§C1001なら'§C1001#GINo#§C1001'
+HUD_INGAME_QUIT                                            終了
+HUD_MENU_HELP_MENU_IS_LOADING                              メニューをロード中
+HUD_MODIFIEDCONTENTNOTALLOWED                              このサーバーの修正されたコンテンツでプレイすることはできません
+HUD_NEWMAPLOADING                                          ロード中
+HUD_SINGLEPLAYER_STARTGAME                                 開始
+HUD_SQUAD_formsquads                                       分隊を要請
+HUD_SQUAD_invitationtojoin                                 分隊に参加しますか?
+HUD_SQUAD_ordersheader                                     分隊命令
+HUD_SQUAD_requesttojoin                                    分隊に参加してもいいですか?
+HUD_SQUAD_squadsneeded                                     分隊要請
+HUD_SQUADTAB_CREATE                                        作成
+HUD_SQUADTAB_INVITE                                        招待
+HUD_SQUADTAB_KICK                                          キック
+HUD_SQUADTAB_SQUAD                                         分隊
+HUD_SQUADTAB_SQUADFULL                                     空きなし
+HUD_SQUADTAB_TEAM                                          チーム
+HUD_STARTOFROUND_NRPLAYERSNEEDED                           ゲーム開始には#NROFPLAYERS#人以上の対戦相手が必要です
+HUD_TEXT_CHAT_COMMANDER                                    <§1司令官§0>
+HUD_TEXT_CHAT_SAY_ALL                                      All>> 
+HUD_TEXT_CHAT_SAY_SQUAD                                    Squad>> 
+HUD_TEXT_CHAT_SAY_TEAM                                     Team>> 
+HUD_TEXT_CHAT_SQUAD                                        <§1分隊§0>
+HUD_TEXT_CHAT_TEAM                                         <§1チーム§0>
+HUD_TEXT_COMMANDER_ACCEPT                                  受諾
+HUD_TEXT_COMMANDER_ATTACK                                  攻撃
+HUD_TEXT_COMMANDER_CANCEL                                  キャンセル
+HUD_TEXT_COMMANDER_COMMUNICATION_ALL                       全員
+HUD_TEXT_COMMANDER_COMMUNICATION_SELECTED                  選択済
+HUD_TEXT_COMMANDER_COMMUNICATION_SQUAD                     分隊
+HUD_TEXT_COMMANDER_COMMUNICATION_TEAM                      チーム
+HUD_TEXT_COMMANDER_DENY                                    拒否
+HUD_TEXT_COMMANDER_FILTERS_FILTERS                         フィルター
+HUD_TEXT_COMMANDER_FILTERS_KITS                            兵科
+HUD_TEXT_COMMANDER_FILTERS_VEHCILES                        車両
+HUD_TEXT_COMMANDER_HELP                                    ヘルプ
+HUD_TEXT_COMMANDER_LOCATION                                場所:
+HUD_TEXT_COMMANDER_MINE                                    地雷
+HUD_TEXT_COMMANDER_PLAYERS                                 プレイヤー
+HUD_TEXT_COMMANDER_REGROUP                                 再編
+HUD_TEXT_COMMANDER_REPAIR                                  修理
+HUD_TEXT_COMMANDER_RESIGN                                  辞任
+HUD_TEXT_COMMANDER_SCORE                                   スコア
+HUD_TEXT_COMMANDER_TIMELEFT                                残り時間
+HUD_TEXT_LASERTARGET_TARGET_AQUIRED                        確保した敵
+HUD_TEXT_MENU_ADD_FAVOURITE                                お気に入りを追加
+HUD_TEXT_MENU_REMOVE_FAVOURITE                             お気に入りを削除
+HUD_TEXT_MENU_CHANGED_TEAM                                 チームを変更しました
+HUD_TEXT_MENU_COMMANDER_APPLICATION_TIMED_OUT              司令官への承認確認　<時間切れ>
+HUD_TEXT_MENU_COMMANDER_ORDER_TIMED_OUT                    司令官の指令　<時間切れ>
+HUD_TEXT_MENU_END_OF_ROUND                                 ラウンド終了
+HUD_TEXT_MENU_INVITE_PROPOSAL_TIMED_OUT                    分隊への招待　<時間切れ>
+HUD_TEXT_MENU_INVITE_REQUEST_ACCEPTED_TIMED_OUT            隊長からの返答がありません
+HUD_TEXT_MENU_MAP_QUICKMENU_ARTILLERY                      砲撃
+HUD_TEXT_MENU_MAP_QUICKMENU_ATTACK                         攻撃
+HUD_TEXT_MENU_MAP_QUICKMENU_DEFEND                         防御
+HUD_TEXT_MENU_MAP_QUICKMENU_MOVE                           移動
+HUD_TEXT_MENU_MAP_QUICKMENU_SPOTTED                        発見
+HUD_TEXT_MENU_MAP_QUICKMENU_SUPPLIES                       物資
+HUD_TEXT_MENU_MAP_QUICKMENU_UAV                            偵察
+HUD_TEXT_MENU_MAP_QUICKMENU_ZOOMIN                         ズーム
+HUD_TEXT_MENU_MAP_QUICKMENU_ZOOMOUT                        ズームアウト
+HUD_TEXT_MENU_SCORE_MANAGE                                 管理
+HUD_TEXT_MENU_SCORE_PLAYERNAME                             ユーザー名
+HUD_TEXT_MENU_SCORE_PLAYERS                                プレイヤー
+HUD_TEXT_MENU_SCORE_ROUNDSWON                              ラウンド勝利
+HUD_TEXT_MENU_SCORE_SQUADS                                 分隊
+HUD_TEXT_MENU_SCORE_TOTALPLAYERS                           プレイヤー数
+HUD_TEXT_MENU_SCOREBOARD_NUMBER_OF_PLAYERS                 総プレイヤー数: #PLAYERS#
+HUD_TEXT_MENU_SPAWN_INITIATE_MAP_VOTE                      マップ投票開始
+HUD_TEXT_MENU_SPAWN_KIT_KIT                                兵科
+HUD_TEXT_MENU_SPAWN_MAP_VOTE_NOOFPLAYERS                   プレイヤー数:
+HUD_TEXT_MENU_SPAWN_MAP_VOTE_NOVOTES                       反対:
+HUD_TEXT_MENU_SPAWN_MAP_VOTE_YESVOTES                      賛成:
+HUD_TEXT_MENU_SPAWN_PROMPT_PRESSDONETOSPAWN                "兵科承認"で出撃
+HUD_TEXT_MENU_SPAWN_SQUAD_APPLY                            適用
+HUD_TEXT_MENU_SPAWN_SQUAD_CANCEL                           キャンセル
+HUD_TEXT_MENU_SPAWN_SQUAD_COMMANDER                        司令官
+HUD_TEXT_MENU_SPAWN_SQUAD_CREATESQUAD                      分隊を作成
+HUD_TEXT_MENU_SPAWN_SQUAD_JOIN                             参加
+HUD_TEXT_MENU_SPAWN_SQUAD_LEAVE                            離脱
+HUD_TEXT_MENU_SPAWN_SQUAD_MANAGESQUAD                      分隊の管理
+HUD_TEXT_MENU_SPAWN_SQUAD_MUTINITY                         解任
+HUD_TEXT_MENU_SPAWN_SQUAD_NUMBER_OF_SQUADS                 分隊  #ACTIVE#/#TOTAL#
+HUD_TEXT_MENU_SPAWN_SQUAD_NUMBER_OF_UNASSIGNED             無所属  #UNASSIGNED#/#TOTAL#
+HUD_TEXT_MENU_SPAWN_SQUAD_PASSWORD                         パスワード
+HUD_TEXT_MENU_SPAWN_SQUAD_SOLDIER                          兵士
+HUD_TEXT_MENU_SPAWN_SQUAD_SQUADLEADER                      分隊長
+HUD_TEXT_MENU_SPAWN_SQUAD_SQUADNAME                        分隊名
+HUD_TEXT_MENU_SPAWN_SQUAD_SQUAD                            分隊
+HUD_TEXT_MENU_SPAWN_SQUAD_SQUADS                           分隊
+HUD_TEXT_MENU_SPAWN_SQUAD_UNASSIGNED                       無所属
+HUD_TEXT_MENU_SPAWN_SUICIDE                                自滅
+HUD_TEXT_MENU_SQUAD_MANAGE_BUDDY                           マイリスト
+HUD_TEXT_MENU_SQUAD_MANAGE_KICKVOTE                        キック投票
+HUD_TEXT_MENU_SQUAD_MANAGE_MAPVOTE                         マップ選択投票
 HUD_TEXT_MENU_SQUAD_MANAGE_VOIP                            VoIP
-HUD_TEXT_MENU_TIME_TO_REVIVE                               YOU WILL BE DEAD IN:
-HUD_TEXT_TEAMKILL_PUNISHED                                 You were punished for a teamkill!
-HUD_YOUHAVEKICKEDPLAYER                                    You have kicked §0#PLAYERNAME#§1 from your squad.
+HUD_TEXT_MENU_TIME_TO_REVIVE                               死亡まで:
+HUD_TEXT_TEAMKILL_PUNISHED                                 チームキルで処罰を受けた
+HUD_YOUHAVEKICKEDPLAYER                                    分隊から§0§c1001#PLAYERNAME#§c1001§をキックしました
 LEGAL_brandscreen                                          EA GAMES™ is an Electronic Arts™ brand.
 LEGAL_creative                                             EAX is either a trademark or registered trademark of Creative Technology Ltd in the United States and/or other countries.
 LEGAL_endscreen                                            Battlefield 2 and Battlefield 2: Special Forces are trademarks of Digital Illusions CE AB.
@@ -932,293 +933,293 @@ LEGAL_large                                                  © 2005 Digital I
 LEGAL_onlineplayofferedbygamespy                           Online play is offered through GameSpy.  There is no requirement to create an EA Online Account to play online, although users will need to register through a GameSpy registration process
 LEGAL_poweredbygamespy                                     Powered by GameSpy
 LEGAL_titlescreen                                          © 2005 Digital Illusions CE AB.  All rights reserved.
-LOCERROR_banned                                            You have been banned from the server by a sever admin or because of excessive teamkilling.
-LOCERROR_cdkey                                             CD-key is already in use. Please contact Electronic Arts customer support if you suspect that your CD-key has been hijacked.
-LOCERROR_cdkeynotvalid                                     Your CD-key is not valid
-LOCERROR_checksize                                         There is a problem creating this local profile on your hard drive. Please check that you have enough room on your hard drive.  You need a minimum 100 KB for a profile.
-LOCERROR_connection                                        Your connection to the server has been lost.
-LOCERROR_connectionfailed                                  You have failed to connect. Please check your network connection(s) and try again.
-LOCERROR_dataacritical                                     Network data corruption error.  Please try again.
-LOCERROR_driverincompatible                                In order to have an optimal graphical experience, you need to update your current video driver. You can upgrade to the minimum required driver version, by clicking the 'Install NVIDIA Drivers' button, on the Battlefield 2 splash screen.
-LOCERROR_dup_AirPlayerInputControlMap                      Duplicate key found in Air controls.
-LOCERROR_dup_defaultGameControlMap                         Duplicate key found in Common controls.
-LOCERROR_dup_defaultPlayerInputControlMap                  Duplicate key found in Common controls.
-LOCERROR_dup_HelicopterPlayerInputControlMap               Duplicate key found in Helicopter controls.
-LOCERROR_dup_InfantryPlayerInputControlMap                 Duplicate key found in Common controls.
-LOCERROR_dup_LandPlayerInputControlMap                     Duplicate key found in Land controls.
-LOCERROR_dup_SeaPlayerInputControlMap                      Duplicate key found in Boat controls.
-LOCERROR_invalidaccount                                    The account is invalid.  Either the name is incorrect or email address is incorrect or already in use.  Please try again.
-LOCERROR_invalidexe                                        You are using an invalid Battlefield 2 executable.
-LOCERROR_invalidip                                         You have entered an invalid IP address.
-LOCERROR_invalidnamecharacter                              Your account name is invalid. Certain characters are not accepted in account names. Please enter another name.
-LOCERROR_invalidnamespace                                  Your account name is invalid. A space is not accepted as a valid character for account names.  Please enter another name.
-LOCERROR_invalidnamethree                                  Your account name is invalid. The first three characters must not contain the following: @ + #. Please enter another name.
-LOCERROR_invalidsrvpassword                                This server is password protected. You have entered an invalid password.
-LOCERROR_invalidsrvpassword2                               Invalid reserver password
-LOCERROR_joinserverselected                                No server selected
-LOCERROR_keydisabled                                       Your CD-key is disabled.
-LOCERROR_mapmissing                                        You do not have the map which is currently in rotation on this game server.
-LOCERROR_modifiedcontent                                   This server only allows players with unmodified content to join. Revert your version of Battlefield 2 to the current official version to join.
-LOCERROR_nameexists                                        An account name already exists for that email address/password. Please try again with a different email address or password.
-LOCERROR_namelong                                          The account name you've entered is too long, please use a name with less than twenty characters.
-LOCERROR_nameshort                                         The account name you've entered is too short, please enter a name with more than three characters.
-LOCERROR_needonlineaccount                                 Please note that you must use your online account to play this map.
-LOCERROR_newerversion                                      You have a newer version than the server.
-LOCERROR_noemail                                           You have not entered an email address.  Please enter a valid email address in the email field.
-LOCERROR_nomapsselected                                    You must select a map prior to creating a server.
-LOCERROR_noname                                            An account name has not been entered, please enter a name in the account name field.
-LOCERROR_nopassword                                        No password has been entered, please enter a password in the password field.
-LOCERROR_noprovider                                        Your sound hardware is incompatible with the settings you have selected.  Please reset your audio settings to the default settings in order to hear sound and music.
-LOCERROR_noproviderdll                                     Your sound hardware is incompatible with the settings you have selected.  Please reset your audio settings to the default settings in order to hear sound and music.
-LOCERROR_olderversion                                      You have an older version than the server.
-LOCERROR_openaldenied                                      Your sound hardware is incompatible with the settings you have selected.  Please reset your audio settings to the default settings in order to hear sound and music.
-LOCERROR_openalerror                                       Your sound hardware is incompatible with the settings you have selected.  Please reset your audio settings to the default settings in order to hear sound and music.
-LOCERROR_passwordminimum                                   Your password must be a minimum of three characters, please enter a new password.
-LOCERROR_playnowoffline                                    Using Play Now requires an online account.
-LOCERROR_punkbuster                                        You have been kicked from the server by Punkbuster.
-LOCERROR_reservedslots                                     Server full! Your name is not on this server's reserved slots list, and all non-reserved slots are taken.
-LOCERROR_serverfull                                        This Battlefield 2 server is full. Please choose another server.
-LOCERROR_serveroffline                                     The Battlefield 2 login servers are currently offline; we are working to correct the problem. Please try again later.
-LOCERROR_serverreset                                       Server Reset?
-LOCERROR_settings                                          Settings have been saved.
-LOCERROR_srvpunkbuster                                     This server requires players to enable PunkBuster.
-LOGIN_loginmanagement                                      ACCOUNT MANAGEMENT
-LOGIN_loginusing                                           LOGIN
-LOGIN_manageinfo                                           Here you can manage your existing accounts, retrieve accounts created on other computers, or create a new account.
-LOGIN_other_emailnickname                                  EMAIL/NICKNAME
-LOGIN_other_usingemail                                     USING EMAIL
-LOGIN_other_usingnick                                      NICKNAME
-LOGIN_otherinfo                                            Enter email address or nickname in order to retrieve an account created previously on another computer.
-LOGIN_password                                             PASSWORD
-LOGIN_prefix                                               PREFIX
-LOGIN_recentprofile                                        EXISTING ACCOUNT
-LOGIN_rememberpassword                                     REMEMBER PASSWORD
-MAIN_activeprofile                                         ACTIVE ACCOUNT
-MESSAGEHANDLER_driver                                      In order to have an optimal graphical experience, please update your current video driver.
-MESSAGEHANDLER_duplicatekeymsg                             Duplicate Key Binding
-MESSAGEHANDLER_error                                       GAME MESSAGE
-MESSAGEHANDLER_locerror                                    GAME MESSAGE
-MESSAGEHANDLER_message                                     GAME MESSAGE
-MESSAGEHANDLER_punkbuster                                  PUNKBUSTER ERROR
-MESSAGEHANDLER_punkbusterinfo                              You have been disconnected by Punkbuster.  The reason follows in English below.
-MESSAGEHANDLER_punkbustertitle                             PUNKBUSTER ERROR MESSAGE
-MESSAGEHANDLER_settingssaved                               Your settings have been saved.
-MESSAGEHANDLER_shader                                      Settings Saved.  NOTE: The video settings changed require the shaders to be optimized.  This will occur the next time you load a game map.
-MESSAGEHANDLER_videoingame                                 You must restart the game in order to apply these video settings.
-MESSAGEHANDLER_videoneedreboot                             You must restart the game in order to apply these video settings.
-MISC_SDHOOK_autorun                                        Unable to connect to the online validation system.  Please confirm an internet connection is active. If problem persists, please contact TechSupport.
-MISC_SDHOOK_frontendone                                    The Account Creation server is currently offline
-MISC_SDHOOK_frontendthree                                  Unable to initialize sound card.  Please check sound card settings.  If this problem persists, please contact TechSupport
-MISC_SDHOOK_frontendtwo                                    The Gamespy Browser Server is currently offline
-MISC_SDHOOK_multiplayerone                                 The Gamespy Browser Server is currently offline
-MISC_SDHOOK_multiplayertwo                                 Battlefield 2 authentication system is currently offline
-MISC_SDHOOK_server                                         The Gamespy Browser Server is currently offline
-MODAL_activateprofile                                      ACTIVATE ACCOUNT
-MODAL_cancel                                               CANCELLING SETTINGS MADE
-MODAL_compare                                              LOADING COMPARE PLAYER
-MODAL_createaccount                                        CREATING ACCOUNT
+LOCERROR_banned                                            サーバー管理者によって、または過度のチームキルのためサーバーとの接続を禁止されました
+LOCERROR_cdkey                                             CDキーはすでに使用されています 不正に使用されている恐れがある場合はサポートへご連絡ください
+LOCERROR_cdkeynotvalid                                     シリアルナンバーが無効です
+LOCERROR_checksize                                         プロフィール作成時に問題が発生しました ハードディスクの空き容量を確認してください プロフィール作成に最低100KB必要です
+LOCERROR_connection                                        サーバーとの接続が解除されました
+LOCERROR_connectionfailed                                  接続に失敗しました ネットワークの設定を確認し、再度試してください
+LOCERROR_dataacritical                                     ネットワークデータにエラーが発生しました もう一度やり直してください
+LOCERROR_driverincompatible                                グラフィックを最適化するためビデオカードのドライバ更新が必要です "NVIDIAドライバインストール"から付属のドライバをインストールすることもできます
+LOCERROR_dup_AirPlayerInputControlMap                      航空機操作ですでにキーが割り当てられています
+LOCERROR_dup_defaultGameControlMap                         基本操作ですでにキーが割り当てられています
+LOCERROR_dup_defaultPlayerInputControlMap                  基本操作ですでにキーが割り当てられています
+LOCERROR_dup_HelicopterPlayerInputControlMap               ヘリコプター操作ですでにキーが割り当てられています
+LOCERROR_dup_InfantryPlayerInputControlMap                 基本操作ですでにキーが割り当てられています
+LOCERROR_dup_LandPlayerInputControlMap                     車両操作ですでにキーが割り当てられています
+LOCERROR_dup_SeaPlayerInputControlMap                      ボート操作ですでにキーが割り当てられています
+LOCERROR_invalidaccount                                    ユーザー名またはEメールアドレスが正しくないかまたは使用されています もう一度やり直してください
+LOCERROR_invalidexe                                        バトルフィールド2の実行ファイルが無効です
+LOCERROR_invalidip                                         入力されたIPアドレスは無効です
+LOCERROR_invalidnamecharacter                              ユーザー名が無効です 一部の文字は使用できません 他のユーザー名を入力してください
+LOCERROR_invalidnamespace                                  ユーザー名が無効です スペースは使用できません 他のユーザー名を入力してください
+LOCERROR_invalidnamethree                                  ユーザー名が無効です "@"、"+"、"#"は最初の3文字に使用することができません 他のユーザー名を入力してください
+LOCERROR_invalidsrvpassword                                このサーバーはパスワードで保護されています 入力されたパスワードは無効です
+LOCERROR_invalidsrvpassword2                               サーバーのパスワードが無効です
+LOCERROR_joinserverselected                                サーバーが選択されていません
+LOCERROR_keydisabled                                       シリアルナンバーは使用不可能です
+LOCERROR_mapmissing                                        現在、順番に入れているマップはこのゲームサーバーにはありません
+LOCERROR_modifiedcontent                                   このサーバーへ参加するためには現在の公式バージョンへ戻してください
+LOCERROR_nameexists                                        入力されたEメールアドレス/パスワードで登録されたユーザー名がすでに存在します 別のEメールアドレス/パスワードを入力してください
+LOCERROR_namelong                                          入力したユーザー名は長すぎます 20文字以下で入力し直してください
+LOCERROR_nameshort                                         入力したユーザー名は短すぎます 3文字以上で入力し直してください
+LOCERROR_needonlineaccount                                 このマップでプレイするにはオンラインアカウントを使用してください
+LOCERROR_newerversion                                      このサーバーとはバージョンが異なるため参加できません
+LOCERROR_noemail                                           Eメールアドレスが入力されていません 有効なEメールアドレスを入力してください
+LOCERROR_nomapsselected                                    マップを選択してください
+LOCERROR_noname                                            ユーザー名が入力されていません ユーザー名を入力してください
+LOCERROR_nopassword                                        パスワードが入力されていません パスワードを入力してください
+LOCERROR_noprovider                                        選択した設定とサウンドハードウェアの互換性がありません オーディオの設定をリセットして初期設定へ戻してください
+LOCERROR_noproviderdll                                     選択した設定とサウンドハードウェアの互換性がありません オーディオの設定をリセットして初期設定へ戻してください
+LOCERROR_olderversion                                      このサーバーとはバージョンが異なるため参加できません
+LOCERROR_openaldenied                                      選択した設定とサウンドハードウェアの互換性がありません オーディオの設定をリセットして初期設定へ戻してください
+LOCERROR_openalerror                                       選択した設定とサウンドハードウェアの互換性がありません オーディオの設定をリセットして初期設定へ戻してください
+LOCERROR_passwordminimum                                   パスワードは3文字以上必要です 新しいパスワードを入力し直してください
+LOCERROR_playnowoffline                                    "今すぐプレイ"ではオンラインアカウントが必要です
+LOCERROR_punkbuster                                        Punkbusterによってサーバーからキックされました
+LOCERROR_reservedslots                                     サーバーが満員です
+LOCERROR_serverfull                                        このサーバーは満員です 他のサーバーを選んでください
+LOCERROR_serveroffline                                     バトルフィールド 2のログインサーバーは現在オフラインです 復旧中ですので、もうしばらくお待ちください
+LOCERROR_serverreset                                       サーバーをリセットしますか?
+LOCERROR_settings                                          設定を保存しました
+LOCERROR_srvpunkbuster                                     このサーバーはPunkBusterが有効なプレイヤーが必要です
+LOGIN_loginmanagement                                      プロフィール編集
+LOGIN_loginusing                                           ログイン
+LOGIN_manageinfo                                           既存のプロフィールを編集します。一度作成したプロフィールの検索は"プロフィール検索"で、新規で作成する場合は"プロフィール作成"を選択してください
+LOGIN_other_emailnickname                                  Eメール/ニックネーム
+LOGIN_other_usingemail                                     Eメール
+LOGIN_other_usingnick                                      ニックネーム
+LOGIN_otherinfo                                            プロフィール登録時のEメールアドレスまたはニックネームを入力してください
+LOGIN_password                                             パスワード
+LOGIN_prefix                                               名前の頭に文字追加（6文字まで）
+LOGIN_recentprofile                                        プロフィール検索
+LOGIN_rememberpassword                                     パスワードを記憶
+MAIN_activeprofile                                         ログイン中
+MESSAGEHANDLER_driver                                      グラフィックを最適化するためにビデオカードのドライバーを更新してください
+MESSAGEHANDLER_duplicatekeymsg                             すでにキーの割当てがされているため そのキーには割当てはできません
+MESSAGEHANDLER_error                                       メッセージ
+MESSAGEHANDLER_locerror                                    メッセージ
+MESSAGEHANDLER_message                                     メッセージ
+MESSAGEHANDLER_punkbuster                                  PUNKBUSTER エラー
+MESSAGEHANDLER_punkbusterinfo                              Punkbusterによって接続が解除されました 理由は以下の通りです
+MESSAGEHANDLER_punkbustertitle                             PUNKBUSTER エラーメッセージ
+MESSAGEHANDLER_settingssaved                               設定を保存しました
+MESSAGEHANDLER_shader                                      設定を保存しました。 注意:次回ゲームマップをロードする際に、システムの最適化が行われます。
+MESSAGEHANDLER_videoingame                                 グラフィック設定を適用するにはゲームを再起動してください
+MESSAGEHANDLER_videoneedreboot                             ビデオ設定を有効にするためにはゲームの再起動が必要です
+MISC_SDHOOK_autorun                                        オンライン・バリデーションシステムに接続できません インターネット接続が利用可能かどうか確認してください
+MISC_SDHOOK_frontendone                                    現在 プロフィール作成サーバーはオフラインです
+MISC_SDHOOK_frontendthree                                  サウンドカードの初期化ができません サウンドカードの設定を確認してください
+MISC_SDHOOK_frontendtwo                                    Gamespyサービスは終了しました
+MISC_SDHOOK_multiplayerone                                 Gamespyサービスは終了しました
+MISC_SDHOOK_multiplayertwo                                 現在 バトルフィールド 2の認証システムはオフラインです
+MISC_SDHOOK_server                                         Gamespyサービスは終了しました
+MODAL_activateprofile                                      プロフィールを適用しています
+MODAL_cancel                                               設定作成を中止しています
+MODAL_compare                                              プロフィールをロードしています
+MODAL_createaccount                                        プロフィールを作成しています
 MODAL_disclaimer                                                                        
-MODAL_disconnect                                           DISCONNECTING
-MODAL_joinserver                                           JOINING SERVER
-MODAL_loadingleaderboard                                   LOADING LEADERBOARD STATS
-MODAL_loadingstats                                         LOADING PLAYER STATS
-MODAL_playnow                                              STARTING PLAY NOW SERVER SEARCH
-MODAL_reset                                                RESETTING TO DEFAULT SETTINGS
-MODAL_search                                               SEARCHING FOR ACCOUNTS
-MODAL_selectunlock                                         SELECTING UNLOCK
-MODAL_settings                                             APPLYING SETTINGS
-MODAL_startingserver                                       STARTING SERVER
-MODAL_training                                             STARTING SINGLEPLAYER
-MODAL_updateserver                                         UPDATING SERVER LIST
-MODAL_video                                                APPLYING VIDEO SETTINGS
-MULTIPLAY_1_battlecommo                                    BattleCommo
-MULTIPLAY_1_battlerecorder                                 BattleRecorder
-MULTIPLAY_1_cpuload                                        CPU Load
-MULTIPLAY_1_internetservers                                INTERNET SERVERS
-MULTIPLAY_1_operatingsystem                                Operating System
-MULTIPLAY_1_passwordrequired                               Password Required
+MODAL_disconnect                                           接続を解除しています
+MODAL_joinserver                                           サーバーに参加しています
+MODAL_loadingleaderboard                                   データをロードしています
+MODAL_loadingstats                                         データをロードしています
+MODAL_playnow                                              データをロードしています
+MODAL_reset                                                サーバー検索を開始しています
+MODAL_search                                               初期設定に戻しています
+MODAL_selectunlock                                         プロフィールを検索しています
+MODAL_settings                                             アンロックを選択しています
+MODAL_startingserver                                       設定を適用しています
+MODAL_training                                             シングルプレイヤーを開始しています
+MODAL_updateserver                                         サーバーリスト更新
+MODAL_video                                                グラフィック設定を適用しています
+MULTIPLAY_1_battlecommo                                    バトルコミュニケーション
+MULTIPLAY_1_battlerecorder                                 バトルレコーダー
+MULTIPLAY_1_cpuload                                        CPU負荷
+MULTIPLAY_1_internetservers                                インターネットサーバー
+MULTIPLAY_1_operatingsystem                                OS
+MULTIPLAY_1_passwordrequired                               パスワードあり
 MULTIPLAY_1_punkbuster                                     Punkbuster
-MULTIPLAY_1_totalservers                                   TOTAL SERVERS:
-MULTIPLAY_2_localservers                                   LOCAL SERVERS
-MULTIPLAY_3_autobalance                                    AUTO BALANCE
-MULTIPLAY_3_avaliablemaps                                  AVAILABLE MAPS
-MULTIPLAY_3_chosenmaps                                     CHOSEN MAPS
-MULTIPLAY_3_coopteamratio                                  BOT RATIO
-MULTIPLAY_3_coopbotcount                                   NUMBER OF BOTS
-MULTIPLAY_3_coopbotdiff                                    BOT DIFFICULTY
-MULTIPLAY_3_friendlyfire                                   FRIENDLY FIRE
-MULTIPLAY_3_information                                    To get access to more server options, use the dedicated server launcher.
-MULTIPLAY_3_mandowntime                                    REVIVE TIME
-MULTIPLAY_3_maxplayers                                     MAX PLAYERS
-MULTIPLAY_3_roundspermap                                   ROUNDS PER MAP
-MULTIPLAY_3_selectedmap                                    SELECTED MAP
-MULTIPLAY_3_selectedmapdesc                                SELECTED MAP INFO
-MULTIPLAY_3_servername                                     SERVER NAME
-MULTIPLAY_3_serverpassword                                 SERVER PASSWORD
-MULTIPLAY_3_serversettings                                 SERVER SETTINGS
-MULTIPLAY_3_spawntime                                      SPAWN TIME
-MULTIPLAY_3_ticketratio                                    TICKET RATIO
-MULTIPLAY_3_timelimit                                      TIME LIMIT
-MULTIPLAY_5                                                FAVORITES
-MULTIPLAY_5_favorites                                      Favorite servers
-MULTIPLAY_5_favoriteservers                                FAVORITE SERVERS
+MULTIPLAY_1_totalservers                                   サーバー合計:
+MULTIPLAY_2_localservers                                   ローカルサーバー
+MULTIPLAY_3_autobalance                                    オートバランス
+MULTIPLAY_3_avaliablemaps                                  選択可能マップ
+MULTIPLAY_3_chosenmaps                                     選択済みマップ
+MULTIPLAY_3_coopteamratio                                  NPC 割合
+MULTIPLAY_3_coopbotcount                                   NPC 数
+MULTIPLAY_3_coopbotdiff                                    NPC 難易度
+MULTIPLAY_3_friendlyfire                                   フレンドリーファイア
+MULTIPLAY_3_information                                    ProjectReality公式サーバールールにより、特別な設定はできません
+MULTIPLAY_3_mandowntime                                    蘇生可能時間
+MULTIPLAY_3_maxplayers                                     プレイヤー数
+MULTIPLAY_3_roundspermap                                   ラウンド数/マップ
+MULTIPLAY_3_selectedmap                                    マップ概要
+MULTIPLAY_3_selectedmapdesc                                情報
+MULTIPLAY_3_servername                                     サーバー名
+MULTIPLAY_3_serverpassword                                 パスワード
+MULTIPLAY_3_serversettings                                 サーバー設定
+MULTIPLAY_3_spawntime                                      出撃まで
+MULTIPLAY_3_ticketratio                                    チケット比率
+MULTIPLAY_3_timelimit                                      制限時間T
+MULTIPLAY_5                                                お気に入り
+MULTIPLAY_5_favorites                                      お気に入りサーバー
+MULTIPLAY_5_favoriteservers                                お気に入りサーバー
 MULTIPLAY_64bit                                            64-bit
-MULTIPLAY_battlecommo                                      BattleCommo
-MULTIPLAY_battlerecorder                                   BattleRecorder
+MULTIPLAY_battlecommo                                      バトルコミュニケーション
+MULTIPLAY_battlerecorder                                   バトルレコーダー
 MULTIPLAY_browser_icons                                    BROWSER ICONS
-MULTIPLAY_chosenmaps                                       SELECTED MAPS
-MULTIPLAY_internetserverfilters                            INTERNET FILTERS
-MULTIPLAY_linux                                            Linux
-MULTIPLAY_noserverselected                                 No server selected
-MULTIPLAY_password                                         Password Protected
-MULTIPLAY_players                                          PLAYERS ON SERVER
+MULTIPLAY_chosenmaps                                       マップ選択
+MULTIPLAY_internetserverfilters                            フィルター
+MULTIPLAY_linux                                            GNU/Linux
+MULTIPLAY_noserverselected                                 サーバーが選択されていません
+MULTIPLAY_password                                         パスワードあり
+MULTIPLAY_players                                          プレイヤー情報
 MULTIPLAY_punkbuster                                       Punkbuster
-MULTIPLAY_ranked                                           Ranked
-MULTIPLAY_serverinfo                                       SERVER INFO
-MULTIPLAY_servermap                                        SERVER MAP
-MULTIPLAY_sponsorgraphic                                   SPONSOR GRAPHIC
-MULTIPLAY_winos                                            WinOS
-OPTIONS_1_autoready                                        AUTO READY
-OPTIONS_1_cable                                            CABLE 256KPBS OR BETTER
-OPTIONS_1_connection                                       CONNECTION SETTINGS
-OPTIONS_1_generalsettings                                  GENERAL SETTINGS
+MULTIPLAY_ranked                                           ランクサーバー
+MULTIPLAY_serverinfo                                       情報
+MULTIPLAY_servermap                                        マップ概要
+MULTIPLAY_sponsorgraphic                                   スポンサー
+MULTIPLAY_winos                                            Windows OS
+OPTIONS_1_autoready                                        オートスタート
+OPTIONS_1_cable                                            256kpbs ケーブル またはそれ以上
+OPTIONS_1_connection                                       接続速度
+OPTIONS_1_generalsettings                                  一般設定
 OPTIONS_1_hud                                              HUD
-OPTIONS_1_hudsettings                                      HUD SETTINGS
-OPTIONS_1_maprotates                                       MAP ROTATION FOLLOWS PLAYER
-OPTIONS_1_mapstatic                                        STATIC MAP
-OPTIONS_1_mousewheelreverse                                REVERSE MOUSEWHEEL SELECTION
+OPTIONS_1_hudsettings                                      HUD設定
+OPTIONS_1_maprotates                                       プレイヤー中心にマップ回転
+OPTIONS_1_mapstatic                                        マップ固定
+OPTIONS_1_mousewheelreverse                                マウスホイール反転
 OPTIONS_1_t1                                               T1 (LAN)
-OPTIONS_1_voting                                           OPT OUT OF VOTING
-OPTIONS_2_1_communication                                  COMMUNICATION
-OPTIONS_2_1_mapsandmisc                                    MISCELLANEOUS
-OPTIONS_2_1_mousesettings                                  MOUSE SETTINGS
-OPTIONS_2_1_movement                                       MOVEMENT
-OPTIONS_2_1_squad                                          SQUAD INFO
-OPTIONS_2_1_weapon                                         WEAPON
-OPTIONS_2_2                                                LAND VEHICLE
-OPTIONS_2_2_movement                                       MOVEMENT
-OPTIONS_2_2_weapon                                         WEAPON
-OPTIONS_2_3                                                AIRCRAFT
-OPTIONS_2_3_movement                                       MOVEMENT
-OPTIONS_2_3_weapon                                         WEAPON
-OPTIONS_2_4                                                HELICOPTER
-OPTIONS_2_4_movement                                       MOVEMENT
-OPTIONS_2_4_weapon                                         WEAPON
-OPTIONS_2_5                                                BOAT
-OPTIONS_2_5_movement                                       MOVEMENT
-OPTIONS_2_5_weapon                                         WEAPON
-OPTIONS_2_camera                                           CAMERA POSITIONS
-OPTIONS_2_positions                                        POSITIONS
-OPTIONS_3_antialiasing                                     ANTI-ALIASING
-OPTIONS_3_customquality                                    CUSTOM QUALITY
-OPTIONS_3_displaymode                                      DISPLAY MODE
-OPTIONS_3_dynamiclight                                     DYNAMIC LIGHT
-OPTIONS_3_dynamicshadows                                   DYNAMIC SHADOWS
-OPTIONS_3_effects                                          EFFECTS
-OPTIONS_3_geometry                                         GEOMETRY
-OPTIONS_3_ingame                                           You cannot apply these settings while on a map.  You must disconnect from your game in order to apply these video settings.
-OPTIONS_3_LCD                                              SHOW LCD DISPLAY MODES
-OPTIONS_3_lighting                                         LIGHTING
-OPTIONS_3_overallquality                                   OVERALL QUALITY
-OPTIONS_3_terrain                                          TERRAIN
-OPTIONS_3_texture                                          TEXTURE
-OPTIONS_3_texturefiltering                                 TEXTURE FILTERING
-OPTIONS_3_videooptions                                     VIDEO OPTIONS
-OPTIONS_3_viewdistancescale                                VIEW DISTANCE SCALE
-OPTIONS_4_audiofailure                                     AUDIO FAILURE
-OPTIONS_4_audiorenderer                                    AUDIO RENDERER
-OPTIONS_4_audiosettings                                    AUDIO SETTINGS
-OPTIONS_4_boostmicgain                                     BOOST MIC GAIN
-OPTIONS_4_effects                                          EFFECTS
-OPTIONS_4_enable                                           ENABLE
-OPTIONS_4_enableEAX                                        ENABLE EAX
-OPTIONS_4_englishvoonly                                    ENGLISH VO ONLY
-OPTIONS_4_failure_info                                     Your sound hardware is incompatible with the settings you have selected.  Please reset your audio settings to the default settings in order to hear sound and music.
-OPTIONS_4_language                                         LANGUAGE
-OPTIONS_4_mictest                                          MICROPHONE THRESHOLD TEST
-OPTIONS_4_micteststart                                     START MICROPHONE TEST
-OPTIONS_4_micteststop                                      STOP MICROPHONE TEST
-OPTIONS_4_music                                            MUSIC
-OPTIONS_4_numberofvoices                                   NUMBER OF VOICES
-OPTIONS_4_receive                                          RECEIVE
-OPTIONS_4_sendthresholdvolume                              SEND THRESHOLD VOLUME
-OPTIONS_4_sounddetail                                      SOUND DETAIL
-OPTIONS_4_soundquality                                     SOUND QUALITY
-OPTIONS_4_transmit                                         TRANSMIT
-OPTIONS_4_voiceover                                        VOICE OVER
-OPTIONS_4_voiceoverip                                      VOICE OVER IP
-OPTIONS_4_voipvolume                                       VOIP VOLUME
-OPTIONS_4_volume                                           GAME VOLUME
-OPTIONS_5_credits                                          CREDITS
+OPTIONS_1_voting                                           投票に参加しない
+OPTIONS_2_1_communication                                  通信
+OPTIONS_2_1_mapsandmisc                                    その他
+OPTIONS_2_1_mousesettings                                  マウス設定
+OPTIONS_2_1_movement                                       移動
+OPTIONS_2_1_squad                                          分隊情報
+OPTIONS_2_1_weapon                                         武器
+OPTIONS_2_2                                                車両操作
+OPTIONS_2_2_movement                                       移動
+OPTIONS_2_2_weapon                                         武器
+OPTIONS_2_3                                                航空機操作
+OPTIONS_2_3_movement                                       移動
+OPTIONS_2_3_weapon                                         武器
+OPTIONS_2_4                                                ヘリ操作
+OPTIONS_2_4_movement                                       移動
+OPTIONS_2_4_weapon                                         武器
+OPTIONS_2_5                                                ボート操作
+OPTIONS_2_5_movement                                       移動
+OPTIONS_2_5_weapon                                         武器
+OPTIONS_2_camera                                           カメラ位置
+OPTIONS_2_positions                                        座席移動
+OPTIONS_3_antialiasing                                     アンチエイリアス処理
+OPTIONS_3_customquality                                    カスタム設定
+OPTIONS_3_displaymode                                      ディスプレイモード
+OPTIONS_3_dynamiclight                                     ダイナミックライト
+OPTIONS_3_dynamicshadows                                   ダイナミックシャドウ
+OPTIONS_3_effects                                          エフェクト
+OPTIONS_3_geometry                                         ジオメトリ
+OPTIONS_3_ingame                                           ビデオ設定を変更したい場合は 接続を解除してから行ってください
+OPTIONS_3_LCD                                              LCDディスプレイモード
+OPTIONS_3_lighting                                         ライティング
+OPTIONS_3_overallquality                                   グラフィッククオリティ
+OPTIONS_3_terrain                                          地形
+OPTIONS_3_texture                                          テクスチャ
+OPTIONS_3_texturefiltering                                 テクスチャフィルタリング
+OPTIONS_3_videooptions                                     グラフィック設定
+OPTIONS_3_viewdistancescale                                視界範囲
+OPTIONS_4_audiofailure                                     オーディオ障害
+OPTIONS_4_audiorenderer                                    オーディオレンダー
+OPTIONS_4_audiosettings                                    オーディオ設定
+OPTIONS_4_boostmicgain                                     Microphone boost 取得
+OPTIONS_4_effects                                          効果音
+OPTIONS_4_enable                                           有効
+OPTIONS_4_enableEAX                                        EAX 有効
+OPTIONS_4_englishvoonly                                    英語音声のみ
+OPTIONS_4_failure_info                                     選択した設定とサウンドハードウェアの互換性がありません。オーディオの設定をリセットして初期設定へ戻してください
+OPTIONS_4_language                                         言語
+OPTIONS_4_mictest                                          マイク閾値テスト
+OPTIONS_4_micteststart                                     マイクテスト開始
+OPTIONS_4_micteststop                                      マイクテスト中止
+OPTIONS_4_music                                            音楽
+OPTIONS_4_numberofvoices                                   音声人数
+OPTIONS_4_receive                                          受信
+OPTIONS_4_sendthresholdvolume                              送信閾値ボリューム
+OPTIONS_4_sounddetail                                      サウンドディテール
+OPTIONS_4_soundquality                                     サウンドクオリティ
+OPTIONS_4_transmit                                         送信
+OPTIONS_4_voiceover                                        音声
+OPTIONS_4_voiceoverip                                      VoIP
+OPTIONS_4_voipvolume                                       VoIP ボリューム
+OPTIONS_4_volume                                           ゲームボリューム
+OPTIONS_5_credits                                          クレジット
 OPTIONS_5_legal                                            This product contains software technology licensed from GameSpy Industries, Inc. © 1999-2005 GameSpy Industries, Inc.  GameSpy and the “Powered by GameSpy” design are trademarks of GameSpy Industries, Inc.  All rights reserved.
-OPTIONS_esccontrols                                        Press ESC to clear the selected key
-PLAYER_REPORTIN_C_antitank                                 I'm anti-tank
-PLAYER_REPORTIN_C_assault                                  I'm Assault
-PLAYER_REPORTIN_C_engineer                                 I'm an engineer.
-PLAYER_REPORTIN_C_medic                                    I'm a Medic
-PLAYER_REPORTIN_C_sniper                                   I'm a sniper
-PLAYER_REPORTIN_C_specops                                  I'm Specops
-PLAYER_REPORTIN_C_support                                  I'm a machinegunner
-PLAYER_REPORTIN_SL_antitank                                Anti-tank, requesting an objective!
-PLAYER_REPORTIN_SL_assault                                 Assault rifleman requesting an objective!
-PLAYER_REPORTIN_SL_engineer                                Engineer requesting an objective!
-PLAYER_REPORTIN_SL_medic                                   Medic requesting an objective!
-PLAYER_REPORTIN_SL_sniper                                  Sniper, requesting an objective!
-PLAYER_REPORTIN_SL_specops                                 Specops requesting an objective!
-PLAYER_REPORTIN_SL_support                                 Heavy support requesting an objective!
-PLAYER_REPORTIN_TM_antitank                                Anti-tank, requesting an objective!
-PLAYER_REPORTIN_TM_assault                                 Assault, requesting an objective!
-PLAYER_REPORTIN_TM_engineer                                Grease Monkey here, anything broken?
-PLAYER_REPORTIN_TM_medic                                   I'm a Medic, where do you want me?
-PLAYER_REPORTIN_TM_sniper                                  Sniper, requesting an objective!
-PLAYER_REPORTIN_TM_specops                                 Specops requesting a target!
-PLAYER_REPORTIN_TM_support                                 Machinegunner requesting an objective!
-PLAYER_REPORTINVEHICLE_C_antiair                           I'm in a AA-vehicle
-PLAYER_REPORTINVEHICLE_C_apc                               I'm in an APC
-PLAYER_REPORTINVEHICLE_C_attackheli                        I'm in an attack helo
-PLAYER_REPORTINVEHICLE_C_bomber                            I'm a bomberpilot
-PLAYER_REPORTINVEHICLE_C_bombshelter                       I'm in the hole
-PLAYER_REPORTINVEHICLE_C_fighter                           I'm a fighterpilot
-PLAYER_REPORTINVEHICLE_C_jeep                              I'm in a jeep
-PLAYER_REPORTINVEHICLE_C_tank                              I'm in a tank
-PLAYER_REPORTINVEHICLE_C_transportheli                     I'm in a transport helo
-PLAYER_REPORTINVEHICLE_SL_antiair                          AA-vehicle, requesting an objective!
-PLAYER_REPORTINVEHICLE_SL_apc                              APC, requesting an objective!
-PLAYER_REPORTINVEHICLE_SL_attackheli                       Attackhelo, requesting a target!
-PLAYER_REPORTINVEHICLE_SL_bomber                           Bomberpilot, requesting a target!
-PLAYER_REPORTINVEHICLE_SL_fighter                          Fighterpilot, requesting an objective!
-PLAYER_REPORTINVEHICLE_SL_jeep                             In a jeep, requesting an objective!
-PLAYER_REPORTINVEHICLE_SL_tank                             I'm in a tank, requesting an objective!
-PLAYER_REPORTINVEHICLE_SL_transportheli                    Transport helo, requesting an objective!
-PLAYER_REPORTINVEHICLE_TM_antiair                          AA-vehicle, requesting an objective!
-PLAYER_REPORTINVEHICLE_TM_apc                              APC, requesting an objective!
-PLAYER_REPORTINVEHICLE_TM_attackheli                       Attackhelo, requesting a target!
-PLAYER_REPORTINVEHICLE_TM_bomber                           Jet bomber, requesting a target!
-PLAYER_REPORTINVEHICLE_TM_fighter                          Jet fighter, fangs out!
-PLAYER_REPORTINVEHICLE_TM_jeep                             In a jeep, requesting an objective!
-PLAYER_REPORTINVEHICLE_TM_tank                             I'm in a tank, requesting an objective!
-PLAYER_REPORTINVEHICLE_TM_transportheli                    Transport helo, requesting an objective!
-PUNKBUSTER_connectionrejected                              CONNECTION REJECTED
-PUNKBUSTER_couldnotbeenabled                               PUNKBUSTER COULD NOT BE ENABLED. PLEASE REINSTALL THE LATEST BATTLEFIELD EXECUTABLE OR PATCH.
-PUNKBUSTER_disable                                         DISABLE PUNKBUSTER
-PUNKBUSTER_enable                                          ENABLE
-PUNKBUSTER_mustbeenabled                                   PUNKBUSTER MUST BE ENABLED BEFORE JOINING THIS SERVER.
-PUNKBUSTER_notempty                                        NOT EMPTY
-PUNKBUSTER_protected                                       PunkBuster Protected
-PUNKBUSTER_punkbusteronly                                  PUNKBUSTER ONLY
-PUNKBUSTER_willbedisabled                                  PUNKBUSTER WILL BE DISABLED THE NEXT TIME BATTLEFIELD IS STARTED.
-SERVERINFO_allowglobalunlocks                              Allow Global Unlocks
-SERVERINFO_autobalance                                     Autobalance
-SERVERINFO_coopteamratio                                   Bot Ratio
-SERVERINFO_coopbotcount                                    Number of Bots
-SERVERINFO_coopbotdiff                                     Bot Difficulty
-SERVERINFO_deathcamtype                                    Deathcam Type
+OPTIONS_esccontrols                                        ESCキーで選択したキーをクリア
+PLAYER_REPORTIN_C_antitank                                 対戦車兵だ
+PLAYER_REPORTIN_C_assault                                  突撃兵だ
+PLAYER_REPORTIN_C_engineer                                 工兵だ
+PLAYER_REPORTIN_C_medic                                    衛生兵だ
+PLAYER_REPORTIN_C_sniper                                   狙撃兵だ
+PLAYER_REPORTIN_C_specops                                  特殊兵だ
+PLAYER_REPORTIN_C_support                                  援護兵だ
+PLAYER_REPORTIN_SL_antitank                                対戦車兵、ターゲットを要請！
+PLAYER_REPORTIN_SL_assault                                 突撃兵、ターゲットを要請！
+PLAYER_REPORTIN_SL_engineer                                工兵、ターゲットを要請！
+PLAYER_REPORTIN_SL_medic                                   衛生兵、ターゲットを要請！
+PLAYER_REPORTIN_SL_sniper                                  狙撃兵、 ターゲットを要請！
+PLAYER_REPORTIN_SL_specops                                 特殊兵、ターゲットを要請！
+PLAYER_REPORTIN_SL_support                                 援護兵、 ターゲットを要請！
+PLAYER_REPORTIN_TM_antitank                                対戦車兵、 ターゲットを要請！
+PLAYER_REPORTIN_TM_assault                                 突撃兵、ターゲットを要請！
+PLAYER_REPORTIN_TM_engineer                                工兵到着、要請は?
+PLAYER_REPORTIN_TM_medic                                   衛生兵だ、要請は?
+PLAYER_REPORTIN_TM_sniper                                  狙撃兵、ターゲットを要請！
+PLAYER_REPORTIN_TM_specops                                 特殊兵、ターゲットを要請！
+PLAYER_REPORTIN_TM_support                                 援護兵、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_C_antiair                           対航空車にいる
+PLAYER_REPORTINVEHICLE_C_apc                               装甲車にいる
+PLAYER_REPORTINVEHICLE_C_attackheli                        戦闘ヘリにいる
+PLAYER_REPORTINVEHICLE_C_bomber                            爆撃機にいる
+PLAYER_REPORTINVEHICLE_C_bombshelter                       穴の中にいる
+PLAYER_REPORTINVEHICLE_C_fighter                           戦闘機にいる
+PLAYER_REPORTINVEHICLE_C_jeep                              車両にいる
+PLAYER_REPORTINVEHICLE_C_tank                              戦車にいる
+PLAYER_REPORTINVEHICLE_C_transportheli                     輸送ヘリにいる
+PLAYER_REPORTINVEHICLE_SL_antiair                          対航空車、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_SL_apc                              装甲車、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_SL_attackheli                       戦闘ヘリ、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_SL_bomber                           爆撃機、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_SL_fighter                          戦闘機、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_SL_jeep                             ジープにいる、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_SL_tank                             戦車の中だ、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_SL_transportheli                    輸送ヘリ、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_antiair                          対航空車、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_apc                              装甲車、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_attackheli                       戦闘ヘリ、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_bomber                           爆撃機、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_fighter                          戦闘機、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_jeep                             ジープにいる、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_tank                             タンクにいる、ターゲットを要請！
+PLAYER_REPORTINVEHICLE_TM_transportheli                    輸送ヘリ、ターゲットを要請！
+PUNKBUSTER_connectionrejected                              接続が拒否されました
+PUNKBUSTER_couldnotbeenabled                               PUNKBUSTERが使用できません 最新のバトルフィールド実行ファイルまたはパッチを再インストールしてください
+PUNKBUSTER_disable                                         PUNKBUSTER 無効
+PUNKBUSTER_enable                                          有効
+PUNKBUSTER_mustbeenabled                                   このサーバーに参加するにはPUNKBUSTERを有効にする必要があります
+PUNKBUSTER_notempty                                        空きなし
+PUNKBUSTER_protected                                       PunkBuster 有効
+PUNKBUSTER_punkbusteronly                                  PUNKBUSTERのみ
+PUNKBUSTER_willbedisabled                                  次回ゲーム起動時にPUNKBUSTERが無効になります
+SERVERINFO_allowglobalunlocks                              アンロック許可
+SERVERINFO_autobalance                                     オートバランス
+SERVERINFO_coopteamratio                                   NPC 割合
+SERVERINFO_coopbotcount                                    NPC 数
+SERVERINFO_coopbotdiff                                     NPC 難易度
+SERVERINFO_deathcamtype                                    デスカメラのタイプ
 SERVERINFO_friendlyfire                                    Friendly Fire
-SERVERINFO_roundspermap                                    Rounds per Map
-SERVERINFO_spawntime                                       Spawn Time
-SERVERINFO_teamratio                                       Team Ratio
-SERVERINFO_ticketratio                                     Ticket Ratio
-SERVERINFO_timelimit                                       Time Limit
+SERVERINFO_roundspermap                                    ラウンド数/マップ
+SERVERINFO_spawntime                                       出撃まで
+SERVERINFO_teamratio                                       チーム比率
+SERVERINFO_ticketratio                                     チケット比率
+SERVERINFO_timelimit                                       制限時間
 VIDEOSETTINGS_2Samples                                     2x
 VIDEOSETTINGS_3Samples                                     3x
 VIDEOSETTINGS_4Samples                                     4x
@@ -1234,10 +1235,10 @@ VIDEOSETTINGS_13Samples                                    13x
 VIDEOSETTINGS_14Samples                                    14x
 VIDEOSETTINGS_15Samples                                    15x
 VIDEOSETTINGS_16Samples                                    16x
-VIDEOSETTINGS_Custom                                       Custom
-VIDEOSETTINGS_High                                         High
-VIDEOSETTINGS_Low                                          Low
-VIDEOSETTINGS_Medium                                       Medium
-VIDEOSETTINGS_Off                                          Off
-VIDEOSETTINGS_Ultra_High                                   Ultra High
-WELCOME_onlineinfo                                         To enlist in the online ranks, click here.
+VIDEOSETTINGS_Custom                                       カスタム
+VIDEOSETTINGS_High                                         高
+VIDEOSETTINGS_Low                                          低
+VIDEOSETTINGS_Medium                                       中
+VIDEOSETTINGS_Off                                          オフ
+VIDEOSETTINGS_Ultra_High                                   最高
+WELCOME_onlineinfo                                         オンラインランキングに参加するには…
