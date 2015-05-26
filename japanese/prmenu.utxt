@@ -23,7 +23,7 @@ BUTTON_BARRACKS_credits                                    CREDITS
 BUTTON_REALITY_1                                           PR WIKI
 BUTTON_REALITY_2                                           PR FORUM
 BUTTON_REALITY_3                                           バグ報告
-BUTTON_REALITY_4                                           PR VIDEOS
+BUTTON_REALITY_4                                           PR動画
 BUTTON_OPTIONS_game                                        GAME
 BUTTON_OPTIONS_controls                                    CONTROLS
 BUTTON_OPTIONS_video                                       VIDEO
@@ -31,54 +31,51 @@ BUTTON_OPTIONS_audio                                       AUDIO
 BUTTON_OPTIONS_apply                                       APPLY
 BUTTON_OPTIONS_cancel                                      CANCEL
 BUTTON_OPTIONS_resettodefault                              RESET
-BUTTON_enterBattle                                         SQUAD ASSIGNMENT
-WELCOME_pr                                                 Welcome to Project Reality!
-WELCOME_connecting                                         Establishing connection...
-CONFIRM_disconnect_info                                    Are you sure you want disconnect?
-MULTIPLAY_serverMessage                                    SERVER MESSAGE
-MULTIPLAY_sponsorgraphic                                   SERVER IMAGE
-OPTIONS_1_minimap                                          VEHICLE MINIMAP
-OPTIONS_2_1                                                COMMON
-COMMUNITY_1_battlerecorderbookmarks                        BATTLERECORDER BOOKMARKS
-COMMUNITY_1_information                                    Click on the bookmarks listed to the right to download and relive your Project Reality battles.
-BARRACKS_modsUnableHeader                                  UNABLE TO LAUNCH
-BARRACKS_modsUnableText                                    This feature is not compatible with Project Reality. To launch Project Reality, please use the shortcut icon on your desktop.
+BUTTON_enterBattle                                         戦闘へ参加
+WELCOME_pr                                                 Project Realityへようこそ!
+WELCOME_connecting                                         プロフィールサーバーに接続しています
+CONFIRM_disconnect_info                                    このアクションを完了するためには接続を解除する必要があります
+MULTIPLAY_serverMessage                                    サーバーメッセージ
+MULTIPLAY_sponsorgraphic                                   スポンサー
+OPTIONS_1_minimap                                          ミニマップ
+OPTIONS_2_1                                                基本操作
+COMMUNITY_1_battlerecorderbookmarks                        ブックマーク
+COMMUNITY_1_information                                    ブックマークを選択してバトルレコーダーファイルをダウンロードして閲覧
+BARRACKS_modsUnableHeader                                  他MODの起動はできません
+BARRACKS_modsUnableText                                    Project Realityを終了し、デスクトップのショートカットよりMODを起動してください
 CONFIRM_browsewebsite                                      Go to website
-CONFIRM_browsewebsite_info                                 You need to close Project Reality in order to go to this website, do you wish to proceed?
-EOR_bookmark                                               THE PREVIOUS ROUND HAS BEEN BOOKMARKED IN YOUR BATTLERECORDER LIBRARY
-EOR_escapetocancel                                         PRESS ESCAPE TO ABORT YOUR DEPLOYMENT
-EOR_maploaded                                              YOU HAVE ARRIVED, REPORT TO YOUR SQUAD SOLDIER!
-EOR_Deploying                                              Now Deploying To:
+CONFIRM_browsewebsite_info                                 WebサイトへのアクセスのためにProject Realityを閉じますか?
+EOR_bookmark                                               前回のラウンドはすでにバトルレコーダーにブックマークされています
+EOR_escapetocancel                                         ESCキーでロード中止
+EOR_maploaded                                              マップのロード完了 ゲームに参加ボタンかESCキーでゲーム開始
+EOR_Deploying                                              現在展開中:
 EOR_url                                                    realitymod.com
 EOR_4_prTip                                                PROJECT REALITY TIP
 EOR_4_mapOverview                                          MAP OVERVIEW
-EOR_2                                                      TOP SQUADS
-EOR_4_mapBriefing                                          MAP BRIEFING
-EOR_4                                                      BRIEFING ROOM
-DETAILEDSERVERINFO_title                                   DETAILED SERVER INFORMATION
-AUTODEPLOY_about                                           This feature allows you to automatically join the selected server when there is a free slot available.
-It is stil in beta, please report any bugs or problems found.
-If the server you are trying to join has a different maximum player limit to the one reported, type in a custom value for the maximum player limit below, or simply leave blank to use the reported maximum limit.
-Press "Deploy" to continue.
-AUTODEPLOY_errorLength                                     The server name contains too many characters to use this feature.
-AUTODEPLOY_maxPlayers                                      Maximum Players:
-AUTODEPLOY_tryingAgain1                                    Trying again in 1 second...
-AUTODEPLOY_tryingAgain2                                    Trying again in 2 seconds...
-AUTODEPLOY_tryingAgain3                                    Trying again in 3 seconds...
-AUTODEPLOY_tryingAgain4                                    Trying again in 4 seconds...
-AUTODEPLOY_tryingAgain5                                    Trying again in 5 seconds...
-WARNING_prExe                                              You must use "pr.exe" to run Project Reality.
-Please update your shortcuts as required.
-Example:
+EOR_2                                                      最優秀分隊
+EOR_4_mapBriefing                                          ブリーフィング
+EOR_4                                                      ブリーフィング
+DETAILEDSERVERINFO_title                                   サーバー情報
+AUTODEPLOY_about                                           この機能は、利用可能な空きスロットがある場合に、自動的に選択したサーバーに参加することができます。
+AUTODEPLOY_errorLength                                     サーバー名は、この機能を使用するにはあまりにも多くの文字が含まれています
+AUTODEPLOY_maxPlayers                                      最大接続人数::
+AUTODEPLOY_tryingAgain1                                    再接続まであと1秒...
+AUTODEPLOY_tryingAgain2                                    再接続まであと2秒...
+AUTODEPLOY_tryingAgain3                                    再接続まであと3秒...
+AUTODEPLOY_tryingAgain4                                    再接続まであと4秒...
+AUTODEPLOY_tryingAgain5                                    再接続まであと5秒...
+WARNING_prExe                                              "pr.exe"よりProject Realityを起動してください
+必要に応じてショートカットを更新してください
+例:
 "C:\Program Files\EA Games\Battlefield 2\mods\pr\pr.exe"
-instead of:
+場所:
 "C:\Program Files\EA Games\Battlefield 2\bf2.exe"
-WARNING_bf2Version                                         Project Reality has detected that you do not have Battlefield 2 v1.5 installed.
-This is a requirement of Project Reality.
-WARNING_downloadNow                                        Click here to download Battlefield 2 v1.5
-WARNING_offlineProfile                                     You cannot join online games using an offline profile. Please exit the game and log in using an online profile.
-WARNING_onlineRestrictedHeader                             Online Restricted
-WARNING_onlineRestricted                                   Joining public servers is restricted at this time. Please confirm that there are no restrictions currently placed on your profile, such as modified files.
-WARNING_controlsDisabledHeader                             Controls Disabled
-WARNING_controlsDisabled                                   You cannot edit Controls when Backup Sights are enabled.
-LOCERROR_cdkeynotvalid                                     Your CD-key is not valid. Please check your CD-key is valid in Launcher -> Support -> Keys.
+WARNING_bf2Version                                         Project Realityをプレイするには
+Battlefield 2をver1.5へアップデートしてください
+WARNING_downloadNow                                        クリックしてBattlefield 2のver1.5をダウンロード
+WARNING_offlineProfile                                     オフラインプロフィールを使用してオンラインゲームに参加することはできません
+WARNING_onlineRestrictedHeader                             オンライン制限
+WARNING_onlineRestricted                                   公開サーバーへの参加は制限されています。現在のプロフィールを確認してください
+WARNING_controlsDisabledHeader                             無効
+WARNING_controlsDisabled                                   現在はコントロールの編集はできません
+LOCERROR_cdkeynotvalid                                     シリアルナンバーが無効です
