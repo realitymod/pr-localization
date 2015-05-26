@@ -4,101 +4,101 @@ AWARD_NAME_2051907                                         ****
 AWARD_NAME_2051919                                         ****
 AWARD_NAME_2051902                                         ****
 AWARD_NAME_3240301                                         あなたは分隊に参加する必要がある
-AWARD_NAME_3150914                                         You must be the COMMANDER
-AWARD_NAME_3151920                                         You must be a SQUAD LEADER
-AWARD_NAME_3190409                                         You need the OFFICER KIT
-AWARD_NAME_3242303                                         Learn how to use your weapon and CHECK YOUR FIRE!
-AWARD_NAME_3212201                                         You are new to this squad, request again in a minute
-AWARD_NAME_3241213                                         You can't get another limited kit so soon after your last
-AWARD_NAME_2191608                                         All of these kits have been issued
-AWARD_NAME_2190303                                         That kit was already issued to you
-AWARD_NAME_2190309                                         Your kit has been ALLOCATED and is at your feet
-AWARD_NAME_3190318                                         You need to request a BUILD ORDER from your commander
-AWARD_NAME_3190105                                         You need to be close to a constructed FORWARD OUTPOST
-AWARD_NAME_3190803                                         You need to be close to 2 SUPPLY CRATES that belong to your forces
-AWARD_NAME_3040109                                         You reached the maximum number allowed for this asset
-AWARD_NAME_3040718                                         You reached the maximum number allowed per FORWARD OUTPOST
-AWARD_NAME_3240102                                         You reached the maximum number allowed in this AREA
-AWARD_NAME_3240703                                         Unavailable for your forces
-AWARD_NAME_2020719                                         Unavailable for your forces right now
-AWARD_NAME_2191319                                         Unavailable due to squad limitations
-AWARD_NAME_2190318                                         Unavailable for you
-AWARD_NAME_2020903                                         Your rally point was overrun! Set a new one in a few minutes at a safer location
-AWARD_NAME_2190308                                         You need at least 2 soldiers in your squad
-AWARD_NAME_2190703                                         You need at least 3 soldiers in your squad
-AWARD_NAME_2021613                                         You need the ENGINEER KIT to operate this vehicle position
-AWARD_NAME_3190118                                         You are too close to your SUPPLY DEPOT
-AWARD_NAME_2020913                                         You need the CREWMAN KIT to operate this vehicle position
-AWARD_NAME_2020919                                         You need the PILOT KIT to operate this vehicle position
-AWARD_NAME_2021322                                         You need the OFFICER or ENGINEER KIT to operate this vehicle position
-AWARD_NAME_2020419                                         You cannot operate this vehicle position by yourself.
-AWARD_NAME_2021403                                         YOU CANNOT OPERATE THIS VEHICLE POSITION!
-AWARD_NAME_3211305                                         You must join the SAME SQUAD as the other vehicle operator
-AWARD_NAME_1031406_1                                       Read your field manual and try again later
-AWARD_NAME_1031619_1                                       You must resign the commander position
-AWARD_NAME_1031119_1                                       You must resign the squad leader position
-AWARD_NAME_1031120_1                                       You must select another kit
-AWARD_NAME_1031109_1                                       You need at least one squad member near you
-AWARD_NAME_1031115_1                                       YOU CANNOT USE THIS WEAPON AS A CIVILIAN!
-AWARD_NAME_1031121_1                                       Try again in a moment
-AWARD_NAME_1031113_1                                       Try again in a better location
-AWARD_NAME_1031105_1                                       Asset being deployed...
-AWARD_NAME_1031923_1                                       You need to be close to a friendly SUPPLY CRATE or APC to request this kit
-AWARD_NAME_1032415_1                                       You need to be close to a friendly SUPPLY CRATE or APC to request this kit
-AWARD_NAME_1190601_1                                       You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit
-AWARD_NAME_1190507_1                                       CHECK YOUR FIRE!!! You just killed an UNARMED insurgent!
-AWARD_NAME_1191819_1                                       YOU WERE ARRESTED FOR KILLING TOO MANY CIVILIANS!
-AWARD_NAME_1190304_1                                       You are using INAPPROPRIATE LANGUAGE! Keep it clean!
-AWARD_NAME_1220118_1                                       You are too close to your MAIN BASE
-AWARD_NAME_1222016_1                                       You are too close to your COMMAND POST
-AWARD_NAME_1220803_1                                       You need the OFFICER or ENGINEER KIT
-AWARD_NAME_1220122_1                                       You need the OFFICER or CIVILIAN KIT
-AWARD_NAME_1220104_1                                       STOP DOING THAT
-AWARD_NAME_1031406_2                                       Informants report enemies near waypoint A
-AWARD_NAME_1031619_2                                       Informants report enemies near waypoint B
-AWARD_NAME_1031119_2                                       Informants report enemies near waypoint C
-AWARD_NAME_1031120_2                                       Informants report enemies near waypoint D
-AWARD_NAME_1031109_2                                       Informants report enemies near waypoint E
-AWARD_NAME_1031115_2                                       Informants report enemies near waypoint F
-AWARD_NAME_1031121_2                                       Informants report enemies near waypoint G
-AWARD_NAME_1031105_2                                       You need at least 4 soldiers in your squad
-AWARD_NAME_1031113_2                                       You need at least 5 soldiers in your squad
-AWARD_NAME_1032415_2                                       You need 6 soldiers in your squad
-AWARD_NAME_1190601_2                                       You need at least 2 squad members near you
-AWARD_NAME_1190507_2                                       You need at least 3 squad members near you
-AWARD_NAME_1191819_2                                       You need at least 4 squad members near you
-AWARD_NAME_1190304_2                                       You need all your squad members near you
-AWARD_NAME_1220118_2                                       PICK-UP the kit at your feet to drop your equipment
-AWARD_NAME_1222016_2                                       You need to set the DISTANCE to the target
-AWARD_NAME_1220803_2                                       Squad Rally Point REARMED and ready for use
-AWARD_NAME_1220122_2                                       You were ARRESTED for helping the insurgency
-AWARD_NAME_1220104_2                                       You were KILLED for helping the insurgency
-AWARD_NAME_1031923_2                                       You died a MARTYR of our insurgency
-AWARD_NAME_1031406_3                                       Too soon for a MUTINY vote
-AWARD_NAME_1031619_3                                       Press the MUTINY button if you agree the COMMANDER should be removed
-AWARD_NAME_1031119_3                                       You voted for COMMANDER removal
-AWARD_NAME_1031120_3                                       The Squad Leaders MUTINY vote against the COMMANDER was successful
-AWARD_NAME_1031109_3                                       You need to be close to a SUPPLY CRATE from your forces
-AWARD_NAME_1031115_3                                       You arrested an UNARMED insurgent
-AWARD_NAME_1032415_3                                       Mortar is unavailable, waiting on new fire mission request
-AWARD_NAME_1190601_3                                       Mortar is ready for fire mission
-AWARD_NAME_1190507_3                                       Mortars must be deployed in the same area
-AWARD_NAME_1191819_3                                       You can't use this weapon, DROP THE KIT
+AWARD_NAME_3150914                                         あなたは司令官になる必要がある
+AWARD_NAME_3151920                                         あなたは分隊長になる必要がある
+AWARD_NAME_3190409                                         あなたにはOFFICER KITが必要
+AWARD_NAME_3242303                                         あなたは、武器および攻撃のしかたを学ぶ必要がある
+AWARD_NAME_3212201                                         再度入隊した場合、しばらくKITの要請はできない
+AWARD_NAME_3241213                                         KITを要請した後はしばらく別のKITを要請することはできない
+AWARD_NAME_2191608                                         要請したKITは在庫がない
+AWARD_NAME_2190303                                         要請したKITは既に配給済み
+AWARD_NAME_2190309                                         要請したKITは足元にある
+AWARD_NAME_3190318                                         あなたは司令官に設置要請する必要がある
+AWARD_NAME_3190105                                         あなたは建設されたFORWARD OUTPOSTの近くにいる必要がある
+AWARD_NAME_3190803                                         設置するためには、SUPPLY CRATEを2つ用意する必要がある
+AWARD_NAME_3040109                                         設置することのできる最大数に達した
+AWARD_NAME_3040718                                         FORWARD OUTPOSTから設置することのできる最大数に達した
+AWARD_NAME_3240102                                         この地区に設置することのできる最大数に達した
+AWARD_NAME_3240703                                         あなたの陣営は利用できない
+AWARD_NAME_2020719                                         あなたの陣営は今利用することはできない
+AWARD_NAME_2191319                                         分隊制限により利用することができない
+AWARD_NAME_2190318                                         あなたは利用することができない
+AWARD_NAME_2020903                                         設置したRALLY POINTが消失した！　数分後に再設置が可能
+AWARD_NAME_2190308                                         そのKITを要請するには2人以上の分隊員が必要
+AWARD_NAME_2190703                                         そのKITを要請するには3人以上の分隊員が必要
+AWARD_NAME_2021613                                         この座席で操作するにはENGINEER KITが必要
+AWARD_NAME_3190118                                         あなたは自軍のSUPPLY DEPOTに近すぎる
+AWARD_NAME_2020913                                         この車両を操作するにはCREWMAN KITが必要
+AWARD_NAME_2020919                                         この車両を操作するにはPILOT KITが必要
+AWARD_NAME_2021322                                         この車両を操作するにはOFFICERかENGINEER KITが必要
+AWARD_NAME_2020419                                         あなたは1人でこの車両を操作することはできない
+AWARD_NAME_2021403                                         あなたはこの車両を操作することはできない
+AWARD_NAME_3211305                                         あなたはこの車両の運用者と同じ分隊に参加する必要がある
+AWARD_NAME_1031406_1                                       ProjectRealityのマニュアルを読んで、しばらくしてから再度試せ
+AWARD_NAME_1031619_1                                       あなたは司令官を辞任しなければならない
+AWARD_NAME_1031119_1                                       あなたは分隊長を辞任しなければならない
+AWARD_NAME_1031120_1                                       あなたは別のKITを選択しなければならない
+AWARD_NAME_1031109_1                                       あなたの近くに少なくとも、1人の分隊員が必要
+AWARD_NAME_1031115_1                                       あなたは民間人のため、この武器を利用できない
+AWARD_NAME_1031121_1                                       しばらくしてからもう一度試せ
+AWARD_NAME_1031113_1                                       条件のよい場所でもう一度試せ
+AWARD_NAME_1031105_1                                       設置中...
+AWARD_NAME_1031923_1                                       そのKITを要請するにはSUPPLY CRATEかAPCに接近している必要がある
+AWARD_NAME_1032415_1                                       そのKITを要請するにはSUPPLY CRATEかAPCに接近している必要がある
+AWARD_NAME_1190601_1                                       そのKITを要請するにはSUPPLY CRATEか車両に接近している必要がある
+AWARD_NAME_1190507_1                                       あなたは民間人を殺してしまった！　攻撃目標を確認しろ！
+AWARD_NAME_1191819_1                                       あなたはあまりに多くの民間人を殺したため、たいほされた！
+AWARD_NAME_1190304_1                                       あなたは不適切な発言をした。　言葉遣いを直せ
+AWARD_NAME_1220118_1                                       あなたはMAIN BASEと近い距離にいる
+AWARD_NAME_1222016_1                                       あなたはCOMMAND POSTの近い距離にいる
+AWARD_NAME_1220803_1                                       あなたはOFFICERかENGINEER KITが必要
+AWARD_NAME_1220122_1                                       あなたはOFFICERかCIVILIAN KITが必要
+AWARD_NAME_1220104_1                                       Mumbleにログイン、または行っていることを中止しろ
+AWARD_NAME_1031406_2                                       情報提供: A地点の周辺に敵を確認
+AWARD_NAME_1031619_2                                       情報提供: B地点の周辺に敵を確認
+AWARD_NAME_1031119_2                                       情報提供: C地点の周辺に敵を確認
+AWARD_NAME_1031120_2                                       情報提供: D地点の周辺に敵を確認
+AWARD_NAME_1031109_2                                       情報提供: E地点の周辺に敵を確認
+AWARD_NAME_1031115_2                                       情報提供: F地点の周辺に敵を確認
+AWARD_NAME_1031121_2                                       情報提供: G地点の周辺に敵を確認
+AWARD_NAME_1031105_2                                       そのKITを要請するには4人以上の分隊員が必要
+AWARD_NAME_1031113_2                                       そのKITを要請するには5人以上の分隊員が必要
+AWARD_NAME_1032415_2                                       そのKITを要請するには6人の分隊員が必要
+AWARD_NAME_1190601_2                                       あなたの近くに2人以上の分隊員が必要
+AWARD_NAME_1190507_2                                       あなたの近くに3人以上の分隊員が必要
+AWARD_NAME_1191819_2                                       あなたの近くに4人以上の分隊員が必要
+AWARD_NAME_1190304_2                                       あなたの近くに分隊全員が必要です
+AWARD_NAME_1220118_2                                       変更用のKITは足元にある
+AWARD_NAME_1222016_2                                       目標までの距離を設定する必要がある
+AWARD_NAME_1220803_2                                       Rally Point再設置準備が完了した
+AWARD_NAME_1220122_2                                       反乱に協力していたため、たいほされた(敵側へ情報がもれてしまった...)
+AWARD_NAME_1220104_2                                       あなたは敵性勢力と見なされ殺害された
+AWARD_NAME_1031923_2                                       無害だったあなたは戦闘にまきこまれ死亡した(敵側は情報が混乱した!!)
+AWARD_NAME_1031406_3                                       解任投票を開始した
+AWARD_NAME_1031619_3                                       司令官を解任するのに賛成する場合は、MUTINYボタンを押してください
+AWARD_NAME_1031119_3                                       あなたは司令官の解任投票に対して賛成した
+AWARD_NAME_1031120_3                                       司令官は解任された
+AWARD_NAME_1031109_3                                       あなたは自軍のSUPPLY CRATEの近くにいる必要がある
+AWARD_NAME_1031115_3                                       民兵をたいほした(弾薬庫への情報を得た!!)
+AWARD_NAME_1032415_3                                       迫撃砲の砲撃要請がない。要請があるまで待たなければならない
+AWARD_NAME_1190601_3                                       迫撃砲の砲撃要請が出された。
+AWARD_NAME_1190507_3                                       同じ領域に迫撃砲を設置する必要がある
+AWARD_NAME_1191819_3                                       あなたはこのKITを利用できない。　変更の必要がある
 AWARD_NAME_1190304_3                                       You tried spawning on an invalid spawnpoint, you got moved to a valid one
 AWARD_NAME_1220118_3                                       You tried spawning on an invalid spawnpoint, no valid one could be found
-AWARD_NAME_1031121_3                                       UAV is refuelling
-AWARD_NAME_1031105_3                                       UAV is deploying to position...
-AWARD_NAME_1031113_3                                       UAV is ready
+AWARD_NAME_1031121_3                                       UAVは利用できない
+AWARD_NAME_1031105_3                                       UAVが展開中...
+AWARD_NAME_1031113_3                                       UAVの準備が完了した
 AWARD_NAME_1222016_3                                       UAV is starting...
-AWARD_NAME_1220803_3                                       UAV is landing
-AWARD_NAME_1220122_3                                       UAV is returning to base
-AWARD_NAME_1220104_3                                       UAS does not have enough fuel
+AWARD_NAME_1220803_3                                       UAVは着陸中
+AWARD_NAME_1220122_3                                       UAVが帰投中
+AWARD_NAME_1220104_3                                       UASは燃料不足
 AWARD_NAME_1031923_3                                        
 PYTHON_HQ                                                  HQ
-PYTHON_SECOND                                              second
-PYTHON_SECONDS                                             seconds
-PYTHON_MINUTE                                              minute
-PYTHON_MINUTES                                             minutes
+PYTHON_SECOND                                              秒
+PYTHON_SECONDS                                             秒
+PYTHON_MINUTE                                              分
+PYTHON_MINUTES                                             分
 PYTHON_ASSETS_BUNKER                                       BUNKER
 PYTHON_ASSETS_FIREBASE                                     FIREBASE
 PYTHON_ASSETS_SANDBAGS                                     SANDBAGS
@@ -127,20 +127,20 @@ PYTHON_KITS_SAPPER                                         SCOUT
 PYTHON_KITS_AMBUSHER                                       AMBUSHER
 PYTHON_KITS_MG                                             MACHINE GUNNER
 PYTHON_KITS_SPOTTER                                        SPOTTER
-PYTHON_SQUADLESS                                           Joining a squad is a requirement on this server. Join a squad or you will be kicked!
-PYTHON_BADWORDS                                            Inappropriate chat message!
-PYTHON_INSURGENCY_INS_INTEL                                The enemy have obtained information about a Weapon Cache!
-PYTHON_INSURGENCY_INS_TOTAL                                The enemy is attacking! We have #NUM# Weapon Caches left in the area.
-PYTHON_INSURGENCY_INS_LAST                                 We cannot afford to lose any more Weapon Caches!
-PYTHON_INSURGENCY_INS_DEFEND                               Check the map and defend them before it's too late!
-PYTHON_INSURGENCY_COA_INTEL                                Intelligence has obtained information about a new Weapon Cache.
-PYTHON_INSURGENCY_COA_TOTAL                                Intelligence reports the Insurgents have #NUM# Weapon Caches in the area.
-PYTHON_INSURGENCY_COA_DESTROY                              Check your map for approximate Weapon Cache locations.
-PYTHON_INSURGENCY_DESTROYED                                Weapon Cache destroyed! [#NUM# of #TOTAL#]
-PYTHON_INSURGENCY_TRAITOR                                  #NAME# was shot as a traitor!
-PYTHON_COUNTER_ATTACKER_INTRO_1                            We are more powerful than the enemy!
-PYTHON_COUNTER_ATTACKER_INTRO_2                            Let's crush them before they get reinforcements!
-PYTHON_COUNTER_DEFENDER_INTRO_1                            The enemy is more powerful than us!
-PYTHON_COUNTER_DEFENDER_INTRO_2                            Hold the line and wait for reinforcements!
-PYTHON_COUNTER_REINFORCEMENTS                              Reinforcements have arrived, now is the time to counter-attack!
-PYTHON_CNC_START                                           Deploy all your Forward Outposts to control the area!
+PYTHON_SQUADLESS                                           このサーバーでは分隊への参加が必要です。分隊への参加をしなければ一定時間でKICKされます
+PYTHON_BADWORDS                                            不適切なメッセージはやめてください
+PYTHON_INSURGENCY_INS_INTEL                                敵のWeapon Cacheに関する情報を得た！
+PYTHON_INSURGENCY_INS_TOTAL                                敵がWeapon Cacheを攻撃している！#NUM#Weapon Cacheを防衛しろ
+PYTHON_INSURGENCY_INS_LAST                                 我々のWeapon Cacheをこれ以上失うわけにはいかない！
+PYTHON_INSURGENCY_INS_DEFEND                               よくマップを確認して手遅れになる前に防衛に当たれ！
+PYTHON_INSURGENCY_COA_INTEL                                敵にWeapon Cacheの位置が特定されてしまいました
+PYTHON_INSURGENCY_COA_TOTAL                                #NUM# Weapon Cacheのおおよその位置の特定しました
+PYTHON_INSURGENCY_COA_DESTROY                              近くにWeapon Cacheがあるかマップを確認してください
+PYTHON_INSURGENCY_DESTROYED                                [#NUM# / #TOTAL#]のWeapon Cacheを破壊！
+PYTHON_INSURGENCY_TRAITOR                                  #NAME#は反逆者として射殺された
+PYTHON_COUNTER_ATTACKER_INTRO_1                            我々は敵勢力を圧倒している！
+PYTHON_COUNTER_ATTACKER_INTRO_2                            敵が増援を得る前に叩け！
+PYTHON_COUNTER_DEFENDER_INTRO_1                            敵勢力は我々を圧倒している！
+PYTHON_COUNTER_DEFENDER_INTRO_2                            戦線を保持して増援を待て！
+PYTHON_COUNTER_REINFORCEMENTS                              増援が到着した、反撃を開始しろ！
+PYTHON_CNC_START                                           そのエリアを制圧するため、全軍は前哨から展開しろ！
