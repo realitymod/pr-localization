@@ -1,7 +1,7 @@
 HUD_HELP_WEAPON_HANDHELD_SHOVEL_CONTROLS_BUILDING          シャベルはForwad Outppostなどの施設の建設に使います。土台の前で §C1001'マウスボタン 左'§C1001 で建設を開始します
 HUD_HELP_WEAPON_HANDHELD_uksalute_CONTROLS_SHOWINGRESPECT  このジェスチャーは上官に敬意を表すために使います。 上官の前で §C1001'マウスボタン 右'§C1001 を押してください
 HUD_HELP_WEAPON_HANDHELD_ussalute_CONTROLS_SHOWINGRESPECT  このジェスチャーは敬意を表すために使われます。これを行うには §C1001'マウスボタン 右'§C1001 を押します
-HUD_HELP_GAMEPLAY_climbLadder                              はしごの前で前進して登る
+HUD_HELP_GAMEPLAY_climbLadder                              はしごの前で前進して登る 
 HUD_HELP_VEHICLE_GENERAL_CONTROLS_enterVehicle             Press the '§C1001#PIUse#§C1001' Key to §C1001Enter§C1001 the Vehicle
 HUD_HELP_WEAPON_STATIONARY_CONTROLS_enterStationaryWeapon  Press the '§C1001#PIUse#§C1001' Key to §C1001Enter§C1001 the nearby Stationary Weapon
 HUD_HELP_VEHICLE_CONTROLS_exitVehicle                      Press the '§C1001#PIUse#§C1001' Key to §C1001Exit§C1001 the Vehicle
