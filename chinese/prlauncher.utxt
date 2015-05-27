@@ -18,9 +18,9 @@ LAUNCHER_TITLES_CHANGECDKEY                           更换 CD Key
 UPDATER_TITLES_UPDATER                                Project Reality: BF2 更新
 UPDATER_TITLES_ACCEPTLICENSE                          接受许可协议
 LAUNCHER_MAIN_BUTTON_PLAY                             启动游戏
-LAUNCHER_MAIN_BUTTON_GUIDE                            手册
+LAUNCHER_MAIN_BUTTON_GUIDE                            游戏手册
 LAUNCHER_MAIN_BUTTON_OPTIONS                          选项
-LAUNCHER_MAIN_BUTTON_SUPPORT                          支持
+LAUNCHER_MAIN_BUTTON_SUPPORT                          技术支持
 LAUNCHER_MAIN_BUTTON_CREDITS                          CREDITS
 LAUNCHER_MAIN_BUTTON_DONATE                           捐赠
 LAUNCHER_MAIN_BUTTON_EXIT                             退出
@@ -78,39 +78,39 @@ LAUNCHER_INITIALSETUP_CREATEACCOUNT_CONFIRMPASS       确认密码
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_REMEMBERPASS      记住密码
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_CREATE            创建
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_BACK              返回
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_DESC            请选择你希望找回你现有帐户方法,填写所需资料，并按“检索”继续.按“返回”返回上一页.
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_DESC            请选择你希望找回你现有帐户方法,填写所需资料，并按“取回”继续.按“返回”返回上一页.
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAILTAB        检索电子邮件
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAMETAB     检索用户名
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAIL           Email 地址
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAME        帐户名称(游戏里的名字)
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_PASSWORD        密码
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_SELECTPROFILE   Please select the profile you wish to retrieve, and press "Retrieve" again to confirm profile retrieval.
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_RETRIEVE        Retrieve
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_BACK            Back
-LAUNCHER_INITIALSETUP_IMPORTBF2_DESC                  Please select your existing Battlefield 2 profile to import and press "Import", or press "Back" to return to the previous page.
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_RETRIEVE        取回
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_BACK            返回
+LAUNCHER_INITIALSETUP_IMPORTBF2_DESC                  请选择你需要导入的现有Battlefield 2账户，并点击"导入"或选择"返回"返回上一页.
 LAUNCHER_INITIALSETUP_IMPORTBF2_DESCNOPR              No existing Project Reality: BF2 profiles have been found. Please select your existing Battlefield 2 profile to import and press "Import", or press "Back" to create or retrieve an account.
-LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILETYPE           Profile Type
-LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILENAME           Profile Name
-LAUNCHER_INITIALSETUP_IMPORTBF2_IMPORT                Import
-LAUNCHER_INITIALSETUP_IMPORTBF2_BACK                  Back
-LAUNCHER_INITIALSETUP_FINISHED_DESCSINGLE             Your Project Reality: BF2 profile has been successfully created. You are now ready to play! Before you do however, please take some time to read the following short message from the Project Reality Team, then press "Finish" to continue.
-LAUNCHER_INITIALSETUP_FINISHED_DESCMULTI              Your Project Reality: BF2 profiles have been successfully created. You are now ready to play! Before you do however, please take some time to read the following short message from the Project Reality Team, then press "Finish" to continue.
-LAUNCHER_INITIALSETUP_FINISHED_HEADER1                Having technical issues?
-LAUNCHER_INITIALSETUP_FINISHED_TEXT1                  If you have any issues with being able to play, such as game crashes, possible bugs, or some other technical issue, please check out the "Support" section in the Project Reality: BF2 Launcher.
-LAUNCHER_INITIALSETUP_FINISHED_HEADER2                Have gameplay questions?
-LAUNCHER_INITIALSETUP_FINISHED_TEXT2                  If you're not quite sure what to do when you first start playing, if you're wondering what the shovel does, or if you have any other gameplay related questions, you should take a look at the Project Reality: BF2 Manual, which can also be found on the launcher.
-LAUNCHER_INITIALSETUP_FINISHED_HEADER3                Any other questions?
-LAUNCHER_INITIALSETUP_FINISHED_TEXT3                  If you didn't find the answer you were looking for, or you just want to share your thoughts on the game, please don't hesitate to contact us through our social media pages or via our forums. The links to these pages can be found at the top left of the launcher.
-LAUNCHER_INITIALSETUP_FINISHED_TEXT4                  Thanks for playing, and we hope you enjoy the game!
-LAUNCHER_INITIALSETUP_FINISHED_TEXT5                  - The Project Reality Team
-LAUNCHER_INITIALSETUP_FINISHED_FINISH                 Finish
-LAUNCHER_SELECTPROFILE_DESC                           Please select the profile you want to use, confirm any passwords and options, then press "Login" to launch Project Reality: BF2.
-LAUNCHER_SELECTPROFILE_PASSWORD                       Password
-LAUNCHER_SELECTPROFILE_PREFIX                         Profile Name Prefix
-LAUNCHER_SELECTPROFILE_REMEMBERPASSWORD               Remember password for the selected profile
-LAUNCHER_SELECTPROFILE_ALWAYSUSEPROFILE               Always use selected profile
-LAUNCHER_SELECTPROFILE_MANAGE                         Manage Profiles
-LAUNCHER_SELECTPROFILE_LOGIN                          Login
+LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILETYPE           账户类型
+LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILENAME           账户名称
+LAUNCHER_INITIALSETUP_IMPORTBF2_IMPORT                导入
+LAUNCHER_INITIALSETUP_IMPORTBF2_BACK                  返回
+LAUNCHER_INITIALSETUP_FINISHED_DESCSINGLE             你的Project Reality: BF2 账户已经成功创建.你现在就可以进行游戏!在这之前, 请花点时间阅读下面Project Reality团队的消息,按"完成"继续.
+LAUNCHER_INITIALSETUP_FINISHED_DESCMULTI              你的Project Reality: BF2 账户已经成功创建.你现在就可以进行游戏!在这之前,请花点时间阅读下面Project Reality团队的消息,按"完成"继续.
+LAUNCHER_INITIALSETUP_FINISHED_HEADER1                遇到技术问题?
+LAUNCHER_INITIALSETUP_FINISHED_TEXT1                  如果你在游戏中遇到各种问题, 比如游戏崩溃, 可能的游戏bugs, 或者其他的一些技术问题,请点击Project Reality: BF2启动器上的"支持".
+LAUNCHER_INITIALSETUP_FINISHED_HEADER2                遇到游戏的问题?
+LAUNCHER_INITIALSETUP_FINISHED_TEXT2                  如果你第一次玩游戏,不明白要做什么, 如果你想知道如何用铲子干活, 或者你有任何游戏相关的问题,你应该看看Project Reality: BF2手册,你可在启动器上找到.
+LAUNCHER_INITIALSETUP_FINISHED_HEADER3                任何其他的问题?
+LAUNCHER_INITIALSETUP_FINISHED_TEXT3                  如果你没有找到你要的答案,或者你想分享你在游戏上的一些想法, 请不要犹豫,通过我们的社交媒体网页,或者游戏论坛与我们联系.这些网页链接可以再启动器的左上角找到.
+LAUNCHER_INITIALSETUP_FINISHED_TEXT4                  谢谢您的参与,我们希望你快乐的享受游戏!
+LAUNCHER_INITIALSETUP_FINISHED_TEXT5                  - Project Reality团队
+LAUNCHER_INITIALSETUP_FINISHED_FINISH                 完成
+LAUNCHER_SELECTPROFILE_DESC                           请选择要使用的账户,确认密码选项,然后按"登录"启动Project Reality: BF2.
+LAUNCHER_SELECTPROFILE_PASSWORD                       密码
+LAUNCHER_SELECTPROFILE_PREFIX                         账户的前缀
+LAUNCHER_SELECTPROFILE_REMEMBERPASSWORD               记住选定账户的密码
+LAUNCHER_SELECTPROFILE_ALWAYSUSEPROFILE               始终使用选定的账户
+LAUNCHER_SELECTPROFILE_MANAGE                         管理账户
+LAUNCHER_SELECTPROFILE_LOGIN                          登录
 LAUNCHER_MANAGEPROFILES_DESC                          To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile".
 LAUNCHER_MANAGEPROFILES_DESCDEBUG                     To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile". Use "Convert Profile" to convert between a Normal and a Debug profile. When converting a profile, the controls will be reset to default. Only Debug profiles can be used with the Project Reality: BF2 Debugger.
 LAUNCHER_MANAGEPROFILES_CONFIRMDELETE                 Are you sure you want to delete this profile? All settings will be lost!
