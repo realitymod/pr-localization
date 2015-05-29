@@ -1,52 +1,52 @@
-﻿HUD_HELP_WEAPON_HANDHELD_SHOVEL_CONTROLS_BUILDING          鐵鍬用來建造可部署的固定工事,比如前哨、散兵坑、等等.靠近工事並點擊 §C1001'Left Mouse Button'§C1001 建造
-HUD_HELP_WEAPON_HANDHELD_uksalute_CONTROLS_SHOWINGRESPECT  該姿勢用來表示尊敬.按 §C1001'Right Mouse Button'§C1001 向其他士兵敬禮
-HUD_HELP_WEAPON_HANDHELD_ussalute_CONTROLS_SHOWINGRESPECT  該姿勢用來表示尊敬.按 §C1001'Right Mouse Button'§C1001 敬禮
+﻿HUD_HELP_WEAPON_HANDHELD_SHOVEL_CONTROLS_BUILDING          鐵鍬用來建造可部署的固定工事,比如前哨、散兵坑、等等.靠近工事並點擊 §C1001'鼠標左鍵'§C1001 建造
+HUD_HELP_WEAPON_HANDHELD_uksalute_CONTROLS_SHOWINGRESPECT  該姿勢用來表示尊敬.按 §C1001'鼠標右鍵'§C1001 向其他士兵敬禮
+HUD_HELP_WEAPON_HANDHELD_ussalute_CONTROLS_SHOWINGRESPECT  該姿勢用來表示尊敬.按 §C1001'鼠標右鍵'§C1001 敬禮
 HUD_HELP_GAMEPLAY_climbLadder                              靠近梯子可以攀爬
-HUD_HELP_VEHICLE_GENERAL_CONTROLS_enterVehicle             按 '§C1001#PIUse#§C1001' 鍵 §C1001进入§C1001 載具
+HUD_HELP_VEHICLE_GENERAL_CONTROLS_enterVehicle             按 '§C1001#PIUse#§C1001' 鍵 §C1001進入§C1001 載具
 HUD_HELP_WEAPON_STATIONARY_CONTROLS_enterStationaryWeapon  按 '§C1001#PIUse#§C1001' 鍵 §C1001使用§C1001 固定武器
-HUD_HELP_VEHICLE_CONTROLS_exitVehicle                      按 '§C1001#PIUse#§C1001' 鍵 §C1001离开§C1001 載具
+HUD_HELP_VEHICLE_CONTROLS_exitVehicle                      按 '§C1001#PIUse#§C1001' 鍵 §C1001離開§C1001 載具
 HUD_HELP_PLAYER_CONTROLS_parachute                         按 '§C1001#GIMenuSelect9#§C1001' 鍵來打開 §C1001降落傘§C1001
-HUD_HELP_COMMANDER_commanderApply                          Y你已經申請了擔任指揮官.稍後你將收到回復.
+HUD_HELP_COMMANDER_commanderApply                          你已經申請了擔任指揮官.稍後你將收到回復.
 HUD_HELP_SQUAD_squadCreated                                你建立了一個小隊 
 HUD_HELP_SQUAD_squadJoined                                 你加入了一個小隊 
-HUD_HELP_MENU_CONTROLS_callMedicWhenManDown                Call a §C1001Medic§C1001 by pressing the §C1001Left Mouse Button§C1001. Open the §C1001Spawn Screen§C1001 by pressing the §C1001Right Mouse Button§C1001.
-HUD_HELP_MENU_CONTROLS_COMMOROSE_slcommoRoseAvailable      Send §C1001Orders§C1001 to your Squad by holding down the '§C1001#GITacticalComm#§C1001' Key, selecting with the §C1001Mouse§C1001 and clicking the §C1001Left Mouse Button§C1001
-HUD_HELP_MENU_COMMOROSE_slCommoRoseFirstUse                Move, Defend or Attack Orders are placed where your Crosshair is pointing.
-HUD_HELP_SQUAD_LEADER_mainMapRightMouseMenu                To place distant order markers, click the §C1001Right Mouse Button§C1001 on the §C1001Map§C1001.
-HUD_HELP_PLAYER_CONTROLS_moveForwardsBackwards             §C1001Move§C1001 Forwards and Backwards using the '§C1001#PIThrottle_1#§C1001' and '§C1001#PIThrottle_2#§C1001' Keys
-HUD_HELP_PLAYER_CONTROLS_moveMouseToLook                   Move the Mouse to look like around
-HUD_HELP_PLAYER_CONTROLS_strafeLeftRight                   §C1001Strafe§C1001 Left and Right using the '§C1001#PIYaw_1#§C1001' and '§C1001#PIYaw_2#§C1001' Keys
-HUD_HELP_PLAYER_CONTROLS_fireLeftMouse                     §C1001Fire§C1001 using the §C1001Left Mouse Button§C1001
-HUD_HELP_PLAYER_CONTROLS_zoomAltFire                       §C1001Zoom§C1001 using the §C1001Right Mouse Button§C1001
-HUD_HELP_PLAYER_CONTROLS_lieDown                           §C1001Lie Down§C1001 using the '§C1001#PILie#§C1001' Key
-HUD_HELP_PLAYER_CONTROLS_jump                              §C1001Jump§C1001 using the '§C1001#PIAction#§C1001'
-HUD_HELP_PLAYER_CONTROLS_crouch                            §C1001Crouch§C1001 by pressing the '§C1001#PICrouch#§C1001' Key
-HUD_HELP_PLAYER_CONTROLS_sprint                            §C1001Sprint§C1001 by double tapping the '§C1001#PIThrottle_1#§C1001' Key
-HUD_HELP_MENU_CONTROLS_scoreBoard                          To check the §C1001Scoreboard§C1001 hold down the '§C1001#GIShowScoreboard#§C1001' Key
-HUD_HELP_MENU_CONTROLS_largeMap                            To check the §C1001Large Map§C1001 press the '§C1001#GIMapSize#§C1001' Key
-HUD_HELP_MENU_CONTROLS_zoomMap                             §C1001Zoom§C1001 the Map by pressing the '§C1001#GIMapZoom#§C1001' Key
-HUD_HELP_MENU_CONTROLS_changeWeapon                        Change Weapon using the Number Keys or the Mouse Wheel
-HUD_HELP_MENU_CONTROLS_COMMOROSE_generalCommoRose          Send §C1001Radio Messages§C1001 by holding down the '§C1001#GIRadioComm#§C1001' Key, selecting with the §C1001Mouse§C1001 and clicking the §C1001Left Mouse Button§C1001.
-HUD_HELP_MENU_CONTROLS_spawnScreen                         To see the §C1001Spawn Screen§C1001 press the '§C1001#GIEnter#§C1001' Key.
-HUD_HELP_GAMEPLAY_captureFlag                              To capture the Control Point stand close to the Flag. The more players your team has near the flag, the faster it will be captured.
-HUD_HELP_MENU_applyForCommanderOrSquadHere                 Here you can Apply to be the Commander, Start your own Squad or Join an existing one.
-HUD_HELP_VEHICLE_APC_DRIVER_CONTROLS_fireSecondaryWeapon   Press the §C1001Right Mouse Button§C1001 to fire the §C1001Secondary Weapon§C1001
-HUD_HELP_VEHICLE_APC_PASSENGER_CONTROLS_firePassengerWeaponPress the §C1001Left Mouse Button§C1001 to fire from the §C1001Gun Port§C1001
-HUD_HELP_VEHICLE_HELO_PILOT_CONTROLS_deployFlares          Press the '§C1001#PIFlareFire#§C1001' Key to deploy Missile §C1001Countermeasures§C1001
-HUD_HELP_VEHICLE_HELO_PASSENGER_CONTROLS_switchToGuidedMissilesPress the §C1001Right Mouse Button§C1001 to switch to §C1001TV-Guided Missiles§C1001
-HUD_HELP_VEHICLE_JET_PILOT_CONTROLS_toggleWeaponsShortcut  Use the '§C1001#PIToggleWeapon#§C1001' Key shortcut to quickly §C1001Change Weapons§C1001
-HUD_HELP_VEHICLE_AA_DRIVER_CONTROLS_fireSecondaryWeapon    Press the §C1001Right Mouse Button§C1001 to Launch Heatseeking §C1001Missiles§C1001
-HUD_HELP_WEAPON_STATIONARY_AA_CONTROLS_lockOnTone          A §C1001Clear Tone§C1001 indicates you are §C1001Locked-On§C1001 to a Heatsource
-HUD_HELP_WEAPON_STATIONARY_AT_CONTROLS_guideMissile        Move your Crosshair to guide the missile while it is in flight
-HUD_HELP_VEHICLE_F35_PILOT_CONTROLS_engageHoverEngines     Hold the '§C1001#PIThrottle_2#§C1001' Key to §C1001Hover§C1001
-HUD_HELP_VEHICLE_LCAC_DRIVER_CONTROLS_raiseLowerRamp       Use the §C1001#PIPitch_1# and #PIPitch_2#§C1001 Keys to §C1001Raise and Lower§C1001 the Ramp
-HUD_HELP_WEAPON_HANDHELD_AMMOBAG_CONTROLS_throwAmmoBagDown Press the §C1001Left Mouse Button§C1001 to §C1001Throw§C1001 the Ammo Bag
-HUD_HELP_WEAPON_HANDHELD_C4_CONTROLS_switchToDetonator     After you have placed the C4, press the §C1001Right Mouse Button§C1001 to switch to the §C1001Detonator§C1001
-HUD_HELP_WEAPON_HANDHELD_CLAYMORE_GENERAL_mineHasDirectionalBlastThis Mine explodes when someone passes infront of it, avoid walking in front of a deployed mine
+HUD_HELP_MENU_CONTROLS_callMedicWhenManDown                按 §C1001鼠標左鍵§C1001呼叫§C1001醫療§C1001 . 打開 §C1001Spawn Screen§C1001 界面 §C1001右鍵點擊§C1001也可以呼叫.
+HUD_HELP_MENU_CONTROLS_COMMOROSE_slcommoRoseAvailable      按住'§C1001#GITacticalComm#§C1001'用§C1001Mouse§C1001選擇并點擊§C1001Left Mouse Button§C1001發送§C1001Orders§C1001 到你的小隊
+HUD_HELP_MENU_COMMOROSE_slCommoRoseFirstUse                下達移動、防守或者攻擊的命令到你瞄準的位置.
+HUD_HELP_SQUAD_LEADER_mainMapRightMouseMenu                在 §C1001Map§C1001 上點擊 §C1001鼠標右鍵§C1001放置遠距離命令標記.
+HUD_HELP_PLAYER_CONTROLS_moveForwardsBackwards             按'§C1001#PIThrottle_1#§C1001'和'§C1001#PIThrottle_2#§C1001'向前和向後§C1001移動§C1001
+HUD_HELP_PLAYER_CONTROLS_moveMouseToLook                   移動鼠標查看四周
+HUD_HELP_PLAYER_CONTROLS_strafeLeftRight                   用 '§C1001#PIYaw_1#§C1001' 和'§C1001#PIYaw_2#§C1001' 向左和向右§C1001掃射§C1001 
+HUD_HELP_PLAYER_CONTROLS_fireLeftMouse                     按§C1001鼠標左鍵§C1001§C1001開火§C1001
+HUD_HELP_PLAYER_CONTROLS_zoomAltFire                       用§C1001鼠標右鍵§C1001§C1001瞄準§C1001
+HUD_HELP_PLAYER_CONTROLS_lieDown                           按 '§C1001#PILie#§C1001'§C1001趴下§C1001
+HUD_HELP_PLAYER_CONTROLS_jump                              按 '§C1001#PIAction#§C1001'§C1001跳起§C1001
+HUD_HELP_PLAYER_CONTROLS_crouch                            按 '§C1001#PICrouch#§C1001' §C1001蹲下§C1001
+HUD_HELP_PLAYER_CONTROLS_sprint                            雙擊 '§C1001#PIThrottle_1#§C1001'§C1001衝鋒§C1001
+HUD_HELP_MENU_CONTROLS_scoreBoard                          要查看記分牌 §C1001Scoreboard§C1001 請按住 '§C1001#GIShowScoreboard#§C1001' 鍵
+HUD_HELP_MENU_CONTROLS_largeMap                            要查看 §C1001大地圖§C1001 請按 '§C1001#GIMapSize#§C1001' 鍵
+HUD_HELP_MENU_CONTROLS_zoomMap                             '§C1001#GIMapZoom#§C1001 鍵'§C1001縮放§C1001 地圖
+HUD_HELP_MENU_CONTROLS_changeWeapon                        用數字鍵或鼠標滾輪切換武器
+HUD_HELP_MENU_CONTROLS_COMMOROSE_generalCommoRose          按住'§C1001#GIRadioComm#§C1001' Key，用§C1001Mouse§C1001 選擇，并點擊§C1001鼠標左鍵§C1001 可發送 §C1001快速語音指令§C1001.
+HUD_HELP_MENU_CONTROLS_spawnScreen                         按 '§C1001#GIEnter#§C1001' 查看§C1001重生界面§C1001.
+HUD_HELP_GAMEPLAY_captureFlag                              靠近旗子以奪取控制點。越多玩家在奪旗範圍，奪旗速度越快.
+HUD_HELP_MENU_applyForCommanderOrSquadHere                 你可以在這裡申請指揮官，建立你自己的小隊，或加入別的小隊.
+HUD_HELP_VEHICLE_APC_DRIVER_CONTROLS_fireSecondaryWeapon   按§C1001鼠標右鍵§C1001 發射 §C1001Secondary Weapon§C1001
+HUD_HELP_VEHICLE_APC_PASSENGER_CONTROLS_firePassengerWeapon按§C1001鼠標左鍵§C1001 從 §C1001Gun Port§C1001 射擊 
+HUD_HELP_VEHICLE_HELO_PILOT_CONTROLS_deployFlares          按'§C1001#PIFlareFire#§C1001' 部署導彈 §C1001Countermeasures§C1001
+HUD_HELP_VEHICLE_HELO_PASSENGER_CONTROLS_switchToGuidedMissiles按 §C1001鼠標右鍵§C1001 切換至 §C1001TV-Guided Missiles§C1001
+HUD_HELP_VEHICLE_JET_PILOT_CONTROLS_toggleWeaponsShortcut  使用 '§C1001#PIToggleWeapon#§C1001' 快捷鍵迅速 §C1001Change Weapons§C1001
+HUD_HELP_VEHICLE_AA_DRIVER_CONTROLS_fireSecondaryWeapon    按§C1001鼠標右鍵§C1001 發射熱跟蹤 §C1001導彈§C1001
+HUD_HELP_WEAPON_STATIONARY_AA_CONTROLS_lockOnTone          出現§C1001Clear Tone§C1001 表示你 §C1001鎖定§C1001 一個熱源
+HUD_HELP_WEAPON_STATIONARY_AT_CONTROLS_guideMissile        移動你的準心控制導彈的飛行方向
+HUD_HELP_VEHICLE_F35_PILOT_CONTROLS_engageHoverEngines     按住 '§C1001#PIThrottle_2#§C1001' §C1001Hover§C1001
+HUD_HELP_VEHICLE_LCAC_DRIVER_CONTROLS_raiseLowerRamp       按§C1001#PIPitch_1# 和 #PIPitch_2#§C1001 §C1001Raise and Lower§C1001 坡道
+HUD_HELP_WEAPON_HANDHELD_AMMOBAG_CONTROLS_throwAmmoBagDown 按§C1001鼠標左鍵§C1001 §C1001扔§C1001 彈藥包
+HUD_HELP_WEAPON_HANDHELD_C4_CONTROLS_switchToDetonator     在你放下C4后，按§C1001鼠標右鍵§C1001 切換至 §C1001引爆器§C1001
+HUD_HELP_WEAPON_HANDHELD_CLAYMORE_GENERAL_mineHasDirectionalBlast這顆地雷會在其他人走到它正面時爆炸。避免走到一顆已經部署好的地雷的正面
 HUD_HELP_WEAPON_HANDHELD_HANDGRENADE_CONTROLS_rollGrenade  Press and hold the §C1001Right Mouse Button§C1001 to control the §C1001Power§C1001 of the throw. The longer you hold the button, the further it will be thrown.
-HUD_HELP_WEAPON_HANDHELD_SIMRAD_CONTROLS_transmitTargetCoordinatesHold the §C1001Left Mouse Button§C1001 to §C1001Send§C1001 a Target's Coordinates to Aircraft
-HUD_HELP_WEAPON_HANDHELD_SHOCKPADDLES_CONTROLS_reviveTeamMatesUse the Shock Paddles to §C1001Revive§C1001 unconscious team mates by pressing the §C1001Left Mouse Button§C1001
-HUD_HELP_WEAPON_HANDHELD_HEALBAG_GENERAL_holdHealBagToHealLocallyKeep the Medic Bag in your hands to Heal nearby players automatically
+HUD_HELP_WEAPON_HANDHELD_SIMRAD_CONTROLS_transmitTargetCoordinates按下并保持 §C1001鼠標左鍵§C1001 向飛行器§C1001Send§C1001 目標坐標
+HUD_HELP_WEAPON_HANDHELD_SHOCKPADDLES_CONTROLS_reviveTeamMates按§C1001鼠標左鍵§C1001用電擊器 §C1001救治§C1001 重傷隊友
+HUD_HELP_WEAPON_HANDHELD_HEALBAG_GENERAL_holdHealBagToHealLocally將醫療包拿在手上可以自動治療周圍玩家
 HUD_HELP_WEAPON_HANDHELD_ASSAULTRIFLE_CONTROLS_toggleFireModesPress the '§C1001#PIWeaponSelect3#§C1001' Key again to §C1001Switch Firing Modes§C1001
 HUD_HELP_WEAPON_HANDHELD_ASSAULTRIFLE_CONTROLS_switchToGrenadesTap the '§C1001#PIWeaponSelect4#§C1001' Key to switch to the §C1001Grenade Launcher§C1001
 HUD_HELP_WEAPON_HANDHELD_ASSAULTRIFLE_CONTROLS_switchToRifleTap the '§C1001#PIWeaponSelect3#§C1001' Key to switch to the §C1001Rifle§C1001
