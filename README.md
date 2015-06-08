@@ -21,15 +21,17 @@ It is helpful to have View > Show Symbol > Show White Space and TAB enabled in N
 Testing translations
 ---------------------
 
+First, run `check-localization.exe` which will check for some common mistakes made in localization files. Fix any errors it detects, otherwise continue to testing ingame.
+
 To test your changes in the current version of PR:BF2, just edit the necessary files located in:
 
 >`<PR Install Dir>/mods/pr/localization/<language>`
 
-Please make sure you have tested your changes and have confirmed they are working correctly **prior to submitting a pull request!**
+Please make sure you have tested your changes both in the launcher and ingame, and have confirmed they are working correctly **prior to submitting a pull request!**
 
-Change your language in PRLauncher > Options > Global > Language
+If there are characters missing, or your text does not display, it is most likely an issue with the font used. See below for more information regarding custom fonts.
 
-See below if characters are missing in the font.
+*Note: Change the language used in PRLauncher > Options > Global > Language*
 
 What not to translate
 ---------------------
@@ -60,4 +62,13 @@ If translation starts on a currently un-translated language, it is recommended t
 Custom fonts
 ---------------------
 
-If you require custom font support, please make a new thread in the [PR:BF2 Community Modding forum](http://www.realitymod.com/forum/f388-pr-bf2-community-modding) and we will guide you on what is required for your fonts to be supported ingame.
+If you require custom font support, please make a new thread in the [PR:BF2 Community Modding forum](http://www.realitymod.com/forum/f388-pr-bf2-community-modding) and we will guide you on what is required for your fonts to be supported in the launcher and/or ingame.
+
+Contributors
+---------------------
+* Dutch - [[R-DEV]Mineral](https://github.com/WouterJMW)
+* English - [PR Team](https://github.com/realitymod)
+* French - [Grey-Echo](https://github.com/Grey-Echo)
+* German - [PrStrategos](https://github.com/PrStrategos), [SINE](https://github.com/SINE)
+* Japanese - [ltakeshi](https://github.com/ltakeshi)
+* Russian - [[R-DEV]Tema567](https://github.com/art567)
