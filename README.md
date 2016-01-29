@@ -72,3 +72,4 @@ Contributors
 * German - [PrStrategos](https://github.com/PrStrategos), [SINE](https://github.com/SINE)
 * Japanese - [ltakeshi](https://github.com/ltakeshi)
 * Russian - [[R-DEV]Tema567](https://github.com/art567)
+* Spanish - [Leg-Ion](https://github.com/leg-ion)
