@@ -66,10 +66,12 @@ If you require custom font support, please make a new thread in the [PR:BF2 Comm
 
 Contributors
 ---------------------
-* Dutch - [[R-DEV]Mineral](https://github.com/WouterJMW)
+* Chinese - [jerro1105](https://github.com/jerro1105)
+* Dutch - [[R-DEV]Mineral](https://github.com/WouterJansen)
 * English - [PR Team](https://github.com/realitymod)
 * French - [Grey-Echo](https://github.com/Grey-Echo)
 * German - [PrStrategos](https://github.com/PrStrategos), [SINE](https://github.com/SINE)
 * Japanese - [ltakeshi](https://github.com/ltakeshi)
+* Polish - [Darekdeo](https://github.com/darekdeo)
 * Russian - [[R-DEV]Tema567](https://github.com/art567)
 * Spanish - [Leg-Ion](https://github.com/leg-ion)
