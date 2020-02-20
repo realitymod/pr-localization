@@ -62,7 +62,7 @@ If translation starts on a currently un-translated language, it is recommended t
 Custom fonts
 ---------------------
 
-If you require custom font support, please make a new thread in the [PR:BF2 Community Modding forum](http://www.realitymod.com/forum/f388-pr-bf2-community-modding) and we will guide you on what is required for your fonts to be supported in the launcher and/or ingame.
+If you require custom font support, please make a new thread in the [PR:BF2 Community Modding forum](https://www.realitymod.com/forum/forumdisplay.php?f=388) and we will guide you on what is required for your fonts to be supported in the launcher and/or ingame. You can also try for yourself with the second part of [this tutorial](https://www.realitymod.com/forum/showthread.php?t=140120) on how to make BF2 Fonts.
 
 Contributors
 ---------------------
