@@ -75,3 +75,4 @@ Contributors
 * Polish - [Darekdeo](https://github.com/darekdeo)
 * Russian - [[R-DEV]Tema567](https://github.com/art567)
 * Spanish - [Leg-Ion](https://github.com/leg-ion)
+* Ukrainian - [Lyttym](https://github.com/Lyttym) 
