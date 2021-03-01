@@ -76,3 +76,4 @@ Contributors
 * Russian - [[R-DEV]Tema567](https://github.com/art567)
 * Spanish - [Leg-Ion](https://github.com/leg-ion)
 * Ukrainian - [Lyttym](https://github.com/Lyttym) 
+* Brazilian Portuguese - [ParacetamoL217](https://github.com/ParacetamoL217) and OBAMA, Gabo, Concani and Fukai
