@@ -1,1 +1,1 @@
-*.utxt text diff=astextplain eol=lf
+*.utxt text working-tree-encoding=UTF-16 eol=lf
