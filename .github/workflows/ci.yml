@@ -1,0 +1,32 @@
+# This workflow automatically checks the structure of the localization files
+# to ensure they're all good
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: windows-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs the validator executable, if everything is OK the OR statment
+      # does not evaluate the right expression, otherwise it does and the build has an error
+      - name: Checking localization file's structure
+        shell: cmd
+        run: |
+          @echo | call check-localization.exe | findstr /c:"All files good" || exit -1
+        
+        
