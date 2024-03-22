@@ -20,7 +20,7 @@ jobs:
 
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       # Runs the validator executable, if everything is OK the OR statment
       # does not evaluate the right expression, otherwise it does and the build has an error
