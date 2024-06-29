@@ -1583,8 +1583,8 @@ PLAYER_REQUEST_SL_requestadv                                
 PLAYER_REQUEST_SL_requestadv_alt                           Eu preciso de um VEICULO nesta coordenada
 PLAYER_REQUEST_SL_requestadv_alt_apc                       Eu preciso de um APC nesta coordenada
 PLAYER_REQUEST_SL_requestadv_alt_helo                      Eu preciso de um HELICOPTERO nesta coordenada
-PLAYER_REQUEST_SL_requestammo                              Solicitando municao
-PLAYER_REQUEST_SL_requestammo_alt                          Solicitando municao
+PLAYER_REQUEST_SL_requestammo                              Solicitando municao!
+PLAYER_REQUEST_SL_requestammo_alt                          Preciso de municao.
 PLAYER_REQUEST_SL_requestartillery                          
 PLAYER_REQUEST_SL_requestartillery_alt                      
 PLAYER_REQUEST_SL_requestmedic                             Solicitando medico
