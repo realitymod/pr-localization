@@ -792,7 +792,7 @@ HUD_COMROSE_SPOTTED_SNIPER                                 SNIPER
 HUD_COMROSE_SPOTTED_SOLDIER                                SOLDADO
 HUD_COMROSE_SPOTTED_TANK                                   TANQUE
 HUD_COMROSE_SPOTTED_VEHICLE                                VEICULO
-RADIO_SPOTTED_infantry                                     INFANTARIA Inimiga avistada
+RADIO_SPOTTED_infantry                                     INFANTARIA inimiga avistada
 RADIO_SPOTTED_rally                                        PONTO DE ENCONTRO inimigo avistado
 RADIO_SPOTTED_tank                                         TANQUE inimigo avistado
 RADIO_SPOTTED_aav                                          AAV inimigo avistado
