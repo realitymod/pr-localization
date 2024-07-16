@@ -1,0 +1,1540 @@
+ARMY_ARF                                                   ARF
+ARMY_ARG82                                                 Fuerzas Armadas Argentinas
+ARMY_CF                                                    Fuerzas Canadienses
+ARMY_CHinsurgent                                           Milicia
+ARMY_FR                                                    Fuerzas Francesas
+ARMY_fsa                                                   Rebeldes Sirios
+ARMY_GB                                                    Fuerzas Armadas Británicas
+ARMY_GB82                                                  Fuerzas Armadas Británicas
+ARMY_HAMAS                                                 Hamás
+ARMY_IDF                                                   Fuerzas de Defensa Israelíes
+ARMY_GER                                                   Fuerzas Alemanas
+ARMY_MEinsurgent                                           Insurgentes
+ARMY_PL                                                    Polish Armed Forces
+ARMY_RU                                                    Fuerzas Armadas Rusas
+ARMY_RU94                                                  Russian Armed Forces
+ARMY_SAF                                                   Syrian Armed Forces
+ARMY_Taliban                                               Talibanes
+ARMY_USA                                                   Ejército de los Estados Unidos
+ARMY_vnnva                                                 Ejército de Vietnam del Norte
+ARMY_vnusmc                                                Cuerpo de Marines de los Estados Unidos
+ARMY_vnusa                                                 Ejército de los Estados Unidos
+ARMY_NL                                                    Fuerzas Armadas de los Países Bajos
+ARMY_ww2usa                                                United States Army
+ARMY_ww2ger                                                Wehrmacht
+ARMY_ww2ger41                                              Wehrmacht
+ARMY_ww2rusearly                                           Red Army
+ARMY_ww2rus                                                Red Army
+EOR_bestarfsquad                                           MEJOR ESCUADRON ARF
+EOR_bestarg82squad                                         MEJOR ESCUADRON FUERZAS ARMADAS ARGENTINAS
+EOR_bestcfsquad                                            MEJOR ESCUADRON FUERZAS CANADIENSES
+EOR_bestChinsurgentsquad                                   MEJOR ESCUADRON MILICIA
+EOR_bestfrsquad                                            MEJOR ESCUADRON FUERZAS FRANCESAS
+EOR_bestfsasquad                                           MEJOR ESCUADRON REBELDES SIRIOS
+EOR_bestgbsquad                                            MEJOR ESCUADRON FUERZAS ARMADAS BRITANICAS
+EOR_bestgb82squad                                          MEJOR ESCUADRON FUERZAS ARMADAS BRITANICAS
+EOR_besthamassquad                                         MEJOR ESCUADRON HAMAS
+EOR_bestidfsquad                                           MEJOR ESCUADRON FUERZAS DE DEFENSA ISRAELIES
+EOR_bestMEInsurgentsquad                                   MEJOR ESCUADRON INSURGENTES
+EOR_bestPLsquad                                            BEST POLISH ARMED FORCES SQUAD
+EOR_bestRUsquad                                            MEJOR ESCUADRON FUERZAS ARMADAS RUSAS
+EOR_bestRU94squad                                          BEST RUSSIAN FORCES SQUAD
+EOR_bestSAFsquad                                           BEST SYRIAN FORCES SQUAD
+EOR_bestTALIBANsquad                                       MEJOR ESCUADRON TALIBANES
+EOR_bestusasquad                                           MEJOR ESCUADRON EJERCITO DE LOS ESTADOS UNIDOS
+EOR_bestGERsquad                                           MEJOR ESCUADRON FUERZAS ALEMANAS
+EOR_bestvnnvasquad                                         MEJOR ESCUADRON EJERCITO POPULAR NACIONAL
+EOR_bestvnusasquad                                         MEJOR ESCUADRON EJERCITO DE LOS ESTADOS UNIDOS
+EOR_bestvnusmcsquad                                        MEJOR ESCUADRON CUERPO DE MARINES DE LOS ESTADOS UNIDOS
+EOR_bestnlsquad                                            MEJOR ESCUADRON FUERZAS ARMADAS DE LOS PAISES BAJOS
+EOR_bestww2usasquad                                        BEST US ARMY SQUAD
+EOR_bestww2gersquad                                        BEST WEHRMACHT SQUAD
+EOR_bestww2ger41squad                                      BEST WEHRMACHT SQUAD
+EOR_bestww2rusearlysquad                                   BEST RED ARMY SQUAD
+EOR_bestww2russquad                                        BEST RED ARMY SQUAD
+EOR_winningteam_arf                                        ¡Los Soldados de Resistencia Africana han ganado la batalla!
+EOR_winningteam_arg82                                      ¡Las Fuerzas Armadas Argentinas han ganado la batalla!
+EOR_winningteam_cf                                         ¡Las Fuerzas Canadienses han ganado la batalla!
+EOR_winningteam_Chinsurgent                                ¡Los Milicianos han ganado la batalla!
+EOR_winningteam_ch                                         ¡Las Fuerzas Chinas han ganado la batalla!
+EOR_winningteam_FR                                         ¡Las Fuerzas Francesas han ganado la batalla!
+EOR_WINNINGTEAM_fsa                                        ¡Los Rebelder Sirios han ganado la batalla!
+EOR_winningteam_draw                                       La batalla no fue decisiva, ningún equipo se declaró ganador...
+EOR_winningteam_GB                                         ¡Las Fuerzas Armadas Británicas han ganado la batalla!
+EOR_winningteam_gb82                                       ¡Las Fuerzas Armadas Británicas han ganado la batalla!
+EOR_winningteam_HAMAS                                      ¡Hamás ha ganado la batalla!
+EOR_winningteam_idf                                        ¡Las Fuerzas de Defensa Israelíes han ganado la batalla!
+EOR_winningteam_mec                                        ¡La Coalición de Oriente Medio ha ganado la batalla!
+EOR_winningteam_GER                                        ¡Las Fuerzas Alemanas han ganado la batalla!
+EOR_winningteam_MEInsurgent                                ¡Los Insurgentes han ganado la batalla!
+EOR_winningteam_PL                                         The Polish Armed Forces have claimed victory over the battle!
+EOR_winningteam_RU                                         ¡Las Fuerzas Rusas han ganado la batalla!
+EOR_winningteam_RU94                                       The Russian Forces have claimed victory over the battle!
+EOR_winningteam_SAF                                        The Syrian Forces have claimed victory over the battle!
+EOR_winningteam_TALIBAN                                    ¡Los Talibanes han ganado la batalla!
+EOR_winningteam_USA                                        ¡El Ejército de los Estados Unidos ha ganado la batalla!
+EOR_winningteam_us                                         ¡El Cuerpo de Marines de los Estados Unidos ha ganado la batalla!
+EOR_winningteam_vnnva                                      ¡El Ejército de Vietnam del Norte ha ganado la batalla!
+EOR_winningteam_vnusa                                      ¡El Ejército de los Estados Unidos ha ganado la batalla!
+EOR_winningteam_vnusmc                                     ¡El Cuerpo de Marines de los Estados Unidos ha ganado la batalla!
+EOR_winningteam_NL                                         ¡Las Fuerzas Armadas de los Países Bajos han ganado la batalla!
+EOR_winningteam_ww2usa                                     The US Army have claimed victory over the battle!
+EOR_winningteam_ww2ger                                     The Wehrmacht have claimed victory over the battle!
+EOR_winningteam_ww2ger41                                   The Wehrmacht have claimed victory over the battle!
+EOR_winningteam_ww2rusearly                                The Red Army have claimed victory over the battle!
+EOR_winningteam_ww2rus                                     The Red Army have claimed victory over the battle!
+HUD_HUD_RANGE_TO_TARGET_TEXT                               Range: #RANGE# M
+HUD_HUD_DRAW_STRING                                        La batalla no fue decisiva, ningún equipo se declaró ganador...
+HUD_HUD_WIN_STRING                                         ¡#TEAMNAME# ha ganado la batalla!
+HUD_TEAMNAME_arf                                           Soldados de Resistencia Africana
+HUD_TEAMNAME_arg82                                         Fuerzas Armadas Argentinas
+HUD_TEAMNAME_cf                                            Fuerzas Canadienses
+HUD_TEAMNAME_ch                                            Fuerzas Chinas
+HUD_TEAMNAME_Chinsurgent                                   Milicia
+HUD_TEAMNAME_FR                                            Fuerzas Francesas
+HUD_TEAMNAME_fsa                                           Rebeldes SiriosSyrian Rebels
+HUD_TEAMNAME_GB                                            Fuerzas Armadas Británicas
+HUD_TEAMNAME_GB82                                          Fuerzas Armadas Británicas
+HUD_TEAMNAME_HAMAS                                         Hamás
+HUD_TEAMNAME_idf                                           Fuerzas de Defensa Israelíes
+HUD_TEAMNAME_mec                                           Coalición de Oriente Medio
+HUD_TEAMNAME_GER                                           Fuerzas Alemanas
+HUD_TEAMNAME_Meinsurgent                                   Insurgentes
+HUD_TEAMNAME_PL                                            Polish Armed Forces
+HUD_TEAMNAME_RU                                            Fuerzas Armadas Rusas
+HUD_TEAMNAME_RU94                                          Russian Armed Forces
+HUD_TEAMNAME_SAF                                           Syrian Armed Forces
+HUD_TEAMNAME_TALIBAN                                       Talibanes
+HUD_TEAMNAME_USA                                           Ejército de los Estados Unidos
+HUD_TEAMNAME_vnnva                                         Ejército de Vietnam del Norte
+HUD_TEAMNAME_vnusa                                         Ejército de los Estados Unidos
+HUD_TEAMNAME_vnusmc                                        Cuerpo de Marines de los Estados Unidos
+HUD_TEAMNAME_NL                                            Fuerzas Armadas de los Países Bajos
+HUD_TEAMNAME_ww2usa                                        United States Army
+HUD_TEAMNAME_ww2ger                                        Wehrmacht
+HUD_TEAMNAME_ww2ger41                                      Wehrmacht
+HUD_TEAMNAME_ww2rusearly                                   Red Army
+HUD_TEAMNAME_ww2rus                                        Red Army
+HUD_TEAMNAME_ENGLISH_arf                                   African Resistance Fighters
+HUD_TEAMNAME_ENGLISH_arg82                                 Argentine Armed Forces
+HUD_TEAMNAME_ENGLISH_cf                                    Canadian Forces
+HUD_TEAMNAME_ENGLISH_ch                                    Chinese Forces
+HUD_TEAMNAME_ENGLISH_Chinsurgent                           Militia
+HUD_TEAMNAME_ENGLISH_FR                                    French Forces
+HUD_TEAMNAME_ENGLISH_fsa                                   Syrian Rebels
+HUD_TEAMNAME_ENGLISH_GB                                    British Armed Forces
+HUD_TEAMNAME_ENGLISH_GB82                                  British Armed Forces
+HUD_TEAMNAME_ENGLISH_HAMAS                                 Hamas
+HUD_TEAMNAME_ENGLISH_idf                                   Israeli Defence Force
+HUD_TEAMNAME_ENGLISH_mec                                   Middle Eastern Coalition
+HUD_TEAMNAME_ENGLISH_GER                                   German Forces
+HUD_TEAMNAME_ENGLISH_Meinsurgent                           Insurgents
+HUD_TEAMNAME_ENGLISH_RU                                    Russian Armed Forces
+HUD_TEAMNAME_ENGLISH_RU94                                  Russian Armed Forces
+HUD_TEAMNAME_ENGLISH_SAF                                   Syrian Armed Forces
+HUD_TEAMNAME_ENGLISH_TALIBAN                               Taliban
+HUD_TEAMNAME_ENGLISH_USA                                   United States Army
+HUD_TEAMNAME_ENGLISH_vnnva                                 North Vietnamese Army
+HUD_TEAMNAME_ENGLISH_vnusa                                 United States Army
+HUD_TEAMNAME_ENGLISH_vnusmc                                USMC
+HUD_TEAMNAME_ENGLISH_NL                                    Dutch Armed Forces
+HUD_TEAMNAME_ENGLISH_PL                                    Polish Armed Forces
+HUD_TEAMNAME_ENGLISH_ww2usa                                United States Army
+HUD_TEAMNAME_ENGLISH_ww2ger                                Wehrmacht
+HUD_TEAMNAME_ENGLISH_ww2ger41                              Wehrmacht
+HUD_TEAMNAME_ENGLISH_ww2rusearly                           Red Army
+HUD_TEAMNAME_ENGLISH_ww2rus                                Red Army
+HUD_TEXT_MENU_SPAWN_ARMY_ARF                               ARF
+HUD_TEXT_MENU_SPAWN_ARMY_arg82                             ARGENTINA
+HUD_TEXT_MENU_SPAWN_ARMY_CF                                CANADA
+HUD_TEXT_MENU_SPAWN_ARMY_CH                                CHINA
+HUD_TEXT_MENU_SPAWN_ARMY_Chinsurgent                       MILICIA
+HUD_TEXT_MENU_SPAWN_ARMY_FR                                FRANCIA
+HUD_TEXT_MENU_SPAWN_ARMY_fsa                               REBELDES SIRIOS
+HUD_TEXT_MENU_SPAWN_ARMY_GB                                REINO UNIDO
+HUD_TEXT_MENU_SPAWN_ARMY_gb82                              REINO UNIDO
+HUD_TEXT_MENU_SPAWN_ARMY_HAMAS                             HAMAS
+HUD_TEXT_MENU_SPAWN_ARMY_IDF                               IDF
+HUD_TEXT_MENU_SPAWN_ARMY_GER                               ALEMANIA
+HUD_TEXT_MENU_SPAWN_ARMY_MEC                               MEC
+HUD_TEXT_MENU_SPAWN_ARMY_MEInsurgent                       INSURGENTES
+HUD_TEXT_MENU_SPAWN_ARMY_PL                                POLAND
+HUD_TEXT_MENU_SPAWN_ARMY_RU                                RUSIA
+HUD_TEXT_MENU_SPAWN_ARMY_RU94                              RUSSIA
+HUD_TEXT_MENU_SPAWN_ARMY_SAF                               SYRIA
+HUD_TEXT_MENU_SPAWN_ARMY_TALIBAN                           TALIBANES
+HUD_TEXT_MENU_SPAWN_ARMY_US                                USMC
+HUD_TEXT_MENU_SPAWN_ARMY_USA                               EEUU
+HUD_TEXT_MENU_SPAWN_ARMY_vnnva                             NVA
+HUD_TEXT_MENU_SPAWN_ARMY_vnusa                             EEUU
+HUD_TEXT_MENU_SPAWN_ARMY_vnusmc                            USMC
+HUD_TEXT_MENU_SPAWN_ARMY_NL                                PAISES BAJOS
+HUD_TEXT_MENU_SPAWN_ARMY_ww2usa                            US ARMY
+HUD_TEXT_MENU_SPAWN_ARMY_ww2ger                            WEHRMACHT
+HUD_TEXT_MENU_SPAWN_ARMY_ww2ger41                          WEHRMACHT
+HUD_TEXT_MENU_SPAWN_ARMY_ww2rusearly                       RED ARMY
+HUD_TEXT_MENU_SPAWN_ARMY_ww2rus                            RED ARMY
+AUTO_MOODGP_C_ammohere                                      
+AUTO_MOODGP_C_friendlyfire                                 ¡Alto el fuego!
+AUTO_MOODGP_C_goodtogo                                      
+AUTO_MOODGP_C_gotlock                                      Lo tengo a la vista
+AUTO_MOODGP_C_healhere                                     ¡Necesito un médico, aquí!
+AUTO_MOODGP_C_incominggrenade                              ¡Cuidado! ¡Granada!
+AUTO_MOODGP_C_mandownscream                                 
+AUTO_MOODGP_C_missilefired                                  
+AUTO_MOODGP_C_outofammo                                     
+AUTO_MOODGP_C_outofmedic                                    
+AUTO_MOODGP_C_recharging                                    
+AUTO_MOODGP_C_reloading                                     
+AUTO_MOODGP_C_targetlost                                   Objetivo perdido
+AUTO_MOODGP_C_throwingfraggrenade                          ¡Granada!
+AUTO_MOODGP_C_throwingsmokegrenade                         ¡Humo!
+AUTO_MOODGP_C_usingshockpaddles                             
+AUTO_MOODGP_leavingcombatarea                              ¡ATENCION! ¡Vuelve a la Zona de Combate inmediatamente!
+AUTO_MOODGP_leavingcombatarea_alt                          ¡ATENCION! ¡Vuelve a la Zona de Combate inmediatamente!
+AUTO_MOODGP_SL_ammohere                                     
+AUTO_MOODGP_SL_ammohere_alt                                 
+AUTO_MOODGP_SL_friendlyfire                                ¡¡¡Fuego amigo, fuego amigo!!!
+AUTO_MOODGP_SL_friendlyfire_alt                            ¡¡¡Fuego amigo, fuego amigo!!!
+AUTO_MOODGP_SL_goodtogo                                     
+AUTO_MOODGP_SL_goodtogo_alt                                 
+AUTO_MOODGP_SL_gotlock                                     Lo veo
+AUTO_MOODGP_SL_gotlock_alt                                 Lo tengo a la vista
+AUTO_MOODGP_SL_healhere                                    ¡Necesito un médico, aquí!
+AUTO_MOODGP_SL_healhere_alt                                ¿Necesitas primeros auxilios?
+AUTO_MOODGP_SL_incominggrenade                              
+AUTO_MOODGP_SL_incominggrenade_alt                          
+AUTO_MOODGP_SL_mandownscream                                
+AUTO_MOODGP_SL_mandownscream_alt                            
+AUTO_MOODGP_SL_missilefired                                 
+AUTO_MOODGP_SL_missilefired_alt                             
+AUTO_MOODGP_SL_outofammo                                    
+AUTO_MOODGP_SL_outofammo_alt                                
+AUTO_MOODGP_SL_outofmedic                                   
+AUTO_MOODGP_SL_outofmedic_alt                               
+AUTO_MOODGP_SL_recharging                                   
+AUTO_MOODGP_SL_recharging_alt                               
+AUTO_MOODGP_SL_reloading                                    
+AUTO_MOODGP_SL_reloading_alt                                
+AUTO_MOODGP_SL_sendingtargetcoordinates                    Marcando objetivo con láser
+AUTO_MOODGP_SL_sendingtargetcoordinates_alt                Marcando con láser
+AUTO_MOODGP_SL_targetlost                                  Objetivo perdido
+AUTO_MOODGP_SL_throwingfraggrenade                          
+AUTO_MOODGP_SL_throwingfraggrenade_alt                      
+AUTO_MOODGP_SL_throwingsmokegrenade                         
+AUTO_MOODGP_SL_throwingsmokegrenade_alt                     
+AUTO_MOODGP_SL_usingshockpaddles                            
+AUTO_MOODGP_TM_ammohere                                     
+AUTO_MOODGP_TM_ammohere_alt                                 
+AUTO_MOODGP_TM_friendlyfire                                ¡¡¡Fuego amigo, fuego amigo!!!
+AUTO_MOODGP_TM_friendlyfire_alt                            ¡¡¡Fuego amigo, fuego amigo!!!
+AUTO_MOODGP_TM_goodtogo                                     
+AUTO_MOODGP_TM_goodtogo_alt                                 
+AUTO_MOODGP_TM_gotlock                                     Lo tengo a la vista
+AUTO_MOODGP_TM_gotlock_alt                                 Lo tengo a la vista
+AUTO_MOODGP_TM_healhere                                    ¡Necesito un médico, aquí!
+AUTO_MOODGP_TM_healhere_alt                                ¡Necesito un médico, aquí!
+AUTO_MOODGP_TM_incominggrenade                              
+AUTO_MOODGP_TM_incominggrenade_alt                          
+AUTO_MOODGP_TM_mandownscream                                
+AUTO_MOODGP_TM_mandownscream_alt                            
+AUTO_MOODGP_TM_missilefired                                 
+AUTO_MOODGP_TM_missilefired_alt                             
+AUTO_MOODGP_TM_outofammo                                    
+AUTO_MOODGP_TM_outofammo_alt                                
+AUTO_MOODGP_TM_outofmedic                                   
+AUTO_MOODGP_TM_outofmedic_alt                               
+AUTO_MOODGP_TM_recharging                                   
+AUTO_MOODGP_TM_recharging_alt                               
+AUTO_MOODGP_TM_reloading                                    
+AUTO_MOODGP_TM_reloading_alt                                
+AUTO_MOODGP_TM_sendingtargetcoordinates                    Marcando objetivo
+AUTO_MOODGP_TM_sendingtargetcoordinates_alt                Marcando objetivo con láser
+AUTO_MOODGP_TM_targetlost                                  Objetivo perdido
+AUTO_MOODGP_TM_throwingfraggrenade                          
+AUTO_MOODGP_TM_throwingfraggrenade_alt                      
+AUTO_MOODGP_TM_throwingsmokegrenade                         
+AUTO_MOODGP_TM_throwingsmokegrenade_alt                     
+AUTO_MOODGP_TM_usingshockpaddles                            
+AUTO_RULES_cptaken                                         El enemigo ha tomado el control de #CPNAME#
+AUTO_RULES_losingcontrol                                    
+AUTO_RULES_losingcontrol_alt                                
+AUTO_RULES_radiospam                                       ¡Deja de parlotear y sal de esta frecuencia!
+AUTO_RULES_runninglowonreinforcements                       
+AUTO_RULES_runninglowonreinforcements_alt                   
+AUTO_RULES_runningreallylowonreinforcements                 
+AUTO_RULES_runningreallylowonreinforcements_alt             
+AUTO_RULES_ticketbleedend                                   
+AUTO_RULES_ticketbleedend_alt                               
+AUTO_RULES_ticketbleedstart                                 
+AUTO_RULES_ticketbleedstart_alt                             
+AUTO_RULES_wecapturedacp                                    
+AUTO_RULES_wecapturedacp_alt                                
+AUTO_RULES_welostacp                                       Hemos perdido el control de #CPNAME#
+AUTO_RULES_welostacp_alt                                   ¡Están tomando #CPNAME#!
+AUTO_RULES_youbeenrecommendedforaward                       
+AUTO_RULES_youbeenrecommendedforpromotion                   
+AUTO_RULES_youbeenrecommendedforpromotion_alt               
+COMMSL_ADV_advrequestaccepted                              ¡Afirmativo, hay un vehiculo en camino!
+COMMSL_ADV_advrequestaccepted_alt                           
+COMMSL_ADV_notavailable                                     
+COMMSL_ADV_notavailable_alt                                 
+COMMSL_ADV_vehrequestautodenied                             
+COMMSL_ADV_vehrequestautodenied_alt                         
+COMMSL_ARTILLERY_artillerycondred                           
+COMMSL_ARTILLERY_artillerycondred_alt                       
+COMMSL_ARTILLERY_artillerydestroyed                         
+COMMSL_ARTILLERY_artillerydestroyed_alt                     
+COMMSL_ARTILLERY_artillerylaunch                            
+COMMSL_ARTILLERY_artillerylaunch_alt                        
+COMMSL_ARTILLERY_artilleryrepaired                          
+COMMSL_ARTILLERY_artilleryrepaired_alt                      
+COMMSL_ARTILLERY_artrequestaccepted                         
+COMMSL_ARTILLERY_artrequestaccepted_alt                     
+COMMSL_ARTILLERY_artrequestautodenied                       
+COMMSL_ARTILLERY_artrequestautodenied_alt                   
+COMMSL_ARTILLERY_artrequestdenied                           
+COMMSL_ARTILLERY_requestartilleryrepairs                    
+COMMSL_ARTILLERY_requestartilleryrepairs_alt                
+COMMSL_COMMANDER_commanderposavailable                      
+COMMSL_COMMANDER_commanderposavailable_alt                  
+COMMSL_COMMANDER_establishcameralink                        
+COMMSL_COMMANDER_establishcameralink_alt                    
+COMMSL_COMMANDER_newcommander                               
+COMMSL_COMMANDER_newcommander_alt                           
+COMMSL_COMMANDER_nocommanderavailable                       
+COMMSL_COMMANDER_welcomecommander                           
+COMMSL_COMMANDER_welcomecommander_alt                       
+COMMSL_COMORDERS_attackthispos                              
+COMMSL_COMORDERS_attackthispos_alt                          
+COMMSL_COMORDERS_defendthispos                              
+COMMSL_COMORDERS_defendthispos_alt                          
+COMMSL_COMORDERS_demolitionsneededhere                      
+COMMSL_COMORDERS_demolitionsneededhere_alt                  
+COMMSL_COMORDERS_movetothispos                              
+COMMSL_COMORDERS_movetothispos_alt                          
+COMMSL_COMORDERS_placemineshere                             
+COMMSL_COMORDERS_repairsneededhere                         Necesito reparaciones en esta posición
+COMMSL_COMRADIO_artilleryavailable                         ¡Lider de escuadrón, el ataque aéreo está disponible!
+COMMSL_COMRADIO_artilleryheadsup                           ¡Atención, estamos atacando tu zona!
+COMMSL_COMRADIO_commend                                    ¡Buen trabajo, escuadrón!
+COMMSL_COMRADIO_commend_alt                                ¡Vamos, escuadrón, vamos!
+COMMSL_COMRADIO_commend_alt2                               Sois el mejor escuadrón que he visto
+COMMSL_COMRADIO_divide                                     ¡Escuadrón! Dividíos y formad dos escuadrones
+COMMSL_COMRADIO_followorders                               ¡Tienes una orden, soldier!
+COMMSL_COMRADIO_followorders_alt                           ¡Procede según lo ordenado, soldado!
+COMMSL_COMRADIO_rebuke                                     ¡Sois el peor escuadrón que he visto en toda mi vida!
+COMMSL_COMRADIO_rebuke_alt                                 Mi abuela podría hacerlo mejor
+COMMSL_COMRADIO_rebuke_alt2                                ¡La próxima vez, sigue mis órdenes!
+COMMSL_COMRADIO_sorry                                      Lo siento
+COMMSL_COMRADIO_supplydropavailable                         
+COMMSL_COMRADIO_supplyHeadsUp                               
+COMMSL_COMRADIO_uavavailable                                
+COMMSL_COMRADIO_vehicleHeadsUp                              
+COMMSL_SCAN_requesttrailerrepairs                           
+COMMSL_SCAN_requesttrailerrepairs_alt                       
+COMMSL_SCAN_satelliescaninitiated                           
+COMMSL_SCAN_satelliescaninitiated_alt                       
+COMMSL_SCAN_satellitetransmitting                           
+COMMSL_SCAN_satellitetransmitting_alt                       
+COMMSL_SCAN_satnotreadyforscan                              
+COMMSL_SCAN_satnotreadyforscan_alt                          
+COMMSL_SCAN_satscanlinkbreaking                             
+COMMSL_SCAN_satscanlinkbreaking_alt                         
+COMMSL_SCAN_trailercondred                                  
+COMMSL_SCAN_trailercondred_alt                              
+COMMSL_SCAN_trailerdestroyed                                
+COMMSL_SCAN_trailerdestroyed_alt                            
+COMMSL_SCAN_trailerrepaired                                 
+COMMSL_SCAN_trailerrepaired_alt                             
+COMMSL_SCAN_warningenemysatscan                             
+COMMSL_SCAN_warningenemysatscan_alt                         
+COMMSL_SLORDERS_attackthispos                               
+COMMSL_SLORDERS_attackthispos_alt                           
+COMMSL_SLORDERS_defendthispos                               
+COMMSL_SLORDERS_defendthispos_alt                           
+COMMSL_SLORDERS_demolitionsneededhere                       
+COMMSL_SLORDERS_minethispos                                 
+COMMSL_SLORDERS_minethispos_alt                             
+COMMSL_SLORDERS_movetothispos                               
+COMMSL_SLORDERS_movetothispos_alt                           
+COMMSL_SLORDERS_repairthispos                               
+COMMSL_SQUAD_assignedsl                                     
+COMMSL_SQUAD_assignedsl_alt                                 
+COMMSL_SQUAD_newslassigned                                  
+COMMSL_SQUAD_newslassigned_alt                              
+COMMSL_SQUAD_noslresponse                                  El líder de escuadrón no ha respondido
+COMMSL_SQUAD_squadneedsaleader                              
+COMMSL_SQUAD_squadneedsaleader_alt                          
+COMMSL_SUPPLIES_dropinitiated                               
+COMMSL_SUPPLIES_dropinitiated_alt                           
+COMMSL_SUPPLIES_notavailable                                
+COMMSL_SUPPLIES_notavailable_alt                            
+COMMSL_SUPPLIES_suprequestaccepted                          
+COMMSL_SUPPLIES_suprequestaccepted_alt                      
+COMMSL_SUPPLIES_suprequestautodenied                        
+COMMSL_SUPPLIES_suprequestautodenied_alt                    
+COMMSL_SUPPLIES_suprequestdenied                            
+COMMSL_SUPPLIES_suprequestdenied_alt                        
+COMMSL_UAV_C_uavonline                                      
+COMMSL_UAV_C_uavonline_alt                                  
+COMMSL_UAV_requestrepairs                                   
+COMMSL_UAV_trailerdamaged                                   
+COMMSL_UAV_trailerdamaged_alt                               
+COMMSL_UAV_trailerdestroyed                                 
+COMMSL_UAV_trailerrepaired                                  
+COMMSL_UAV_uavnotavailable                                  
+COMMSL_UAV_uavoffline                                       
+COMMSL_UAV_uavoffline_alt                                   
+COMMSL_UAV_uavonline                                        
+COMMSL_UAV_uavonline_alt                                    
+COMMSL_UAV_uavrequestaccepted                               
+COMMSL_UAV_uavrequestaccepted_alt                           
+COMMSL_UAV_uavrequestautodenied                             
+COMMSL_UAV_uavrequestautodenied_alt                         
+COMMSL_UAV_uavrequestdenied                                 
+COMMSL_UAV_uavrequestdenied_alt                             
+COMSL_BRIDGES_bridgedestroyed                               
+COMSL_BRIDGES_bridgedestroyed_alt                           
+COMSL_BRIDGES_bridgerepaired                                
+COMSL_BRIDGES_bridgerepaired_alt                            
+HUD_COMRADIO_BUTTON_moveartillery                          ¡Moveos! ¡Artillería abriendo fuego!
+HUD_COMROSE_CMDR_ASSET_ANTI_AIR                            ANTI AEREO
+HUD_COMROSE_CMDR_ASSET_BUNKER                              BUNKER
+HUD_COMROSE_CMDR_ASSET_COMMAND_POST                        PUESTO DE MANDO
+HUD_COMROSE_CMDR_ASSET_FIREBASE                            BASE DE OPERACIONES
+HUD_COMROSE_CMDR_ASSET_RAZORWIRE                           ALAMBRE DE ESPINO
+HUD_COMROSE_CMDR_ASSET_SANDBAGS                            SACOS DE ARENA
+HUD_COMROSE_CMDR_ASSET_SUPPORT_TRUCK                       CAMION DE TRANSPORTE
+HUD_COMROSE_CMDR_PLACE_BUILDING                            COLOCAR EDIFICIO
+HUD_COMROSE_CMDR_REQUEST_OFFICER_KIT                       PEDIR / SOLTAR
+KIT DE OFICIAL
+HUD_COMROSE_GRUNT_ammo                                     MUNICION
+
+CONTACTO
+HUD_COMROSE_GRUNT_ceasefire                                FUEGO AMIGO
+HUD_COMROSE_GRUNT_clear                                    ¡LIMPIO!
+
+CONTACTO
+HUD_COMROSE_GRUNT_followme                                 SIGUEME
+HUD_COMROSE_GRUNT_drag                                     ARRASTRAR
+HUD_COMROSE_GRUNT_followme_ontheway                        SIGUEME / EN CAMINO
+HUD_COMROSE_GRUNT_firstaid                                 PRIMEORS AUXILIOS
+
+CONTACTO
+HUD_COMROSE_GRUNT_getin_bailout                            ENTRA / SAL DEL VEHÍCULO
+HUD_COMROSE_GRUNT_go_retreat                               VAMOS, VAMOS, VAMOS / RETIRADA
+HUD_COMROSE_GRUNT_goodtogo                                 LISTO PARA CONTINUAR / RETIRADA
+HUD_COMROSE_GRUNT_grenade                                  GRANADA
+
+CONTACTO
+HUD_COMROSE_GRUNT_bayonet                                  CHARGE
+
+CONTACT
+ARMY_CHinsurgent90                                         Militia
+ARMY_Chechen90                                             Chechnya
+ARMY_RU90                                                  Russian Armed Forces
+EOR_bestChinsurgent90squad                                 BEST MILITIA SQUAD
+EOR_bestChechen90squad                                     BEST CHECHEN SQUAD
+EOR_bestRU90squad                                          BEST RUSSIAN FORCES SQUAD
+EOR_winningteam_Chinsurgent90                              The Militia have claimed victory over the battle!
+EOR_winningteam_Chechen90                                  The Chechen Forces have claimed victory over the battle!
+EOR_winningteam_RU90                                       The Russian Forces have claimed victory over the battle!
+HUD_TEAMNAME_Chinsurgent90                                 Militia
+HUD_TEAMNAME_Chechen90                                     Chechnya
+HUD_TEAMNAME_RU90                                          Russian Armed Forces
+HUD_TEAMNAME_ENGLISH_Chinsurgent90                         Militia
+HUD_TEAMNAME_ENGLISH_Chechen90                             Chechnya
+HUD_TEAMNAME_ENGLISH_RU90                                  Russian Armed Forces
+HUD_TEXT_MENU_SPAWN_ARMY_Chinsurgent90                     MILITIA
+HUD_TEXT_MENU_SPAWN_ARMY_Chechen90                         CHECHNYA
+HUD_TEXT_MENU_SPAWN_ARMY_RU90                              RUSSIA
+HUD_COMROSE_GRUNT_hehehe                                   JE JE JE
+HUD_COMROSE_GRUNT_help                                     AYUDA
+HUD_COMROSE_GRUNT_help_destroy                             AYUDA
+
+DESTRUIR
+HUD_COMROSE_GRUNT_mine                                     MINAS
+
+CONTACTO
+HUD_COMROSE_GRUNT_needammo                                 NECESITO MUNICION
+HUD_COMROSE_GRUNT_needmedic                                NECESITO UN MEDICO
+HUD_COMROSE_GRUNT_needneworders                            NECESITO ORDENES
+HUD_COMROSE_GRUNT_needpickup                               NECESITO QUE ME RECOJAN
+HUD_COMROSE_GRUNT_needreinforcements                       NECESITO APOYO
+HUD_COMROSE_GRUNT_needrepairs                              NECESITO REPARACIONES
+HUD_COMROSE_GRUNT_negative                                 NEGATIVO
+HUD_COMROSE_GRUNT_reloading                                RECARGANDO
+HUD_COMROSE_GRUNT_reloading_out                            RECARGANDO / FUEGO AMIGO
+HUD_COMROSE_GRUNT_retreat                                  RETIRADA
+HUD_COMROSE_GRUNT_rogerthat                                DE ACUERDO
+HUD_COMROSE_GRUNT_smoke                                    HUMO
+
+CONTACTO
+HUD_COMROSE_GRUNT_sorry                                    LO SIENTO
+HUD_COMROSE_GRUNT_spotted                                  CONTACTO
+HUD_COMROSE_GRUNT_spotted_BUIS                             CONTACTO / BUIS
+HUD_COMROSE_GRUNT_thankyou                                 GRACIAS
+HUD_COMROSE_KIT_ANTI_AIR                                   ANTI-AEREO
+HUD_COMROSE_KIT_CREWMAN                                    TRIPULANTE
+HUD_COMROSE_KIT_ENGINEER                                   INGENIERO
+HUD_COMROSE_KIT_GRENADIER                                  GRANADERO
+HUD_COMROSE_KIT_HEAVY_AT                                   ANTI-TANQUE
+HUD_COMROSE_KIT_LIGHT_AT                                   FUSILERO AT
+HUD_COMROSE_KIT_RIFLEMAN_AP                                FUSILERO AP
+HUD_COMROSE_KIT_RIFLEMAN_SPECIALIST                        BREACHER
+HUD_COMROSE_KIT_RIFLEMAN                                   FUSILERO
+HUD_COMROSE_KIT_MARKSMAN                                   TIRADOR
+HUD_COMROSE_KIT_MEDIC                                      MEDICO
+HUD_COMROSE_KIT_MG                                         AMETRALLADOR
+HUD_COMROSE_KIT_OFFICER                                    OFICIAL
+HUD_COMROSE_KIT_PILOT                                      PILOTO
+HUD_COMROSE_KIT_REQUEST                                    PEDIR / SOLTAR
+KIT
+HUD_COMROSE_KIT_SNIPER                                     FRANCOTIRADOR
+HUD_COMROSE_KIT_SPOTTER                                    OBSERVADOR
+HUD_COMROSE_KIT_SUPPORT                                    FUSILERO AUTOMATICO
+HUD_COMROSE_MISSILE_AWAY                                   FUEGO DE MISIL
+HUD_COMROSE_REQUEST_EXTRACTION                             NECESITO EXTRACCION
+HUD_COMROSE_SET_RALLY_POINT                                COLOCAR RALLY POINT
+HUD_COMROSE_THERMAL_WHOT                                   DAY / THERMAL
+BHOT
+HUD_COMROSE_THERMAL_BHOT                                   DAY / THERMAL
+WHOT
+HUD_COMROSE_THERMAL_ALWAYS_WHOT                            THERMAL
+BHOT
+HUD_COMROSE_THERMAL_ALWAYS_BHOT                            THERMAL
+WHOT
+HUD_COMROSE_REPORT_SET_DISTANCE                            ESTABLECER DISTANCIA
+DE CONTACTO
+HUD_COMROSE_REPORT_25_50                                   25m / 50m
+HUD_COMROSE_REPORT_100_150                                 100m / 150m
+HUD_COMROSE_REPORT_200_250                                 200m / 250m
+HUD_COMROSE_REPORT_300_350                                 300m / 350m
+HUD_COMROSE_REPORT_400_450                                 400m / 450m
+HUD_COMROSE_REPORT_500_550                                 500m / 550m
+HUD_COMROSE_REPORT_600_650                                 600m / 650m
+HUD_COMROSE_REPORT_700_750                                 700m / 750m
+HUD_COMROSE_REPORT_800_850                                 800m / 850m
+HUD_COMROSE_REPORT_900_950                                 900m / 950m
+HUD_COMROSE_REPORT_1000_1100                               1000m / 1100m
+HUD_COMROSE_REPORT_1200_1300                               1200m / 1300m
+HUD_COMROSE_REPORT_TANK_AAV                                TANQUE / AAV
+HUD_COMROSE_REPORT_APC_IFV                                 APC / IFV
+HUD_COMROSE_REPORT_JEEP_TRUCK                              JEEP / CAMION
+HUD_COMROSE_REPORT_STATIONARY_AT_AA                        AT / AA FIJA
+HUD_COMROSE_REPORT_INFANTRY_RP                             INFANTERIA / RALLY POINT
+HUD_COMROSE_REPORT_INFANTRY_ATM                            INFANTERIA / VEHICULO AT
+HUD_COMROSE_REPORT_OUTPOST_OBJECTIVE                       BASE DE OPERACIONES / OBJETIVO
+HUD_COMROSE_REPORT_SNIPER_SPOTTER                          FRANCOTIRADOR / OBSERVADOR
+HUD_COMROSE_REPORT_AT_AA                                   ANTI-TANQUE / ANTI-AEREO
+HUD_COMROSE_REPORT_MINEFIELD_BRIDGE                        MINAS / DESTRUIR PUENTE
+HUD_COMROSE_REPORT_MINEFIELD_RP                            MINAS / RALLY POINT
+HUD_COMROSE_REPORT_MORTAR_HMG                              MORTERO / HMG
+HUD_COMROSE_SL_deploy                                      DESPLEGAR
+
+QUITAR ASSET
+HUD_COMROSE_SL_attacking_observing                         ESTADO ATACANDO / OBSERVANDO
+HUD_COMROSE_SL_building                                    ESTADO CONTRUYENDO
+HUD_COMROSE_SL_destroying                                  ESTADO DESTRUYENDO
+HUD_COMROSE_SL_flanking                                    ESTADO FLANQUEANDO
+HUD_COMROSE_SL_defending                                   ESTADO DEFENDIENDO
+HUD_COMROSE_SL_aaartillery                                 COLOCANDO ANTI-AEREO
+HUD_COMROSE_SL_attack                                      ATACAR
+HUD_COMROSE_SL_commandpost                                 COLOCAR PUESTO DE MANDO
+HUD_COMROSE_SL_defend                                      DEFENDER
+HUD_COMROSE_SL_givebuildorder                              DAR ORDEN DE CONSTRUCCION
+HUD_COMROSE_SL_hmgantiair                                  COLOCAR HMG / ANTI-AEREO
+HUD_COMROSE_SL_hmg                                         HMG
+HUD_COMROSE_SL_antiair                                     ANTI-AEREO
+HUD_COMROSE_SL_wire                                        ALAMBRE DE ESPINO
+HUD_COMROSE_SL_INS_wire                                    BARRICADA 10m/5m
+HUD_COMROSE_SL_foxhole                                     TRINCHERA / SACOS
+HUD_COMROSE_SL_forwardoutpost                              BASE DE OPERACIONES
+HUD_COMROSE_SL_mortar                                      MORTERO
+HUD_COMROSE_SL_tow                                         ANTI-TANQUE
+HUD_COMROSE_SL_lasertarget                                 MARCAR OBJETIVO CON LASER
+HUD_COMROSE_SL_mark                                        MARCAR OBJETIVO
+HUD_COMROSE_SL_minethis                                    OBSERVAR
+HUD_COMROSE_SL_mortarstrike                                NECESITO ATAQUE
+DE MORTEROS
+HUD_COMROSE_SL_move                                        MOVER
+HUD_COMROSE_SL_move_build                                  MOVER / CONSTRUIR
+HUD_COMROSE_SL_build                                       CONSTRUIR
+HUD_COMROSE_SL_destroy                                     DEMOLER
+HUD_COMROSE_SL_needartillery                               NECESITO ATAQUE EN LA ZONA
+HUD_COMROSE_SL_needbuildorder                              NECESITO ORDENES DE CONSTRUCCION
+HUD_COMROSE_SL_needtankcas                                 NECESITO TANQUE / CAS
+HUD_COMROSE_SL_needjeepbombcar                             NECESITO TECNICO / COCHE BOMBA
+HUD_COMROSE_SL_needextract                                 NECESITO APC / HELICOPTERO
+HUD_COMROSE_SL_needtransport                               NECESITO TRANSPORTE
+HUD_COMROSE_SL_needorders                                  NECESITO ORDENES
+HUD_COMROSE_SL_needsupplies                                SUMINISTROS / MUNICION
+HUD_COMROSE_SL_needmedicrepairs                            MEDICO / REPARACIONES
+HUD_COMROSE_SL_needsupport                                 REFUERZOS / ATAQUE EN LA ZONA
+HUD_COMROSE_SL_needreinf                                   NECESITO APOYO
+HUD_COMROSE_SL_needuav                                     NECESITO UAV
+HUD_COMROSE_SL_needvehicle                                 NECESITO SUMINISTROS
+HUD_COMROSE_SL_outpost                                     COLOCAR BASE DE OPERACIONES
+HUD_COMROSE_SL_hideout                                     COLORCAR ESCONDITE
+HUD_COMROSE_SL_razorsandbags                               COLOCAR ALAMBRE / TRINCHERA
+HUD_COMROSE_SL_razorwire                                   COLOCAR ALAMBRE DE ESPINOS
+HUD_COMROSE_SL_repairthis                                  REPARAR AQUI
+HUD_COMROSE_SL_sandbags                                    COLOCAR SACOS DE ARENA
+HUD_COMROSE_SL_setlandingzone                              BALIZA
+HUD_COMROSE_SL_spotted                                     INFORME DE CONTACTO
+HUD_COMROSE_SL_spotted_BUIS                                INFORME DE CONTACTO /
+BUIS
+HUD_COMROSE_SL_target_observe                              ELEGIR BLANCO / OBSERVAR
+HUD_COMROSE_SPOTTED_AA                                     ANTI-AEREO
+HUD_COMROSE_SPOTTED_APC                                    APC
+HUD_COMROSE_SPOTTED_BOAT                                   BOTE
+HUD_COMROSE_SPOTTED_BUNKER                                 BUNKER
+HUD_COMROSE_SPOTTED_FIREBASE                               BASE DE OPERACIONES
+HUD_COMROSE_SPOTTED_HELICOPTER                             HELICOPTERO
+HUD_COMROSE_SPOTTED_PLANE                                  AVION
+HUD_COMROSE_SPOTTED_RALLY                                  RALLY POINT
+HUD_COMROSE_SPOTTED_SNIPER                                 FRANCOTIRADOR
+HUD_COMROSE_SPOTTED_SOLDIER                                SOLDADO
+HUD_COMROSE_SPOTTED_TANK                                   TANQUE
+HUD_COMROSE_SPOTTED_VEHICLE                                VEHICULO
+RADIO_SPOTTED_infantry                                     INFANTERIA enemiga detectada
+RADIO_SPOTTED_rally                                        RALLY POINT enemigo detectado
+RADIO_SPOTTED_tank                                         TANQUE enemigo detectadod
+RADIO_SPOTTED_aav                                          AAV enemigo detectado
+RADIO_SPOTTED_atm                                          VEHICULO ANTI TANQUE enemigo detectado
+RADIO_SPOTTED_apc                                          APC enemigo detectado
+RADIO_SPOTTED_ifv                                          IFV enemigo detectado
+RADIO_SPOTTED_jeep                                         JEEP enemigo detectado
+RADIO_SPOTTED_truck                                        CAMION enemigo detectado
+RADIO_SPOTTED_stationaryat                                 AT FIJO enemigo detectado
+RADIO_SPOTTED_stationaryatallied                           Friendly STATIONARY AT spotted
+RADIO_SPOTTED_stationaryaa                                 AA FIJO enemigo detectado
+RADIO_SPOTTED_stationarymg                                 MG FIJA enemiga detectada
+RADIO_SPOTTED_outpost                                      BASE DE OPERACIONES enemiga detectada
+RADIO_SPOTTED_objective                                    OBJETIVO enemigo detectado
+RADIO_SPOTTED_request_demolition                           DEMOLICION necesaria en esta coordenada
+RADIO_SPOTTED_request_recon                                Se necesita RECON en esta coordenada
+RADIO_SPOTTED_request_sniper                               Se necesita SNIPER en esta coordenada
+RADIO_SPOTTED_saboteur                                     SABOTEUR enemigo detectado
+RADIO_SPOTTED_sniper                                       FRANCOTIRADOR enemigo detectado
+RADIO_SPOTTED_spotter                                      OBSERVADOR enemigo detectado
+RADIO_SPOTTED_squad1                                       SQUAD 1 objetivo detectado
+RADIO_SPOTTED_squad2                                       SQUAD 2 objetivo detectado
+RADIO_SPOTTED_squad3                                       SQUAD 3 objetivo detectado
+RADIO_SPOTTED_squad4                                       SQUAD 4 objetivo detectado
+RADIO_SPOTTED_squad5                                       SQUAD 5 objetivo detectado
+RADIO_SPOTTED_squad6                                       SQUAD 6 objetivo detectado
+RADIO_SPOTTED_squad7                                       SQUAD 7 objetivo detectado
+RADIO_SPOTTED_squad8                                       SQUAD 8 objetivo detectado
+RADIO_SPOTTED_squad9                                       SQUAD 9 objetivo detectado
+RADIO_SPOTTED_supply                                       SUPPLY enemigo detectado
+RADIO_SPOTTED_supplyallied                                 SUPPLY amable detectado
+RADIO_SPOTTED_at                                           AT PORTATIL enemigo detectado
+RADIO_SPOTTED_aa                                           AA PORTATIL enemigo detectado
+RADIO_SPOTTED_mine                                         CAMPO DE MINAS enemigo detectado
+RADIO_SPOTTED_bridge                                       PUENTE enemigo detectado
+RADIO_SPOTTED_destroyedbridge                              PUENTE destruido detectado
+RADIO_SPOTTED_razorwire                                    BARRICADA enemiga detectada
+RADIO_SPOTTED_mortar                                       MORTERO enemigo detectado
+RADIO_SPOTTED_mortarallied                                 MORTERO amable detectado
+RADIO_STATUS_move                                          Estado: EN MOVIMIENTO
+RADIO_STATUS_attack                                        Estado: ATACANDO
+RADIO_STATUS_defend                                        Estado: DEFENDIENDO
+RADIO_STATUS_observe                                       Estado: OBSERVANDO
+RADIO_STATUS_destroy                                       Estado: DESTRUYENDO
+RADIO_STATUS_build                                         Estado: CONSTRUYENDO
+HUD_COMROSE_NEED_MORTAR                                    NECESITO ATAQUE DE MORTEROS
+HUD_COMROSE_NEED_MORTAR_HE_AB                              MORTERO HE/ EXPLOSION AEREA
+HUD_COMROSE_NEED_MORTAR_SMOKE                              HUMO DE MORTERO
+RADIO_MORTAR_ATTACK                                        Solicito ataque de MORTEROS
+RADIO_MORTAR_ATTACK_HE                                     Objetivo de MORTERO para lanzar munición HE
+RADIO_MORTAR_ATTACK_AIRBURST                               Objetivo de MORTERO para lanzar munición de EXPLOSION AEREA
+RADIO_MORTAR_ATTACK_SMOKE                                  Objetivo de MORTERO para lanzar HUMO
+HUD_COMROSE_LASER_CANNON_HYDRA                             Apoyo Aéreo Cercano CAÑONES / MISILES
+HUD_COMROSE_LASER_MISSILE_BOMB                             Apoyo Aéreo Cercano LGM / LGB
+RADIO_LASER_cannon                                         Objetivo marcado con láser para ataque de CAÑONES
+RADIO_LASER_hydra                                          Objetivo marcado con láser para ataque de MISILES
+RADIO_LASER_missile                                        Objetivo marcado con láser para ataque de MISILES GUIADOS POR LASER
+RADIO_LASER_bomb                                           Objetivo marcado con láser para ataque de BOMBAS GUIADAS POR LASER
+HUD_HUD_ASSIST_KILL_DRIVER_PASSENGER                        
+HUD_HUD_ASSIST_KILL_KILL_DAMAGE                             
+HUD_HUD_ASSIST_KILL_TARGETING                               
+HUD_HUD_AWARDED                                            #AWARD#
+HUD_HUD_COMMANDER_APPLIED                                  Vas a comandar el equipo #TEAMNAME#
+HUD_HUD_CONQUEST_CAPTURE_ASSIST                             
+HUD_HUD_CONQUEST_DEFENDED_FLAG                              
+HUD_HUD_CONQUEST_FULL_CAPTURE                               
+HUD_HUD_CONQUEST_NEUTRALIZE                                 
+HUD_HUD_CONQUEST_NEUTRALIZE_ASSIST                          
+HUD_HUD_DESTROY_STRATEGIC                                   
+HUD_CENTERINFOBOX_timetospawn                              #TIME#
+HUD_CHAT_DEADPREFIX                                         
+HUD_CHAT_YOUGOTAKILLSCORE                                   
+HUD_CHAT_YOUWEREKILLEDBY                                    
+HUD_COMMANDERAPPLY_TIMETOSTART                             Informe en curso, las Operaciones comienzan en #TIME#
+HUD_HUD_GAMESTART_commelectionended                         
+HUD_HUD_GAMESTART_commelectionstarted                      Informe en curso, las Operaciones comienzan en 
+HUD_HUD_GAMESTART_timebeforegamestart                      Tiempo restante para el comienzo de la misión
+HUD_HUD_KICKVOTE_COMMANDER_KICKED                          §C1001#YESVOTES#§C1001 voto(s) a favor del motín contra §C1001#PLAYERNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios. El Comandante §C1001#PLAYERNAME#§C1001 ha sido relegado.
+HUD_HUD_KICKVOTE_COMMANDER_START_LOCAL                     §C1001#PLAYERNAME1#§C1001 ha comenzado una votación de Motín contra el Comandante §C1001#PLAYERNAME2#§C1001. La votación terminará en §C1001#MINUTES#§C1001 minuto(s).
+HUD_HUD_KICKVOTE_COMMANDER_START_REMOTE                    §C1001#PLAYERNAME1#§C1001 ha comenzado una votación de Motín contra el Comandante §C1001#PLAYERNAME2#§C1001. Pulsa §C1001#GIYes#§C1001 para votar a Favor del Motín, o §C1001#GINo#§C1001 para votar en Contra del Motín. La votación terminará en §C1001#MINUTES#§C1001 minuto(s).
+HUD_HUD_KICKVOTE_COMMANDER_STAT                            §C1001#YESVOTES#§C1001 voto(s) a favor del motín contra §C1001#PLAYERNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios.
+HUD_HUD_KICKVOTE_COMMANDER_STAYS                           §C1001#YESVOTES#§C1001 voto(s) a favor del motín contra §C1001#PLAYERNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios. El Comandante §C1001#PLAYERNAME#§C1001 permanece en su puesto.
+HUD_HUD_KICKVOTE_MAP_CHANGE                                §C1001#YESVOTES#§C1001 voto(s) a favor del Mapa §C1001#MAPNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios. El Mapa §C1001#MAPNAME#§C1001 no se cargará.
+HUD_HUD_KICKVOTE_MAP_START_LOCAL                           §C1001#PLAYERNAME#§C1001 ha comenzado una votación para que el siguiente mapa sea §C1001#MAPNAME#§C1001. La votación terminará en §C1001#MINUTES#§C1001 minuto(s).
+HUD_HUD_KICKVOTE_MAP_START_REMOTE                          §C1001#PLAYERNAME#§C1001 ha comenzado una votación para que el siguiente mapa sea §C1001#MAPNAME#§C1001. Pulsa §C1001#GIYes#§C1001 para votar a Favor o §C1001#GINo#§C1001 para votar en Contra. La votación terminará en §C1001#MINUTES#§C1001 minuto(s).
+HUD_HUD_KICKVOTE_MAP_STAT                                  §C1001#YESVOTES#§C1001 voto(s) a favor del mapa §C1001#MAPNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios.
+HUD_HUD_KICKVOTE_MAP_STAYS                                 §C1001#YESVOTES#§C1001 voto(s) a favor del mapa §C1001#MAPNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios. No se cambiará de mapa.
+HUD_HUD_KICKVOTE_PLAYER_KICKED                             §C1001#YESVOTES#§C1001 voto(s) a favor de la expulsión de §C1001#PLAYERNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios. Se ha expulsado al jugador §C1001#PLAYERNAME#§C1001.
+HUD_HUD_KICKVOTE_PLAYER_START_LOCAL                        §C1001#PLAYERNAME1#§C1001 ha comenzado una votación para expulsar a §C1001#PLAYERNAME2#§C1001. La votación terminará en §C1001#MINUTES#§C1001 minuto(s).
+HUD_HUD_KICKVOTE_PLAYER_START_REMOTE                       §C1001#PLAYERNAME1#§C1001 ha comenzado una votación para expulsar a §C1001#PLAYERNAME2#§C1001. Pulsa §C1001#GIYes#§C1001 para votar a Favor, o §C1001#GINo#§C1001 para votar en Contra. La votación terminará en §C1001#MINUTES#§C1001 minuto(s).
+HUD_HUD_KICKVOTE_PLAYER_STAT                               §C1001#YESVOTES#§C1001 voto(s) para expulsar a §C1001#PLAYERNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios.
+HUD_HUD_KICKVOTE_PLAYER_STAYS                              §C1001#YESVOTES#§C1001 voto(s) para expulsar a §C1001#PLAYERNAME#§C1001, §C1001#NEEDED#§C1001 voto(s) necesarios. El jugador §C1001#PLAYERNAME#§C1001 no será expulsado.
+HUD_HUD_KILLEDBY_KILLED                                     
+HUD_HUD_KILLEDBY_KILLS                                      
+HUD_HUD_KILLEDBY_MYSELF                                     
+HUD_HUD_KILLEDBY_TEAMKILLS                                 §0#PLAYERNAME1# [§1Teamkills§0] #PLAYERNAME2#
+HUD_HUD_RANK_LANCE_CORPORAL                                 
+HUD_HUD_RANK_PRIVATE_FIRST                                  
+HUD_HUD_RANK_PROMOTED                                       
+HUD_HUD_RANK_RANK_DEFAULT                                   
+HUD_HUD_REPLENISH_DRIVER                                    
+HUD_HUD_REPLENISH_GOT_AMMO_POINT                            
+HUD_HUD_REPLENISH_GOT_HEALING_POINT                         
+HUD_HUD_REPLENISH_GOT_REPAIR_POINT                          
+HUD_HUD_REPLENISH_REVIVE_SCORE                              
+HUD_HUD_REQUEST_RECIEVED_FROM_SQUAD                        Has recibido una solicitud del escuadrón §0#SQUADNAME#§1
+HUD_HUD_SQUAD_NEW_SQUADLEADER                               
+HUD_HUD_SQUAD_ORDER_SENT_MEMBERS                            
+HUD_HUD_SQUAD_RECIEVED_NEW_ORDER_COMMANDER                  
+HUD_HUD_SQUAD_RECIEVED_NEW_ORDER_SQUADLEADER                
+HUD_TEXT_CHOICE_ACCEPT                                     ACEPTAR
+HUD_TEXT_CHOICE_REJECT                                     RECHAZAR
+HUD_TEXT_COMMANDER_COMMANDS                                COMANDOS
+HUD_TEXT_COMMANDER_SQUAD_ORDERS                            ORDENES DE ESCUADRON
+HUD_TEXT_COMMANDER_MARKERS_INFANTRY                        INFANTERIA
+HUD_TEXT_COMMANDER_MARKERS_VEHICLES                        VEHICULOS
+HUD_TEXT_COMMANDER_MARKERS_EMPLACEMENTS                    EMPLAZAMIENTOS
+HUD_TEXT_COMMANDER_MARKERS_MISC                            MISC
+HUD_TEXT_COMMANDER_BUILD                                   CONSTRUCCION
+HUD_TEXT_COMMANDER_CAS                                     APOYO AEREO CERCANO
+HUD_TEXT_COMMANDER_CONTACT                                 INFORME DE CONTACTO
+HUD_TEXT_COMMANDER_DEFEND                                  DEFENDER
+HUD_TEXT_COMMANDER_DELETE                                  BORRAR MARCADOR
+HUD_TEXT_COMMANDER_DEMOLISH                                DEMOLER
+HUD_TEXT_COMMANDER_DESTROY                                 DESTRUIR
+HUD_TEXT_COMMANDER_FIRESUPPORT                             APOYO DE FUEGO
+HUD_TEXT_COMMANDER_LZ                                      BALIZA
+HUD_TEXT_COMMANDER_UAV                                     UAV
+HUD_TEXT_COMMANDER_MINES                                   CAMPO DE MINAS
+HUD_TEXT_COMMANDER_MOVE                                    MOVER
+HUD_TEXT_COMMANDER_OBSERVE                                 OBSERVAR
+HUD_TEXT_COMMANDER_SPOTTED_AAV                             AAV ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_APC                             APC ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_IFV                             IFV ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_OUTPOST                         BASE DE OPERACIONES ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_TANK                            TANQUE ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_TRUCK                           CAMION ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_JEEP                            JEEP ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_RALLY                           RALLY ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_OBJECTIVE                       OBJETIVO ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_AT                              AT ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED_AA                              AA ENEMIGO
+HUD_TEXT_COMMANDER_SPOTTED                                 INFANTERIA ENEMIGA
+HUD_TEXT_COMMANDER_SPOTTED_DESTROYEDBRIDGE                 PUENTE DESTRUIDO
+HUD_TEXT_COMMANDER_STRIKE                                  ATAQUE DE AREA
+HUD_TEXT_COMMANDER_SUPPLIES                                LOGISTICAS
+HUD_TEXT_COMMANDER_VEHICLEDROP                             MARCADOR
+HUD_TEXT_COMMANDER_TARGET                                  OBJETIVO
+HUD_TEXT_COMMANDER_UAV_FUEL                                COMBUSTIBLE
+HUD_TEXT_COMMANDPOST_BLOCK                                 Solo puedes acceder a la pantalla de comando en el Puesto de Comando
+HUD_TEXT_MENU_SPAWN_BLOCKED                                SPAWN BLOCKED
+HUD_TEXT_MENU_SPAWN_NOTREADY                               YOU NEED TO PRESS 'SPAWN'
+HUD_TEXT_MENU_KITACCESSDENIED_NEWTOSQUAD                   YOU ARE NEW TO THIS SQUAD
+HUD_TEXT_MENU_KITACCESSDENIED_TOOMANYINSQUAD               THIS KIT HAS ALREADY BEEN ISSUED TO YOUR SQUAD
+HUD_TEXT_MENU_KITACCESSDENIED_TOOMANYINTEAM                THIS KIT HAS ALREADY BEEN ISSUED TO YOUR TEAM
+HUD_TEXT_MENU_KITACCESSDENIED_SQUADTOOSMALL                YOUR SQUAD NEEDS MORE PEOPLE
+HUD_TEXT_MENU_KITACCESSDENIED_NOTSQUADLEADER               YOU ARE NOT A SQUAD LEADER
+HUD_TEXT_MENU_KITACCESSDENIED_UNAVAILABLEFORTEAM           THIS KIT IS UNAVAILABLE FOR YOUR TEAM RIGHT NOW
+HUD_TEXT_MENU_KITACCESSDENIED_NOTINSQUAD                   YOU ARE NOT IN A SQUAD
+HUD_TEXT_MENU_RALLYACCESSDENIED_WRONG_RALLY                THE SELECTED RALLY POINT DOES NOT BELONG TO YOUR SQUAD
+HUD_TEXT_MENU_RALLYACCESSDENIED_DEAD_RALLY                 YOU JOINED THE SQUAD WHILE DEAD AND CANNOT SPAWN ON RALLY POINT
+HUD_TEXT_MENU_AREYOUSURE                                   ARE YOU SURE?
+HUD_TEXT_MENU_SWITCHTEAM                                   SWITCH TEAM
+HUD_TEXT_MENU_SWITCHTEAM_SWITCHTEAMTO                      SWITCHING TO:
+HUD_TEXT_MENU_CALLMEDIC                                    PEDIR MEDICO
+HUD_TEXT_MENU_SPAWN_CLOSE                                  CLOSE
+HUD_TEXT_MENU_COMMITTED_SUICIDE                            MUERTO
+HUD_TEXT_MENU_GIVEUP                                       RENDIRSE
+HUD_TEXT_MENU_GIVEUP_TIP                                   ¿No hay médicos cerca?
+Puedes RENDIRTE en la pantalla del mapa
+HUD_TEXT_MENU_DEAD_TIP                                     Elige un punto de reaparición
+HUD_TEXT_MENU_INVITE_REQUEST_TIMED_OUT                      
+HUD_TEXT_MENU_SPAWN_DONE                                   LISTO
+HUD_TEXT_MENU_MUTINY                                       MOTIN
+HUD_TEXT_MENU_SPAWN_KIT_STD                                STD
+HUD_TEXT_MENU_SPAWN_KIT_ALT                                ALT
+HUD_TEXT_MENU_SPAWN_KIT_AA_ARF                             ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_ARG82                           ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_CF                              ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_CH                              ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_CHINS                           ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_FR                              ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_FSA                             ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_GB                              ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_GB82                            ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_GER                             ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_HAMAS                           ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_IDF                             ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_MEC                             ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_PL                              ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_RU                              ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_RU94                            ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_SAF                             ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_TALIBAN                         ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_US                              ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_USA                             ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_VNNVA                           ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_VNUSA                           ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_VNUSMC                          ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_AA_WW2USA                          ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_WW2GER                          ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_WW2GER41                        ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_WW2RUSEARLY                     ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_WW2RUS                          ANTI-AIR
+HUD_TEXT_MENU_SPAWN_KIT_AA_NL                              ANTI-AEREO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_ARF_LIMITED                LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_ARG82_LIMITED              LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_CF_LIMITED                 LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_CHINS_LIMITED              LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_CH_LIMITED                 LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_FR_LIMITED                 LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_FSA_LIMITED                LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_GB_LIMITED                 LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_GB82_LIMITED               LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_GER_LIMITED                LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_HAMAS_LIMITED              LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_IDF_LIMITED                LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_MEC_LIMITED                LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_PL_LIMITED                 LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_RU_LIMITED                 LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_RU94_LIMITED               LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_SAF_LIMITED                LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_TALIBAN_LIMITED            LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_USA_LIMITED                LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_US_LIMITED                 LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_VNNVA_LIMITED              LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_VNUSA_LIMITED              LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_VNUSMC_LIMITED             LIMITADO - GRANADERO
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_WW2USA_LIMITED             LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_WW2GER_LIMITED             LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_WW2GER41_LIMITED           LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_WW2RUSEARLY_LIMITED        LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_WW2RUS_LIMITED             LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_ASSAULT_NL_LIMITED                 LIMITED - GRENADIER
+HUD_TEXT_MENU_SPAWN_KIT_AT_ARF                             ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_ARG82                           ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_CF                              ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_CH                              ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_CHINS                           ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_FR                              ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_FSA                             ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_GB                              ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_GB82                            ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_GER                             ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_HAMAS                           ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_IDF                             ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_MEC                             ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_MEINS                           ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_PL                              ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_RU                              ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_RU94                            ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_SAF                             ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_TALIBAN                         ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_US                              ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_USA                             ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_VNNVA                           ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_VNUSA                           ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_VNUSMC                          ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_AT_WW2USA                          ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_WW2GER                          ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_WW2GER41                        ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_WW2RUSEARLY                     ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_WW2RUS                          ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_AT_NL                              ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_CIVILIAN_FSA                       COLABORADOR
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_MEINS                        MEDICO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_ARF                       INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_ARG82                     INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_CF                        INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_CH                        INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_CHINS                     INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_FR                        INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_FSA                       INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_GB                        INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_GB82                      INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_GER                       INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_HAMAS                     INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_IDF                       INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_MEC                       INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_PL                        ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_RU                        INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_RU94                      ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_SAF                       ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_TALIBAN                   INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_US                        INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_USA                       INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_VNNVA                     INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_VNUSA                     INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_VNUSMC                    INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_WW2GER                    ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_WW2GER41                  ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_WW2RUSEARLY               ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_WW2RUS                    ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_WW2USA                    ENGINEER
+HUD_TEXT_MENU_SPAWN_KIT_ENGINEER_NL                        INGENIERO
+HUD_TEXT_MENU_SPAWN_KIT_INSURGENT_MEINS                    INSURGENTE
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_ARF                       TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_ARG82                     TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_CF                        TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_CH                        TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_CHINS                     TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_FR                        TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_FSA                       TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_GB                        TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_GB82                      TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_GER                       TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_HAMAS                     TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_IDF                       TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_MEC                       TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_PL                        MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_RU                        TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_RU94                      MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_SAF                       MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_TALIBAN                   TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_US                        TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_USA                       TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_VNNVA                     TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_VNUSA                     TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_VNUSMC                    TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_WW2GER                    MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_WW2GER41                  MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_WW2RUSEARLY               MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_WW2RUS                    MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_WW2USA                    MARKSMAN
+HUD_TEXT_MENU_SPAWN_KIT_MARKSMAN_NL                        TIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_ARF_LIMITED                  LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_ARG82_LIMITED                LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_CF_LIMITED                   LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_CHINS_LIMITED                LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_CH_LIMITED                   LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_FR_LIMITED                   LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_FSA_LIMITED                  LIMITADO - MEDICO
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_GB_LIMITED                   LLIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_GB82_LIMITED                 LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_GER_LIMITED                  LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_HAMAS_LIMITED                LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_IDF_LIMITED                  LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_MEC_LIMITED                  LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_PL_LIMITED                   LIMITED - COMBAT MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_RU_LIMITED                   LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_RU94_LIMITED                 LIMITED - COMBAT MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_SAF_LIMITED                  LIMITED - COMBAT MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_TALIBAN_LIMITED              LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_USA_LIMITED                  LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_US_LIMITED                   LIMITADO - PARAMEDICO
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_VNNVA_LIMITED                LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_VNUSA_LIMITED                LIMITADO - MEDICO DE COMBATE
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_VNUSMC_LIMITED               LIMITADO - PARAMEDICO
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_WW2GER_LIMITED               LIMITED - MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_WW2GER41_LIMITED             LIMITED - MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_WW2RUSEARLY_LIMITED          LIMITED - MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_WW2RUS_LIMITED               LIMITED - MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_WW2USA_LIMITED               LIMITED - MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MEDIC_NL_LIMITED                   LIMITED - COMBAT MEDIC
+HUD_TEXT_MENU_SPAWN_KIT_MG_ARF_LIMITED                     LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_ARG82_LIMITED                   LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_CF_LIMITED                      LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_CHINS_LIMITED                   LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_CH_LIMITED                      LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_FR_LIMITED                      LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_FSA_LIMITED                     LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_GB_LIMITED                      LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_GB82_LIMITED                    LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_GER_LIMITED                     LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_HAMAS_LIMITED                   LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_IDF_LIMITED                     LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_MEC_LIMITED                     LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_PL_LIMITED                      LIMITED - MACHINE GUNNER
+HUD_TEXT_MENU_SPAWN_KIT_MG_RU_LIMITED                      LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_RU94_LIMITED                    LIMITED - MACHINE GUNNER
+HUD_TEXT_MENU_SPAWN_KIT_MG_SAF_LIMITED                     LIMITED - MACHINE GUNNER
+HUD_TEXT_MENU_SPAWN_KIT_MG_TALIBAN_LIMITED                 LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_USA_LIMITED                     LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_US_LIMITED                      LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_VNNVA_LIMITED                   LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_VNUSA_LIMITED                   LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_VNUSMC_LIMITED                  LIMITADO - AMETRALLADOR
+HUD_TEXT_MENU_SPAWN_KIT_MG_NL_LIMITED                      LIMITED - MACHINE GUNNER
+HUD_TEXT_MENU_SPAWN_KIT_MILITANT_CHINS                     MILITANTE
+HUD_TEXT_MENU_SPAWN_KIT_MILITANT_FSA                       MILITANTE
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_ARF_LIMITED                LIMITADO - LIDER DE CELULA
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_ARG82_LIMITED              LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_CF_LIMITED                 LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_CHINS_LIMITED              LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_CH_LIMITED                 LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_FR_LIMITED                 LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_FSA_LIMITED                LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_GB_LIMITED                 LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_GB82_LIMITED               LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_GER_LIMITED                LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_HAMAS_LIMITED              LIMITADO - LIDER DE CELULA
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_IDF_LIMITED                LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_MEC_LIMITED                LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_MEINS                      LIMITADO - LIDER DE CELULA
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_PL_LIMITED                 LIMITED - OFFICER
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_RU_LIMITED                 LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_RU94_LIMITED               LIMITED - OFFICER
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_SAF_LIMITED                LIMITED - OFFICER
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_TALIBAN_LIMITED            LIMITADO - LIDER DE CELULA
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_USA_LIMITED                LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_US_LIMITED                 LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_VNNVA_LIMITED              LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_VNUSA_LIMITED              LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_VNUSMC_LIMITED             LIMITADO - OFICIAL
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_WW2GER_LIMITED             LIMITED - NCO
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_WW2GER41_LIMITED           LIMITED - NCO
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_WW2RUSEARLY_LIMITED        LIMITED - NCO
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_WW2RUS_LIMITED             LIMITED - NCO
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_WW2USA_LIMITED             LIMITED - NCO
+HUD_TEXT_MENU_SPAWN_KIT_OFFICER_NL_LIMITED                 LIMITED - OFFICER
+HUD_TEXT_MENU_SPAWN_KIT_PEACEKEEPER_UN                     FUERZA DE PAZ
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_ARG82                        PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_CF                           PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_CH                           PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_CHINS                        PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_FR                           PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_GB                           PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_GB82                         PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_GER                          PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_IDF                          PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_MEC                          PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_PL                           PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_RU                           PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_RU94                         PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_SAF                          PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_US                           PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_USA                          PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_VNNVA                        PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_VNUSA                        PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_VNUSMC                       PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_WW2GER                       PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_WW2GER41                     PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_WW2RUSEARLY                  PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_WW2RUS                       PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_WW2USA                       PILOT
+HUD_TEXT_MENU_SPAWN_KIT_PILOT_NL                           PILOTO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_ARG82                   FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_CF                      FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_CH                      FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_CHINS                   FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_FR                      FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_FSA                     FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_GB                      FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_GB82                    FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_GER                     FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_HAMAS                   FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_IDF                     FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_MEC                     FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_PL                      RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_TALIBAN                 LIMITED - RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_RU                      FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_RU94                    LIMITED - RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_SAF                     LIMITED - RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_US                      FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_USA                     FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_VNNVA                   FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_VNUSA                   FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_VNUSMC                  FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_WW2GER                  RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_WW2GER41                LIMITED - RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_WW2RUSEARLY             LIMITED - RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_WW2RUS                  LIMITED - RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_WW2USA                  RIFLEMAN ANTI-PERSONNEL
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAP_NL                      FUSILERO ANTI-PERSONA
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_ARF                     LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_ARG82                   LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_CF                      LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_CH                      LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_CHINS                   LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_FR                      LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_FSA                     LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_GB                      LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_GB82                    LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_GER                     LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_HAMAS                   LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_IDF                     LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_MEC                     LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_PL                      LIMITED - RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_RU                      LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_RU94                    LIMITED - RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_SAF                     LIMITED - RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_TALIBAN                 LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_US                      LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_USA                     LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_VNNVA                   LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_VNUSA                   LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_VNUSMC                  LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_NL                      LIMITADO - FUSILERO ANTI-TANQUE
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_WW2GER                  RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_WW2GER41                LIMITED - RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_WW2RUSEARLY             LIMITED - RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_WW2RUS                  LIMITED - RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMANAT_WW2USA                  RIFLEMAN ANTI-TANK
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_ARG82                     FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_CF                        FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_CH                        FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_FR                        FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_GB                        FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_GB82                      FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_GER                       FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_IDF                       FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_MEC                       FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_PL                        RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_RU                        FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_RU94                      RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_SAF                       RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_US                        FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_USA                       FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_VNNVA                     FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_VNUSA                     FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_VNUSMC                    FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_WW2GER                    RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_WW2GER41                  RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_WW2RUSEARLY               RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_WW2RUS                    RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_WW2USA                    RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_RIFLEMAN_NL                        FUSILERO
+HUD_TEXT_MENU_SPAWN_KIT_SAPPER_MEINS                       ZAPADOR
+HUD_TEXT_MENU_SPAWN_KIT_SAPPER_VNNVA                       ZAPADOR
+HUD_TEXT_MENU_SPAWN_KIT_SCOUT_ARF                          LIMITADO - ESPECIALISTA
+HUD_TEXT_MENU_SPAWN_KIT_SCOUT_CHINS                        LIMITADO - ESPECIALISTA
+HUD_TEXT_MENU_SPAWN_KIT_SCOUT_FSA                          LIMITADO - ESPECIALISTA
+HUD_TEXT_MENU_SPAWN_KIT_SCOUT_HAMAS                        LIMITADO - ESPECIALISTA
+HUD_TEXT_MENU_SPAWN_KIT_SCOUT_TALIBAN                      LIMITADO - ESPECIALISTA
+HUD_TEXT_MENU_SPAWN_KIT_SCOUT_VNNVA                        LIMITADO - ESPECIALISTA
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_ARF                         FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_ARG82                       FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_CF                          FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_CH                          FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_CHINS                       FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_FR                          FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_FSA                         FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_GB                          FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_GB82                        FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_GER                         FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_HAMAS                       FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_IDF                         FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_MEC                         FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_PL                          SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_RU                          FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_RU94                        SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_SAF                         SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_TALIBAN                     FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_US                          FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_USA                         FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_VNNVA                       FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_VNUSA                       FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_VNUSMC                      FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_WW2GER                      SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_WW2GER41                    SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_WW2RUSEARLY                 SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_WW2RUS                      SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_WW2USA                      SNIPER
+HUD_TEXT_MENU_SPAWN_KIT_SNIPER_NL                          FRANCOTIRADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_ARG82                   LIMITADO - VANGUARDIA
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_CF                      LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_CH                      LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_FR                      LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_GB                      LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_GB82                    LIMITADO - VANGUARDIA
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_GER                     LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_IDF                     LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_MEC                     LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_PL                      LIMITED - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_RU                      LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_RU94                    LIMITED - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_SAF                     LIMITED - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_US                      LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_USA                     LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_VNNVA                   LIMITADO - ESPECIALISTA
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_VNUSA                   LIMITADO - VANGUARDIA
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_VNUSMC                  LIMITADO - VANGUARDIA
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_WW2GER                  LIMITED - POINTMAN
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_WW2GER41                LIMITED - POINT-MAN
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_WW2RUSEARLY             LIMITED - POINT-MAN
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_WW2RUS                  LIMITED - POINT-MAN
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_WW2USA                  LIMITED - POINTMAN
+HUD_TEXT_MENU_SPAWN_KIT_SPECIALIST_NL                      LIMITADO - BREACHER
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_ARF                        OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_ARG82                      OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_CF                         OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_CH                         OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_CHINS                      OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_FR                         OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_FSA                        OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_GB                         OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_GB82                       OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_GER                        OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_HAMAS                      OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_IDF                        OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_MEC                        OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_PL                         SPOTTER
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_RU                         OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_RU94                       SPOTTER
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_SAF                        SPOTTER
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_TALIBAN                    OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_US                         OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_USA                        OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_VNNVA                      OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_VNUSA                      OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_VNUSMC                     OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SPOTTER_NL                         OBSERVADOR
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_ARF_LIMITED                LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_ARG82_LIMITED              LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_CF_LIMITED                 LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_CHINS_LIMITED              LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_CH_LIMITED                 LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_FR_LIMITED                 LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_FSA_LIMITED                LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_GB_LIMITED                 LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_GB82_LIMITED               LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_GER_LIMITED                LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_HAMAS_LIMITED              LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_IDF_LIMITED                LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_MEC_LIMITED                LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_PL_LIMITED                 LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_RU_LIMITED                 LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_RU94_LIMITED               LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_SAF_LIMITED                LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_TALIBAN_LIMITED            LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_USA_LIMITED                LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_US_LIMITED                 LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_VNNVA_LIMITED              LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_VNUSA_LIMITED              LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_VNUSMC_LIMITED             LIMITADO - FUSILERO AUTOMATICO
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_NL_LIMITED                 LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_WW2GER_LIMITED             LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_WW2GER41_LIMITED           LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_WW2RUSEARLY_LIMITED        LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_WW2RUS_LIMITED             LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_WW2USA_LIMITED             LIMITED - AUTOMATIC RIFLEMAN
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_ARF                         TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_ARG82                       TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_CF                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_CH                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_CHINS                       TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_FR                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_FSA                         TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_GB                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_GB82                        TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_GER                         TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_IDF                         TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_MEINS                       CREWMAN
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_MEC                         TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_PL                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_RU                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_RU94                        TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_SAF                         TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_TALIBAN                     TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_US                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_USA                         TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_NL                          TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_WARRIOR_ARF                        GUERRERO
+HUD_TEXT_MENU_SPAWN_KIT_WARRIOR_HAMAS                      GUERRERO
+HUD_TEXT_MENU_SPAWN_KIT_WARRIOR_TALIBAN                    GUERRERO
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_WW2GER                      TRIPULANTE
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_WW2GER41                    CREWMAN
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_WW2RUSEARLY                 CREWMAN
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_WW2RUS                      CREWMAN
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_WW2USA                      TRIPULANTE
+HUD_TEXT_MENU_SPAWN_NO_KIT_INFO                            No puedes cambiar de kit mientras la cuenta
+atrás de la ronda siga activa, o cuando estés
+vivo o herido.
+
+Solo puedes seleccionar un kit cuando estés muerto.
+HUD_TEXT_MENU_SPAWN_NOTDONE                                SELECT A DIFFERENT KIT
+HUD_TEXT_MENU_TIME_TO_RESPAWN                               
+HUD_TEXT_MENU_YOU_ARE_IN_MAN_DOWN                          WOUNDED
+HUD_TEXT_MENU_YOU_WERE_KILLED                              DEAD
+HUD_TEXT_MENU_REINFORCEMENTS                               Reinforcements
+HUD_TEXT_MENU_CACHES                                       Caches
+HUD_TEXT_MENU_ENEMY_ASSETS                                 Intel reports the following enemy assets:
+HUD_TEXT_MENU_ASSETS_LOGISTICS_SINGULAR                    Logistics Truck
+HUD_TEXT_MENU_ASSETS_LOGISTICS_PLURAL                      Logistics Trucks
+HUD_TEXT_MENU_ASSETS_TRUCK_SINGULAR                        Transport Truck
+HUD_TEXT_MENU_ASSETS_TRUCK_PLURAL                          Transport Trucks
+HUD_TEXT_MENU_ASSETS_BOAT_SINGULAR                         Water Vehicle
+HUD_TEXT_MENU_ASSETS_BOAT_PLURAL                           Water Vehicles
+HUD_TEXT_MENU_ASSETS_BIKE_SINGULAR                         Bike
+HUD_TEXT_MENU_ASSETS_BIKE_PLURAL                           Bikes
+HUD_TEXT_MENU_ASSETS_JEEP_SINGULAR                         Light Vehicle
+HUD_TEXT_MENU_ASSETS_JEEP_PLURAL                           Light Vehicles
+HUD_TEXT_MENU_ASSETS_ATGM_SINGULAR                         Anti-Tank Vehicle
+HUD_TEXT_MENU_ASSETS_ATGM_PLURAL                           Anti-Tank Vehicles
+HUD_TEXT_MENU_ASSETS_APC_SINGULAR                          Armored Personnel Carrier
+HUD_TEXT_MENU_ASSETS_APC_PLURAL                            Armored Personnel Carriers
+HUD_TEXT_MENU_ASSETS_IFV_SINGULAR                          Infantry Fighting Vehicle
+HUD_TEXT_MENU_ASSETS_IFV_PLURAL                            Infantry Fighting Vehicles
+HUD_TEXT_MENU_ASSETS_TANK_SINGULAR                         Tank
+HUD_TEXT_MENU_ASSETS_TANK_PLURAL                           Tanks
+HUD_TEXT_MENU_ASSETS_AAV_SINGULAR                          Anti-Air Vehicle
+HUD_TEXT_MENU_ASSETS_AAV_PLURAL                            Anti-Air Vehicles
+HUD_TEXT_MENU_ASSETS_THE_SINGULAR                          Transport Helicopter
+HUD_TEXT_MENU_ASSETS_THE_PLURAL                            Transport Helicopters
+HUD_TEXT_MENU_ASSETS_AHE_SINGULAR                          Attack Helicopter
+HUD_TEXT_MENU_ASSETS_AHE_PLURAL                            Attack Helicopters
+HUD_TEXT_MENU_ASSETS_JET_SINGULAR                          Fixed Wing Aircraft
+HUD_TEXT_MENU_ASSETS_JET_PLURAL                            Fixed Wing Aircraft
+HUD_TEXT_MENU_ASSETS_MORTAR                                Off Map Mortar
+HUD_TEXT_MENU_ASSETS_ARTILLERY                             Off Map Artillery
+HUD_TEXT_MENU_ASSETS_UNKNOWN                               Unknown
+HUD_TEXT_MENU_ASSETS_RESPAWN_SINGULAR                      #MINUTES# minute
+HUD_TEXT_MENU_ASSETS_RESPAWN_PLURAL                        #MINUTES# minutes
+HUD_TEXT_MENU_ASSETS_NORESPAWN                             No Respawn
+HUD_TEXT_MENU_ASSETS_INTERVAL                              #MINUTES# minute interval
+HUD_TEXT_MENU_ASSETS_DELAY                                 delayed
+HUD_TEXT_MENU_TUTORIAL_RESTARTGAME                         Restart the game to hide tutorial UI
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_ENABLEWARNINGLIST        NOTIFICATIONS
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_NONOTIFICATIONS          THERE ARE NO NOTIFICATIONS TO SHOW
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_REMOVE                   REMOVE
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_ENABLE_AWD               HIDE NOTIFICATIONS ON THE MAIN SCREEN
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_DISABLE_AWD              SHOW NOTIFICATIONS ON THE MAIN SCREEN
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_VOTE1                    Vote 1
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_VOTE2                    Vote 2
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_VOTE3                    Vote 3
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_OPENVOTEPANEL            Open Voting Menu
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_CLOSEVOTEPANEL           Close Voting Menu
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_VOTEISACTIVE             VOTING IN PROGRESS
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_HIDEADMINWARNINGDISPLAY  HIDE CURRENT NOTIFICATION
+HUD_TEXT_MENU_SERVERNOTIFICATIONS_ADMINNEWREPORT           NEW REPORT
+HUD_TEXT_MENU_AFKCHECK_KICKSOON                            You will soon be kicked from the server due to lack of activity
+HUD_TEXT_MENU_AFKCHECK_LOOKUP                              Look up or move your mouse here
+HUD_TEXT_MENU_AFKCHECK_LOOKDOWN                            Look down or move your mouse here
+HUD_TEXT_VEHICLE_MORE_PLAYERS                              +{0} more
+AUTO_VOTING_anothervoteisinprogress                        Another vote is already in progress
+AUTO_VOTING_kickvoteinitiated                              Kick vote initiated
+AUTO_VOTING_kickvoteisactive                               Kick vote is active, please place your vote
+AUTO_VOTING_mapvoteinitiated                               Map vote initiated
+AUTO_VOTING_mapvoteisactive                                Map vote active
+AUTO_VOTING_mutinyvoteinitiated                            Mutiny vote against the current commander initiated
+AUTO_VOTING_mutinyvoteisactive                             Mutiny vote active, please place your vote
+AUTO_VOTING_nonsuccessfulkickvote                          Kick vote non successful, player stays
+AUTO_VOTING_nonsuccessfulmapvote                           Non successful map vote
+AUTO_VOTING_nonsuccessfulmutinyvote                        Mutiny vote unsuccessful, commander stays
+AUTO_VOTING_successfulkickvote                             Kick vote successful, player kicked
+AUTO_VOTING_successfulmapvote                              Successful map vote
+AUTO_VOTING_successfulmutinyvote                           Mutiny vote successful
+AUTO_VOTING_votedoutfrombattlefield                        You have been voted out of the Battlefield
+AUTO_VOTING_votedoutfromcommander                          You have been voted out of the Commander position
+AUTO_VOTING_votedoutfromcommander_alt                      I must inform you that you have been demoted from the rank of Commander
+GAME_MESSAGE_PLAYER_DISCONNECTED                            
+HUD_ERRORMESSAGE_TKPUNISHONLOCALHOST                       Local server hosts cannot be punished for team killing.
+HUD_SQUAD_PLAYERKICKEDFROMSQUAD                            Player §0#PLAYERNAME#§1 was kicked from the squad.
+HUD_TEXT_TEAMKILL_FORGIVE                                  You have forgiven the friendly fire incident.
+HUD_TEXT_TEAMKILL_PUNISH                                   You have reported the friendly fire incident. The offender has been punished.
+HUD_TEXT_TEAMKILLED_CHOICE                                 You were targeted by friendly fire. Forgive them?
+HUD_TKPUNISH_banned                                        Player §0#PLAYERNAME#§1 (#KEY#) has been banned from the server.
+HUD_TKPUNISH_kicked                                         
+HUD_YOUHAVEKICKEDPLAYER                                    You have kicked §0#PLAYERNAME#§1 from your squad.
+LOCERROR_banned                                            You have been banned from the server.
+For more information, check the server's website.
+LOCERROR_kicked                                            You have been kicked from the server.
+For more information, check the server's website.
+LOCERROR_olderversion                                      You have an older version than the server.
+If you are launching a local dedicated server, make sure to load it prior to launching the game to avoid this error.
+PLAYER_CONFIRM_C_negative                                  Negative
+PLAYER_CONFIRM_C_negative_alt                              Negative
+PLAYER_CONFIRM_C_rogerthat                                 Affirmative
+PLAYER_CONFIRM_C_rogerthat_alt                             I read you
+PLAYER_CONFIRM_C_sorry                                     Sorry
+PLAYER_CONFIRM_C_sorry_alt                                 Sorry
+PLAYER_CONFIRM_C_thankyou                                  Thanks
+PLAYER_CONFIRM_C_thankyou_alt                              Thanks
+PLAYER_CONFIRM_SL_negative                                 Negative
+PLAYER_CONFIRM_SL_negative_alt                             Negative
+PLAYER_CONFIRM_SL_rogerthat                                Roger that
+PLAYER_CONFIRM_SL_rogerthat_alt                            Roger that
+PLAYER_CONFIRM_SL_sorry                                    Sorry
+PLAYER_CONFIRM_SL_sorry_alt                                Sorry
+PLAYER_CONFIRM_SL_thankyou                                 Thanks
+PLAYER_CONFIRM_SL_thankyou_alt                             Thanks
+PLAYER_CONFIRM_TM_negative                                 Negative
+PLAYER_CONFIRM_TM_negative_alt                             Negative
+PLAYER_CONFIRM_TM_rogerthat                                Okay
+PLAYER_CONFIRM_TM_rogerthat_alt                            Okay
+PLAYER_CONFIRM_TM_sorry                                    Sorry
+PLAYER_CONFIRM_TM_sorry_alt                                Sorry
+PLAYER_CONFIRM_TM_thankyou                                 Thanks
+PLAYER_CONFIRM_TM_thankyou_alt                             Thanks
+PLAYER_REQUEST_C_getin                                     Get in!
+PLAYER_REQUEST_C_requestammo                               Requesting ammunition, over
+PLAYER_REQUEST_C_requestmedic                              I need a Medic here!
+PLAYER_REQUEST_C_requestpickup                             Requesting a pickup!
+PLAYER_REQUEST_C_requestreinforcements                     How about some help over here?
+PLAYER_REQUEST_C_requestrepairs                            We need repairs here!
+PLAYER_REQUEST_SL_getin                                    Get in!
+PLAYER_REQUEST_SL_getin_alt                                Quick! Jump in!
+PLAYER_REQUEST_SL_requestadv                                
+PLAYER_REQUEST_SL_requestadv_alt                           I need a VEHICLE at this coordinate
+PLAYER_REQUEST_SL_requestadv_alt_apc                       I need an APC at this coordinate
+PLAYER_REQUEST_SL_requestadv_alt_helo                      I need a HELICOPTER at this coordinate
+PLAYER_REQUEST_SL_requestammo                              Requesting ammunition
+PLAYER_REQUEST_SL_requestammo_alt                          Requesting ammunition
+PLAYER_REQUEST_SL_requestartillery                          
+PLAYER_REQUEST_SL_requestartillery_alt                      
+PLAYER_REQUEST_SL_requestmedic                             Requesting a Medic
+PLAYER_REQUEST_SL_requestmedic_alt                         Medic to this position
+PLAYER_REQUEST_SL_requestorders                            Requesting new orders
+PLAYER_REQUEST_SL_requestorders_alt                        What are your orders sir?
+PLAYER_REQUEST_SL_requestpickup                            Requesting a pickup, over!
+PLAYER_REQUEST_SL_requestpickup_alt                        Requesting pickup!
+PLAYER_REQUEST_SL_requestreinforcements                    Requesting reinforcements!
+PLAYER_REQUEST_SL_requestreinforcements_alt                We need reinforcing!
+PLAYER_REQUEST_SL_requestrepairs                           Requesting vehicle repairs
+PLAYER_REQUEST_SL_requestrepairs_alt                       Requesting vehicle repairs!
+PLAYER_REQUEST_SL_requestsupplies                          Requesting supplies.
+PLAYER_REQUEST_SL_requestsupplies_alt                      Requesting supplies.
+PLAYER_REQUEST_SL_requestuav                                
+PLAYER_REQUEST_SL_requestuav_alt                            
+PLAYER_REQUEST_TM_getin                                    Hop in!
+PLAYER_REQUEST_TM_getin_alt                                Mount up!
+PLAYER_REQUEST_TM_requestammo                              Requesting ammunition
+PLAYER_REQUEST_TM_requestammo_alt                          Requesting ammunition
+PLAYER_REQUEST_TM_requestartillery                          
+PLAYER_REQUEST_TM_requestmedic                             I need a Medic here!
+PLAYER_REQUEST_TM_requestmedic_alt                         I need a Medic quick!
+PLAYER_REQUEST_TM_requestorders                            Requesting orders, over!
+PLAYER_REQUEST_TM_requestorders_alt                        We need new orders here!
+PLAYER_REQUEST_TM_requestpickup                            Hey, I need a ride!
+PLAYER_REQUEST_TM_requestpickup_alt                        Get me out of here!
+PLAYER_REQUEST_TM_requestreinforcements                    We need support!
+PLAYER_REQUEST_TM_requestreinforcements_alt                How about some help over here?
+PLAYER_REQUEST_TM_requestreinforcements_armor              We need ARMOR support!
+PLAYER_REQUEST_TM_requestreinforcements_cas                We need CLOSE AIR SUPPORT!
+PLAYER_REQUEST_TM_requestreinforcements_jeep               We need TECHNICAL .50 CAL support!
+PLAYER_REQUEST_TM_requestreinforcements_bombcar            We need BOMB CAR support!
+PLAYER_REQUEST_TM_requestrepairs                           Requesting vehicle repairs!
+PLAYER_REQUEST_TM_requestrepairs_alt                       Requesting vehicle repairs!
+PLAYER_REQUEST_TM_requestuav                                
+HUD_MENU_SPOTTED_AA                                        ANTI-AIR SPOTTED
+HUD_MENU_SPOTTED_APC                                       APC SPOTTED
+HUD_MENU_SPOTTED_BOAT                                      BOAT SPOTTED
+HUD_MENU_SPOTTED_BUNKER                                    BUNKER SPOTTED
+HUD_MENU_SPOTTED_BUNKERFIREBASE                            BUNKER/FIREBASE SPOTTED
+HUD_MENU_SPOTTED_FIREBASE                                  FIREBASE SPOTTED
+HUD_MENU_SPOTTED_HELICOPTER                                HELICOPTER SPOTTED
+HUD_MENU_SPOTTED_PLANE                                     PLANE SPOTTED
+HUD_MENU_SPOTTED_RALLY                                     RALLY POINT SPOTTED
+HUD_MENU_SPOTTED_SNIPER                                    SNIPER SPOTTED
+HUD_MENU_SPOTTED_SOLDIER                                   SOLDIER SPOTTED
+HUD_MENU_SPOTTED_TANK                                      TANK SPOTTED
+HUD_MENU_SPOTTED_VEHICLE                                   VEHICLE SPOTTED
+PLAYER_SPOTTED_C_enemyaaspotted                            Enemy Anti-Air spotted
+PLAYER_SPOTTED_C_enemyapcspotted                           Enemy APC spotted
+PLAYER_SPOTTED_C_enemyboatspotted                          Enemy Boat spotted
+PLAYER_SPOTTED_C_enemycarspotted                           Enemy Vehicle spotted
+PLAYER_SPOTTED_C_enemytruckspotted                         Enemy Truck spotted
+PLAYER_SPOTTED_C_enemyatspotted                            Enemy Anti-Tank spotted
+PLAYER_SPOTTED_C_enemyrallyspotted                         Enemy Rally Point spotted
+PLAYER_SPOTTED_C_enemybunkerspotted                        Enemy Bunker spotted
+PLAYER_SPOTTED_C_enemyfirebasespotted                      Enemy Firebase spotted
+PLAYER_SPOTTED_C_enemyoutpostspotted                       Enemy Forward Outpost spotted
+PLAYER_SPOTTED_C_enemyforcesspotted                        Enemy forces spotted
+PLAYER_SPOTTED_C_enemyhelicopterspotted                    Enemy Helicopter spotted
+PLAYER_SPOTTED_C_enemyinfantryspotted                      Enemy infantry spotted
+PLAYER_SPOTTED_C_enemyjetspotted                           Enemy jet spotted
+PLAYER_SPOTTED_C_enemyminespotted                          Enemy mines spotted
+PLAYER_SPOTTED_C_enemysniperspotted                        Enemy sniper spotted
+PLAYER_SPOTTED_C_enemytankspotted                          Enemy Armor spotted
+PLAYER_SPOTTED_C_enemywbspotted                             
+PLAYER_SPOTTED_SL_enemyaaspotted                           Enemy AA spotted
+PLAYER_SPOTTED_SL_enemyaaspotted_alt                       Hostile AA spotted, over
+PLAYER_SPOTTED_SL_enemyapcspotted                          Enemy APC spotted
+PLAYER_SPOTTED_SL_enemyapcspotted_alt                      Hostile APC spotted, over
+PLAYER_SPOTTED_SL_enemyboatspotted                         Enemy boat spotted
+PLAYER_SPOTTED_SL_enemyboatspotted_alt                     Hostile water vehicle spotted, over
+PLAYER_SPOTTED_SL_enemycarspotted                          Enemy Car spotted
+PLAYER_SPOTTED_SL_enemycarspotted_alt                      Hostile vehicle spotted, over
+PLAYER_SPOTTED_SL_enemyforcesspotted                       Enemy forces spotted
+PLAYER_SPOTTED_SL_enemyforcesspotted_alt                   Hostile forces spotted, over
+PLAYER_SPOTTED_SL_enemyhelicopterspotted                   Enemy Helicopter spotted
+PLAYER_SPOTTED_SL_enemyhelicopterspotted_alt               Hostile chopper spotted, over
+PLAYER_SPOTTED_SL_enemyinfantryspotted                     Hostile infantry spotted, over
+PLAYER_SPOTTED_SL_enemyinfantryspotted_alt                 Enemy troops identified
+PLAYER_SPOTTED_SL_enemyjetspotted                          Hostile Jet spotted, over
+PLAYER_SPOTTED_SL_enemyjetspotted_alt                      Enemy air assets, over
+PLAYER_SPOTTED_SL_enemyminespotted                         Hostile mines spotted, over
+PLAYER_SPOTTED_SL_enemyminespotted_alt                     Encountering mines
+PLAYER_SPOTTED_SL_enemysniperspotted                       Hostile sniper spotted, over
+PLAYER_SPOTTED_SL_enemysniperspotted_alt                   Snipers on our perimeter
+PLAYER_SPOTTED_SL_enemytankspotted                         Hostile Armor sighted, over
+PLAYER_SPOTTED_SL_enemytankspotted_alt                     Enemy Armor spotted
+PLAYER_SPOTTED_SL_enemywbspotted                            
+PLAYER_SPOTTED_TM_enemyaaspotted                           I've spotted mobile AA, over
+PLAYER_SPOTTED_TM_enemyaaspotted_alt                       Hostile anti-aircraft
+PLAYER_SPOTTED_TM_enemyapcspotted                          Hostile APC
+PLAYER_SPOTTED_TM_enemyapcspotted_alt                      Enemy APC
+PLAYER_SPOTTED_TM_enemyboatspotted                         Enemy boat spotted
+PLAYER_SPOTTED_TM_enemyboatspotted_alt                     Enemy water vehicle spotted
+PLAYER_SPOTTED_TM_enemycarspotted                          Enemy vehicle
+PLAYER_SPOTTED_TM_enemycarspotted_alt                      Hostile on the road
+PLAYER_SPOTTED_TM_enemyforcesspotted                       Enemy units on the move
+PLAYER_SPOTTED_TM_enemyforcesspotted_alt                   Enemy activity
+PLAYER_SPOTTED_TM_enemyhelicopterspotted                   Hostile chopper identified
+PLAYER_SPOTTED_TM_enemyhelicopterspotted_alt               Hostile slick inbound, over
+PLAYER_SPOTTED_TM_enemyinfantryspotted                     Enemy troops
+PLAYER_SPOTTED_TM_enemyinfantryspotted_alt                 Hostiles on the ground
+PLAYER_SPOTTED_TM_enemyjetspotted                          Enemy aircraft
+PLAYER_SPOTTED_TM_enemyjetspotted_alt                      We got company overhead, over
+PLAYER_SPOTTED_TM_enemyminespotted                         Enemy mines
+PLAYER_SPOTTED_TM_enemyminespotted_alt                     We have encountered mines, over
+PLAYER_SPOTTED_TM_enemysniperspotted                       Sniper
+PLAYER_SPOTTED_TM_enemysniperspotted_alt                   Enemy sniper
+PLAYER_SPOTTED_TM_enemytankspotted                         We got hostile Armor
+PLAYER_SPOTTED_TM_enemytankspotted_alt                     Enemy tank is inbound, over
+PLAYER_SPOTTED_TM_enemywbspotted                            
+PLAYER_TACTICS_C_abandonship                                
+PLAYER_TACTICS_C_bailout                                    
+PLAYER_TACTICS_C_followme                                   
+PLAYER_TACTICS_C_getout                                     
+PLAYER_TACTICS_C_gogogo                                     
+PLAYER_TACTICS_C_retreat                                    
+PLAYER_TACTICS_SL_abandonship                              Abandon ship
+PLAYER_TACTICS_SL_bailout                                  Bail out!
+PLAYER_TACTICS_SL_bailout_alt                              Get out!
+PLAYER_TACTICS_SL_cantgothere                              Can't go there, sir!
+PLAYER_TACTICS_SL_followme                                 Follow me, soldiers!
+PLAYER_TACTICS_SL_gather                                   Infantry, gather around me!
+PLAYER_TACTICS_SL_getout                                   Get out
+PLAYER_TACTICS_SL_gogogo                                   Go, go, go!
+PLAYER_TACTICS_SL_gogogo_alt                               Move it!
+PLAYER_TACTICS_SL_moveout                                  Move out!
+PLAYER_TACTICS_SL_retreat                                  Fall back!
+PLAYER_TACTICS_SL_retreat_alt                              Drop back! Pull out!
+PLAYER_TACTICS_TM_abandonship                              Abandon ship
+PLAYER_TACTICS_TM_bailout                                  Hop out!
+PLAYER_TACTICS_TM_bailout_alt                              Jump out!
+PLAYER_TACTICS_TM_cantgothere                              Can't go there, sir!
+PLAYER_TACTICS_TM_followme                                 Follow me!
+PLAYER_TACTICS_TM_getout                                   Get out
+PLAYER_TACTICS_TM_gogogo                                   Let's move!
+PLAYER_TACTICS_TM_gogogo_alt                               Hit it!
+PLAYER_TACTICS_TM_retreat                                  They're blowin' us away! Retreat!
+PLAYER_TACTICS_TM_retreat_alt                              We're getting wasted! Fall back!
+HUD_CHECKING_AMMO                                          Checking magazine...
+HUD_RELOAD_BLOCKED                                         You can only reload while prone
+HUD_STAND_BLOCKED                                          You cannot stand up while reloading
+LAUNCHER_LINK_FAILED                                       Failed linking to the Launcher
+Visit www.realitymod.com for help
