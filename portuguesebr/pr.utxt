@@ -92,6 +92,7 @@ EOR_winningteam_ww2ger                                     Wehrmacht ganhou a 
 EOR_winningteam_ww2ger41                                   Wehrmacht ganhou a batalha!
 EOR_winningteam_ww2rusearly                                Exercito Vermelho ganhou a batalha!
 EOR_winningteam_ww2rus                                     Exercito Vermelho ganhou a batalha!
+HUD_HUD_RANGE_TO_TARGET_TEXT                               Alcance: #RANGE# M
 HUD_HUD_DRAW_STRING                                        A batalha foi indecisiva, ninguem ganhou...
 HUD_HUD_WIN_STRING                                         #TEAMNAME# ganhou a batalha!
 HUD_TEAMNAME_arf                                           Resistencia Africana
@@ -953,7 +954,7 @@ HUD_TEXT_MENU_KITACCESSDENIED_NOTSQUADLEADER               VOCE NAO E UM LIDER
 HUD_TEXT_MENU_KITACCESSDENIED_UNAVAILABLEFORTEAM           ESTE KIT NAO ESTA DISPONIVEL PARA SUA EQUIPE AGORA
 HUD_TEXT_MENU_KITACCESSDENIED_NOTINSQUAD                   VOCE NAO ESTA EM UM ESQUADRAO
 HUD_TEXT_MENU_RALLYACCESSDENIED_WRONG_RALLY                O PONTO DE ENCONTRO SELECIONADO NAO PERTENCE AO SEU ESQUADRAO
-HUD_TEXT_MENU_RALLYACCESSDENIED_DEAD_RALLY                 VOCE JUNTOU-SE AO SQUAD ENQUANTO MORTO E NAO PODE SPAWNAR NO PONTO DE ENCONTRO
+HUD_TEXT_MENU_RALLYACCESSDENIED_DEAD_RALLY                 VOCE JUNTOU-SE AO SQUAD ENQUANTO MORTO E NAO PODE NASCER NO PONTO DE ENCONTRO
 HUD_TEXT_MENU_AREYOUSURE                                   TEM CERTEZA?
 HUD_TEXT_MENU_SWITCHTEAM                                   TROCAR DE TIME
 HUD_TEXT_MENU_SWITCHTEAM_SWITCHTEAMTO                      TROCAR PARA:
