@@ -426,7 +426,7 @@ HUD_COMROSE_CMDR_ASSET_SANDBAGS                            SANDBAGS
 HUD_COMROSE_CMDR_ASSET_SUPPORT_TRUCK                       CAMINHAO DE SUPORTE
 HUD_COMROSE_CMDR_PLACE_BUILDING                            COLOCAR CONSTRUCAO
 HUD_COMROSE_CMDR_REQUEST_OFFICER_KIT                       PEGAR / SOLTAR
-OFFICER KIT
+KIT DE OFICIAL
 HUD_COMROSE_GRUNT_ammo                                     MUNICAO
 
 CONTATO
@@ -1552,16 +1552,16 @@ PLAYER_CONFIRM_C_negative                                  Negativo
 PLAYER_CONFIRM_C_negative_alt                              Nao
 PLAYER_CONFIRM_C_rogerthat                                 Afirmativo
 PLAYER_CONFIRM_C_rogerthat_alt                             Sim
-PLAYER_CONFIRM_C_sorry                                     Desculpa
-PLAYER_CONFIRM_C_sorry_alt                                 Foi mal
+PLAYER_CONFIRM_C_sorry                                     Desculpa!
+PLAYER_CONFIRM_C_sorry_alt                                 Desculpe-me!
 PLAYER_CONFIRM_C_thankyou                                  Obrigado
 PLAYER_CONFIRM_C_thankyou_alt                              Valeu
 PLAYER_CONFIRM_SL_negative                                 Negativo
 PLAYER_CONFIRM_SL_negative_alt                             Negativo
 PLAYER_CONFIRM_SL_rogerthat                                Afirmativo
 PLAYER_CONFIRM_SL_rogerthat_alt                            Afirmativo
-PLAYER_CONFIRM_SL_sorry                                    Desculpe-me
-PLAYER_CONFIRM_SL_sorry_alt                                Foi mal
+PLAYER_CONFIRM_SL_sorry                                    Desculpe-me!
+PLAYER_CONFIRM_SL_sorry_alt                                Desculpa!
 PLAYER_CONFIRM_SL_thankyou                                 Obrigado
 PLAYER_CONFIRM_SL_thankyou_alt                             Valeu
 PLAYER_CONFIRM_TM_negative                                 Negativo
@@ -1569,7 +1569,7 @@ PLAYER_CONFIRM_TM_negative_alt                             Negativo
 PLAYER_CONFIRM_TM_rogerthat                                Afirmativo
 PLAYER_CONFIRM_TM_rogerthat_alt                            Copiado
 PLAYER_CONFIRM_TM_sorry                                    Desculpa!
-PLAYER_CONFIRM_TM_sorry_alt                                Foi mal!
+PLAYER_CONFIRM_TM_sorry_alt                                Me desculpe!
 PLAYER_CONFIRM_TM_thankyou                                 Obrigado
 PLAYER_CONFIRM_TM_thankyou_alt                             Valeu
 PLAYER_REQUEST_C_getin                                     Entrar!
