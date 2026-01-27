@@ -67,7 +67,7 @@ If you require custom font support, please make a new thread in the [PR:BF2 Comm
 
 Contributors
 ---------------------
-* Chinese - [jerro1105](https://github.com/jerro1105)
+* Chinese - [jerro1105](https://github.com/jerro1105),[Wangrenze9788](https://github.com/Wangrenze9788)
 * Dutch - [[R-DEV]Mineral](https://github.com/WouterJansen)
 * English - [PR Team](https://github.com/realitymod)
 * French - [Grey-Echo](https://github.com/Grey-Echo)
